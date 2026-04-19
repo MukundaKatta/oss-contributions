@@ -15,6 +15,41 @@ Use this file to keep a simple running list of notable contributions.
 
 ## Recent Entries
 
+### 2026-04-19 — MukundaKatta/agentmem#1
+
+- Type: docs, package fix
+- Summary: aligned the README and package exports with the files that actually exist
+- Why it mattered: improved trustworthiness and fixed broken imports in the alpha package
+- Link: https://github.com/MukundaKatta/agentmem/pull/1
+
+### 2026-04-19 — MukundaKatta/rnht#76
+
+- Type: docs
+- Summary: sharpened the README framing to present the project as a real product case study
+- Why it mattered: makes the repo more compelling as a portfolio and visibility surface
+- Link: https://github.com/MukundaKatta/rnht/pull/76
+
+### 2026-04-19 — MukundaKatta/MCPForge#1
+
+- Type: docs
+- Summary: rewrote the README to position the project honestly as an early-stage MCP toolkit
+- Why it mattered: replaced placeholder copy with clearer direction and contribution framing
+- Link: https://github.com/MukundaKatta/MCPForge/pull/1
+
+### 2026-04-19 — MukundaKatta/karna#8
+
+- Type: docs
+- Summary: strengthened the top-level platform positioning and clarified core use cases
+- Why it mattered: makes the repo easier to understand quickly for profile visitors
+- Link: https://github.com/MukundaKatta/karna/pull/8
+
+### 2026-04-19 — MukundaKatta/AgentBench#1
+
+- Type: docs
+- Summary: reframed the README around practical agent evaluation and target users
+- Why it mattered: gives the repo a stronger niche signal around evals and reliability
+- Link: https://github.com/MukundaKatta/AgentBench/pull/1
+
 ### 2026-04-19 — stanford-crfm/helm#4210
 
 - Type: fix, test
