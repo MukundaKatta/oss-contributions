@@ -29,39 +29,43 @@ Most of my contributions are small, practical fixes spread across many repositor
 
 ### AI SDKs and Tooling
 
-- [OpenAI Node #1831](https://github.com/openai/openai-node/pull/1831): improved fallback handling for non-standard JSON error bodies
-- [OpenAI Tiktoken #529](https://github.com/openai/tiktoken/pull/529): added PyInstaller hooks for dynamic encoding plugins
-- [Google python-genai #2298](https://github.com/googleapis/python-genai/pull/2298): clarified `response_schema` vs `response_json_schema`
-- [Microsoft Playwright MCP #1562](https://github.com/microsoft/playwright-mcp/pull/1562): clarified extension connection and tab-selection flow
-- [Anthropic SDK Python #1412](https://github.com/anthropics/anthropic-sdk-python/pull/1412): fixed async memory tool example docs
+- [openai/openai-node #1831](https://github.com/openai/openai-node/pull/1831): improved fallback handling for non-standard JSON error bodies
+- [openai/tiktoken #529](https://github.com/openai/tiktoken/pull/529): added PyInstaller hooks for dynamic encoding plugins
+- [googleapis/python-genai #2298](https://github.com/googleapis/python-genai/pull/2298): clarified response_schema vs response_json_schema
+- [microsoft/playwright-mcp #1562](https://github.com/microsoft/playwright-mcp/pull/1562): clarified extension connection and tab-selection flow
+- [anthropics/anthropic-sdk-python #1412](https://github.com/anthropics/anthropic-sdk-python/pull/1412): fixed async memory tool example docs
 
 ### Research / University Ecosystem
 
-- [Stanford CRFM HELM #4210](https://github.com/stanford-crfm/helm/pull/4210): fixed later-page deep links for run instances
+- [stanford-crfm/helm #4210](https://github.com/stanford-crfm/helm/pull/4210): fixed later-page deep links for run instances
 
 ### Personal Repos Improved In Public
 
-- [MCPForge #1](https://github.com/MukundaKatta/MCPForge/pull/1): rewrote the README to position the project more honestly and clearly
-- [karna #8](https://github.com/MukundaKatta/karna/pull/8): sharpened the top-level product positioning and use cases
-- [AgentBench #1](https://github.com/MukundaKatta/AgentBench/pull/1): reframed the README around practical agent evaluation
-- [agentmem #1](https://github.com/MukundaKatta/agentmem/pull/1): aligned the README and exports with the current package surface
-- [rnht #76](https://github.com/MukundaKatta/rnht/pull/76): improved the README to present the project as a real product case study
+- [MukundaKatta/MCPForge #4](https://github.com/MukundaKatta/MCPForge/pull/4): added the first MCPForge CLI scaffold and smoke-test flow
+- [MukundaKatta/agentmem #4](https://github.com/MukundaKatta/agentmem/pull/4): added a SQLite backend plus tests and CI
+- [MukundaKatta/TokenWise #4](https://github.com/MukundaKatta/TokenWise/pull/4): added pricing catalog versioning and budget tracking
+- [MukundaKatta/AgentBench #4](https://github.com/MukundaKatta/AgentBench/pull/4): added async evaluation support and run artifacts
+- [MukundaKatta/rnht #79](https://github.com/MukundaKatta/rnht/pull/79): added local setup validation and admin approval workflow
+- [MukundaKatta/AgentRAG #4](https://github.com/MukundaKatta/AgentRAG/pull/4): scaffolded the core RAG interfaces and in-memory reference pipeline
 
 ## Contribution Log
 
 See [contributions.md](./contributions.md) for a running list of selected PRs.
 
-## What To Expect Here
+## Automation
 
-Over time, this repo will track:
+This repo now treats `data/selected_prs.json` as the curated source of truth for featured contributions, and `merged_prs.json` as the generated source for the recent merged PR log. Run:
 
-- notable merged PRs
-- recurring problem categories
-- patterns I see across AI SDKs and agent tooling
-- short notes on what made specific fixes useful or mergeable
+```bash
+python3 scripts/fetch_merged_prs.py   # requires GITHUB_TOKEN
+python3 scripts/generate_contributions.py
+```
+
+to refresh `README.md`, `contributions.md`, `highlights.json`, and `merged_prs.json`.
 
 ## Connect
 
 - GitHub: https://github.com/MukundaKatta
 - LinkedIn: https://www.linkedin.com/in/mukunda-katta-728155220/
 - X: https://x.com/katta_mukunda
+
