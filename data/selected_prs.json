@@ -1,0 +1,86 @@
+[
+  {
+    "area": "AI SDKs and Tooling",
+    "repo": "openai/openai-node",
+    "pr": 1831,
+    "title": "improved fallback handling for non-standard JSON error bodies",
+    "url": "https://github.com/openai/openai-node/pull/1831"
+  },
+  {
+    "area": "AI SDKs and Tooling",
+    "repo": "openai/tiktoken",
+    "pr": 529,
+    "title": "added PyInstaller hooks for dynamic encoding plugins",
+    "url": "https://github.com/openai/tiktoken/pull/529"
+  },
+  {
+    "area": "AI SDKs and Tooling",
+    "repo": "googleapis/python-genai",
+    "pr": 2298,
+    "title": "clarified response_schema vs response_json_schema",
+    "url": "https://github.com/googleapis/python-genai/pull/2298"
+  },
+  {
+    "area": "AI SDKs and Tooling",
+    "repo": "microsoft/playwright-mcp",
+    "pr": 1562,
+    "title": "clarified extension connection and tab-selection flow",
+    "url": "https://github.com/microsoft/playwright-mcp/pull/1562"
+  },
+  {
+    "area": "AI SDKs and Tooling",
+    "repo": "anthropics/anthropic-sdk-python",
+    "pr": 1412,
+    "title": "fixed async memory tool example docs",
+    "url": "https://github.com/anthropics/anthropic-sdk-python/pull/1412"
+  },
+  {
+    "area": "Research / University Ecosystem",
+    "repo": "stanford-crfm/helm",
+    "pr": 4210,
+    "title": "fixed later-page deep links for run instances",
+    "url": "https://github.com/stanford-crfm/helm/pull/4210"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/MCPForge",
+    "pr": 4,
+    "title": "added the first MCPForge CLI scaffold and smoke-test flow",
+    "url": "https://github.com/MukundaKatta/MCPForge/pull/4"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/agentmem",
+    "pr": 4,
+    "title": "added a SQLite backend plus tests and CI",
+    "url": "https://github.com/MukundaKatta/agentmem/pull/4"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/TokenWise",
+    "pr": 4,
+    "title": "added pricing catalog versioning and budget tracking",
+    "url": "https://github.com/MukundaKatta/TokenWise/pull/4"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/AgentBench",
+    "pr": 4,
+    "title": "added async evaluation support and run artifacts",
+    "url": "https://github.com/MukundaKatta/AgentBench/pull/4"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/rnht",
+    "pr": 79,
+    "title": "added local setup validation and admin approval workflow",
+    "url": "https://github.com/MukundaKatta/rnht/pull/79"
+  },
+  {
+    "area": "Personal Repos Improved In Public",
+    "repo": "MukundaKatta/AgentRAG",
+    "pr": 4,
+    "title": "scaffolded the core RAG interfaces and in-memory reference pipeline",
+    "url": "https://github.com/MukundaKatta/AgentRAG/pull/4"
+  }
+]
