@@ -1,0 +1,144 @@
+{
+  "recent_merged_prs": [
+    {
+      "repo": "apple/swift-configuration",
+      "number": 187,
+      "title": "docs: document metrics emitted by ReloadingFileProvider",
+      "url": "https://github.com/apple/swift-configuration/pull/187",
+      "updated_at": "2026-04-21T13:58:57Z"
+    },
+    {
+      "repo": "danielBingham/communities",
+      "number": 480,
+      "title": "fix(meta): 'Communties' -> 'Communities' in og/twitter site title",
+      "url": "https://github.com/danielBingham/communities/pull/480",
+      "updated_at": "2026-04-21T13:43:47Z"
+    },
+    {
+      "repo": "native-federation/angular-adapter",
+      "number": 34,
+      "title": "fix(schematics/init): restore shareAll() call shape in federation.config.js template",
+      "url": "https://github.com/native-federation/angular-adapter/pull/34",
+      "updated_at": "2026-04-21T12:53:48Z"
+    },
+    {
+      "repo": "biud436/stingerloom-orm",
+      "number": 267,
+      "title": "feat(nestjs): export correctly-spelled 'StingerloomOrmModule' / 'StingerloomOrmService' aliases",
+      "url": "https://github.com/biud436/stingerloom-orm/pull/267",
+      "updated_at": "2026-04-21T09:01:33Z"
+    },
+    {
+      "repo": "huggingface/sentence-transformers",
+      "number": 3734,
+      "title": "docs(SimCSE): migrate README example to SentenceTransformerTrainer",
+      "url": "https://github.com/huggingface/sentence-transformers/pull/3734",
+      "updated_at": "2026-04-21T08:48:06Z"
+    },
+    {
+      "repo": "libgit2/pygit2",
+      "number": 1460,
+      "title": "docs(repository.diff): fix docstring keyword 'flag' -> 'flags'",
+      "url": "https://github.com/libgit2/pygit2/pull/1460",
+      "updated_at": "2026-04-21T07:51:22Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 26,
+      "title": "fix(webrtc): surface rtc signaling errors",
+      "url": "https://github.com/MukundaKatta/karna/pull/26",
+      "updated_at": "2026-04-21T06:11:37Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 25,
+      "title": "Codex/karna mobile vad",
+      "url": "https://github.com/MukundaKatta/karna/pull/25",
+      "updated_at": "2026-04-21T05:06:24Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 24,
+      "title": "feat(web): persist live voice beta settings",
+      "url": "https://github.com/MukundaKatta/karna/pull/24",
+      "updated_at": "2026-04-21T02:24:24Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 23,
+      "title": "feat(mobile): add live voice beta settings",
+      "url": "https://github.com/MukundaKatta/karna/pull/23",
+      "updated_at": "2026-04-21T02:15:54Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 22,
+      "title": "feat(mobile): add live WebRTC voice controls",
+      "url": "https://github.com/MukundaKatta/karna/pull/22",
+      "updated_at": "2026-04-21T02:03:53Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 21,
+      "title": "feat(mobile): add WebRTC signaling session manager",
+      "url": "https://github.com/MukundaKatta/karna/pull/21",
+      "updated_at": "2026-04-21T02:01:02Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 20,
+      "title": "feat(web): wire live WebRTC voice overlay",
+      "url": "https://github.com/MukundaKatta/karna/pull/20",
+      "updated_at": "2026-04-21T01:52:44Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 19,
+      "title": "feat(web): add WebRTC voice session manager",
+      "url": "https://github.com/MukundaKatta/karna/pull/19",
+      "updated_at": "2026-04-21T01:44:15Z"
+    },
+    {
+      "repo": "cilium/cilium",
+      "number": 45384,
+      "title": "api: fix typo 'event occured' -> 'event occurred' in map_event",
+      "url": "https://github.com/cilium/cilium/pull/45384",
+      "updated_at": "2026-04-20T22:49:06Z"
+    },
+    {
+      "repo": "microsoft/physical-ai-toolchain",
+      "number": 506,
+      "title": "fix(ci): correct stale version comment for actions/create-github-app-token",
+      "url": "https://github.com/microsoft/physical-ai-toolchain/pull/506",
+      "updated_at": "2026-04-20T22:27:17Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 18,
+      "title": "feat(gateway): add WebRTC signaling relay",
+      "url": "https://github.com/MukundaKatta/karna/pull/18",
+      "updated_at": "2026-04-20T22:07:42Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 17,
+      "title": "feat(web): add continuous voice mode",
+      "url": "https://github.com/MukundaKatta/karna/pull/17",
+      "updated_at": "2026-04-20T22:00:11Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 16,
+      "title": "feat(mobile): support gateway voice chunk protocol",
+      "url": "https://github.com/MukundaKatta/karna/pull/16",
+      "updated_at": "2026-04-20T21:53:56Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 15,
+      "title": "feat(mobile): align voice client with gateway protocol",
+      "url": "https://github.com/MukundaKatta/karna/pull/15",
+      "updated_at": "2026-04-20T21:45:52Z"
+    }
+  ]
+}
