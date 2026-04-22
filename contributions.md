@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [apple/swift-configuration #187](https://github.com/apple/swift-configuration/pull/187): docs: document metrics emitted by ReloadingFileProvider
-- [danielBingham/communities #480](https://github.com/danielBingham/communities/pull/480): fix(meta): 'Communties' -> 'Communities' in og/twitter site title
-- [native-federation/angular-adapter #34](https://github.com/native-federation/angular-adapter/pull/34): fix(schematics/init): restore shareAll() call shape in federation.config.js template
-- [biud436/stingerloom-orm #267](https://github.com/biud436/stingerloom-orm/pull/267): feat(nestjs): export correctly-spelled 'StingerloomOrmModule' / 'StingerloomOrmService' aliases
-- [huggingface/sentence-transformers #3734](https://github.com/huggingface/sentence-transformers/pull/3734): docs(SimCSE): migrate README example to SentenceTransformerTrainer
-- [libgit2/pygit2 #1460](https://github.com/libgit2/pygit2/pull/1460): docs(repository.diff): fix docstring keyword 'flag' -> 'flags'
-- [MukundaKatta/karna #26](https://github.com/MukundaKatta/karna/pull/26): fix(webrtc): surface rtc signaling errors
-- [MukundaKatta/karna #25](https://github.com/MukundaKatta/karna/pull/25): Codex/karna mobile vad
-- [MukundaKatta/karna #24](https://github.com/MukundaKatta/karna/pull/24): feat(web): persist live voice beta settings
-- [MukundaKatta/karna #23](https://github.com/MukundaKatta/karna/pull/23): feat(mobile): add live voice beta settings
-- [MukundaKatta/karna #22](https://github.com/MukundaKatta/karna/pull/22): feat(mobile): add live WebRTC voice controls
-- [MukundaKatta/karna #21](https://github.com/MukundaKatta/karna/pull/21): feat(mobile): add WebRTC signaling session manager
-- [MukundaKatta/karna #20](https://github.com/MukundaKatta/karna/pull/20): feat(web): wire live WebRTC voice overlay
-- [MukundaKatta/karna #19](https://github.com/MukundaKatta/karna/pull/19): feat(web): add WebRTC voice session manager
-- [cilium/cilium #45384](https://github.com/cilium/cilium/pull/45384): api: fix typo 'event occured' -> 'event occurred' in map_event
-- [microsoft/physical-ai-toolchain #506](https://github.com/microsoft/physical-ai-toolchain/pull/506): fix(ci): correct stale version comment for actions/create-github-app-token
-- [MukundaKatta/karna #18](https://github.com/MukundaKatta/karna/pull/18): feat(gateway): add WebRTC signaling relay
-- [MukundaKatta/karna #17](https://github.com/MukundaKatta/karna/pull/17): feat(web): add continuous voice mode
-- [MukundaKatta/karna #16](https://github.com/MukundaKatta/karna/pull/16): feat(mobile): support gateway voice chunk protocol
-- [MukundaKatta/karna #15](https://github.com/MukundaKatta/karna/pull/15): feat(mobile): align voice client with gateway protocol
+- [k3b/intent-intercept #44](https://github.com/k3b/intent-intercept/pull/44): docs(changelogs): fix Jelly Bean release year (2002 -> 2012)
+- [nautobot/100-days-of-nautobot #74](https://github.com/nautobot/100-days-of-nautobot/pull/74): docs: fix Day 12 / 16 / 17 README typos
+- [meilisearch/heed #364](https://github.com/meilisearch/heed/pull/364): Opt heed crates into multi-target docs.rs builds
+- [FLAMEGPU/FLAMEGPU2 #1381](https://github.com/FLAMEGPU/FLAMEGPU2/pull/1381): docs(DependencyNode): fix 'HostFunctionDescriotion' -> 'HostFunctionDescription'
+- [safetensors/safetensors #753](https://github.com/safetensors/safetensors/pull/753): fix(python): make SafetensorError picklable
+- [Sagesheep/NarrativeEngine-P #2](https://github.com/Sagesheep/NarrativeEngine-P/pull/2): docs(readme): fix clone URL to /NarrativeEngine-P
+- [tri-onyx/tri-onyx #33](https://github.com/tri-onyx/tri-onyx/pull/33): docs(getting-started): fix clone URL -> github.com/tri-onyx/tri-onyx
+- [chadbyte/clay #329](https://github.com/chadbyte/clay/pull/329): fix(ui,sdk-bridge): 'codex --login' -> 'codex login' in loginCommand prompts
+- [xmldom/xmldom #1014](https://github.com/xmldom/xmldom/pull/1014): docs(changelog): fix 0.9.8 compare link direction (0.9.7...0.9.8)
+- [MukundaKatta/rnht #83](https://github.com/MukundaKatta/rnht/pull/83): Finally kill homepage hydration #425: HeroSlideshow <style>
+- [microsoft/physical-ai-toolchain #508](https://github.com/microsoft/physical-ai-toolchain/pull/508): docs: document dependency-pinning-artifacts directory purpose
+- [microsoft/physical-ai-toolchain #510](https://github.com/microsoft/physical-ai-toolchain/pull/510): fix(workflows): normalize validate.yaml placeholder env/compute values
+- [MukundaKatta/rnht #82](https://github.com/MukundaKatta/rnht/pull/82): Finish Zustand persist hydration fix: panchangam store
+- [MukundaKatta/rnht #81](https://github.com/MukundaKatta/rnht/pull/81): Fix homepage React hydration (#425/#422) from Zustand persist
+- [MukundaKatta/rnht #80](https://github.com/MukundaKatta/rnht/pull/80): Fix homepage hydration, duplicate panditji query, stale calendar/streaming data
+- [momenbasel/PureMac #36](https://github.com/momenbasel/PureMac/pull/36): feat: add Docker Cache cleaning category (#1)
+- [microsoft/physical-ai-toolchain #507](https://github.com/microsoft/physical-ai-toolchain/pull/507): fix(docs): update remaining stale 'Coming soon' labels in docs/README.md
+- [USACE-RMC/rfaR #21](https://github.com/USACE-RMC/rfaR/pull/21): docs(power_function): fix '@param x Highest power of 10 to us' -> 'to use'
+- [generative-computing/mellea #894](https://github.com/generative-computing/mellea/pull/894): docs: fix 'convienance' -> 'convenience' (5 occurrences)
+- [cisco-ai-defense/defenseclaw #129](https://github.com/cisco-ai-defense/defenseclaw/pull/129): docs(README): fix OpenClaw repo URL (nvidia/openclaw -> openclaw/openclaw)
