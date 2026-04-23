@@ -100,7 +100,6 @@ def main() -> None:
             }
         )
 
-    recent_lines: list[str] = []
     if MERGED_PRS_FILE.exists():
         merged = json.loads(MERGED_PRS_FILE.read_text()).get("recent_merged_prs", [])
         if merged:
@@ -110,12 +109,6 @@ def main() -> None:
                     f"- [{entry['repo']} #{entry['number']}]({entry['url']}): {entry['title']}"
                 )
             contribution_lines.append("")
-            recent_lines = [
-                "## Recent Merged PRs",
-                "",
-                "The contribution log below is refreshed from recent merged PR metadata when the sync workflow runs.",
-                "",
-            ]
 
     README_FILE.write_text(README_TEMPLATE.format(selected_sections="\n".join(section_lines).rstrip()) + "\n")
     CONTRIBUTIONS_FILE.write_text("\n".join(contribution_lines).rstrip() + "\n")
