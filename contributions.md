@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [k3b/intent-intercept #44](https://github.com/k3b/intent-intercept/pull/44): docs(changelogs): fix Jelly Bean release year (2002 -> 2012)
-- [nautobot/100-days-of-nautobot #74](https://github.com/nautobot/100-days-of-nautobot/pull/74): docs: fix Day 12 / 16 / 17 README typos
-- [meilisearch/heed #364](https://github.com/meilisearch/heed/pull/364): Opt heed crates into multi-target docs.rs builds
-- [FLAMEGPU/FLAMEGPU2 #1381](https://github.com/FLAMEGPU/FLAMEGPU2/pull/1381): docs(DependencyNode): fix 'HostFunctionDescriotion' -> 'HostFunctionDescription'
-- [safetensors/safetensors #753](https://github.com/safetensors/safetensors/pull/753): fix(python): make SafetensorError picklable
-- [Sagesheep/NarrativeEngine-P #2](https://github.com/Sagesheep/NarrativeEngine-P/pull/2): docs(readme): fix clone URL to /NarrativeEngine-P
-- [tri-onyx/tri-onyx #33](https://github.com/tri-onyx/tri-onyx/pull/33): docs(getting-started): fix clone URL -> github.com/tri-onyx/tri-onyx
-- [chadbyte/clay #329](https://github.com/chadbyte/clay/pull/329): fix(ui,sdk-bridge): 'codex --login' -> 'codex login' in loginCommand prompts
-- [xmldom/xmldom #1014](https://github.com/xmldom/xmldom/pull/1014): docs(changelog): fix 0.9.8 compare link direction (0.9.7...0.9.8)
-- [MukundaKatta/rnht #83](https://github.com/MukundaKatta/rnht/pull/83): Finally kill homepage hydration #425: HeroSlideshow <style>
-- [microsoft/physical-ai-toolchain #508](https://github.com/microsoft/physical-ai-toolchain/pull/508): docs: document dependency-pinning-artifacts directory purpose
-- [microsoft/physical-ai-toolchain #510](https://github.com/microsoft/physical-ai-toolchain/pull/510): fix(workflows): normalize validate.yaml placeholder env/compute values
-- [MukundaKatta/rnht #82](https://github.com/MukundaKatta/rnht/pull/82): Finish Zustand persist hydration fix: panchangam store
-- [MukundaKatta/rnht #81](https://github.com/MukundaKatta/rnht/pull/81): Fix homepage React hydration (#425/#422) from Zustand persist
-- [MukundaKatta/rnht #80](https://github.com/MukundaKatta/rnht/pull/80): Fix homepage hydration, duplicate panditji query, stale calendar/streaming data
-- [momenbasel/PureMac #36](https://github.com/momenbasel/PureMac/pull/36): feat: add Docker Cache cleaning category (#1)
-- [microsoft/physical-ai-toolchain #507](https://github.com/microsoft/physical-ai-toolchain/pull/507): fix(docs): update remaining stale 'Coming soon' labels in docs/README.md
-- [USACE-RMC/rfaR #21](https://github.com/USACE-RMC/rfaR/pull/21): docs(power_function): fix '@param x Highest power of 10 to us' -> 'to use'
-- [generative-computing/mellea #894](https://github.com/generative-computing/mellea/pull/894): docs: fix 'convienance' -> 'convenience' (5 occurrences)
-- [cisco-ai-defense/defenseclaw #129](https://github.com/cisco-ai-defense/defenseclaw/pull/129): docs(README): fix OpenClaw repo URL (nvidia/openclaw -> openclaw/openclaw)
+- [MukundaKatta/chetana #4](https://github.com/MukundaKatta/chetana/pull/4): Fix hardcoded test paths and incorrect README tech stack
+- [MukundaKatta/patchly #1](https://github.com/MukundaKatta/patchly/pull/1): feat: Next.js 15 v0 scaffold — landing preserved, /try diff review
+- [MukundaKatta/fluentpal #2](https://github.com/MukundaKatta/fluentpal/pull/2): feat: Next.js 15 v0 scaffold (landing preserved + /try voice scenario)
+- [MukundaKatta/pricematch #1](https://github.com/MukundaKatta/pricematch/pull/1): feat: Next.js 15 v0 scaffold
+- [MukundaKatta/cancely #1](https://github.com/MukundaKatta/cancely/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try subscription dashboard)
+- [MukundaKatta/breathly #1](https://github.com/MukundaKatta/breathly/pull/1): feat: Next.js 15 v0 scaffold (landing + /try breathing exercise)
+- [MukundaKatta/moontrack #1](https://github.com/MukundaKatta/moontrack/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try cycle tracker)
+- [MukundaKatta/codegarden #1](https://github.com/MukundaKatta/codegarden/pull/1): feat: Next.js 15 / TypeScript / Tailwind v4 skeleton
+- [MukundaKatta/platewise #1](https://github.com/MukundaKatta/platewise/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
+- [MukundaKatta/boxit #1](https://github.com/MukundaKatta/boxit/pull/1): feat: Next.js 15 v0 scaffold — landing preserved, /try receipt uploader
+- [MukundaKatta/mathkin #1](https://github.com/MukundaKatta/mathkin/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try math practice)
+- [MukundaKatta/astra-agent #7](https://github.com/MukundaKatta/astra-agent/pull/7): fix: session resume loses cache tokens; unknown tools auto-allow in DEFAULT mode
+- [MukundaKatta/readmate #1](https://github.com/MukundaKatta/readmate/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
+- [MukundaKatta/fridgechef #1](https://github.com/MukundaKatta/fridgechef/pull/1): scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton
+- [MukundaKatta/replynow #1](https://github.com/MukundaKatta/replynow/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try review-reply demo)
+- [MukundaKatta/quotebolt #1](https://github.com/MukundaKatta/quotebolt/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
+- [MukundaKatta/platemap #1](https://github.com/MukundaKatta/platemap/pull/1): feat: Next.js 15 v0 scaffold — landing + /try menu upload
+- [MukundaKatta/signoff #1](https://github.com/MukundaKatta/signoff/pull/1): feat: Next.js 15 v0 scaffold — landing + /try contract scanner
+- [MukundaKatta/feather #1](https://github.com/MukundaKatta/feather/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try kanban board)
+- [MukundaKatta/chartly #1](https://github.com/MukundaKatta/chartly/pull/1): scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton

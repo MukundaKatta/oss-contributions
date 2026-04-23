@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
-      "repo": "k3b/intent-intercept",
-      "number": 44,
-      "title": "docs(changelogs): fix Jelly Bean release year (2002 -> 2012)",
-      "url": "https://github.com/k3b/intent-intercept/pull/44",
-      "updated_at": "2026-04-22T13:34:08Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 4,
+      "title": "Fix hardcoded test paths and incorrect README tech stack",
+      "url": "https://github.com/MukundaKatta/chetana/pull/4",
+      "updated_at": "2026-04-23T14:56:59Z"
     },
     {
-      "repo": "nautobot/100-days-of-nautobot",
-      "number": 74,
-      "title": "docs: fix Day 12 / 16 / 17 README typos",
-      "url": "https://github.com/nautobot/100-days-of-nautobot/pull/74",
-      "updated_at": "2026-04-22T13:16:07Z"
+      "repo": "MukundaKatta/patchly",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold \u2014 landing preserved, /try diff review",
+      "url": "https://github.com/MukundaKatta/patchly/pull/1",
+      "updated_at": "2026-04-23T14:56:59Z"
     },
     {
-      "repo": "meilisearch/heed",
-      "number": 364,
-      "title": "Opt heed crates into multi-target docs.rs builds",
-      "url": "https://github.com/meilisearch/heed/pull/364",
-      "updated_at": "2026-04-22T13:15:12Z"
-    },
-    {
-      "repo": "FLAMEGPU/FLAMEGPU2",
-      "number": 1381,
-      "title": "docs(DependencyNode): fix 'HostFunctionDescriotion' -> 'HostFunctionDescription'",
-      "url": "https://github.com/FLAMEGPU/FLAMEGPU2/pull/1381",
-      "updated_at": "2026-04-22T11:29:08Z"
-    },
-    {
-      "repo": "safetensors/safetensors",
-      "number": 753,
-      "title": "fix(python): make SafetensorError picklable",
-      "url": "https://github.com/safetensors/safetensors/pull/753",
-      "updated_at": "2026-04-22T10:28:06Z"
-    },
-    {
-      "repo": "Sagesheep/NarrativeEngine-P",
+      "repo": "MukundaKatta/fluentpal",
       "number": 2,
-      "title": "docs(readme): fix clone URL to /NarrativeEngine-P",
-      "url": "https://github.com/Sagesheep/NarrativeEngine-P/pull/2",
-      "updated_at": "2026-04-22T09:34:17Z"
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try voice scenario)",
+      "url": "https://github.com/MukundaKatta/fluentpal/pull/2",
+      "updated_at": "2026-04-23T14:56:58Z"
     },
     {
-      "repo": "tri-onyx/tri-onyx",
-      "number": 33,
-      "title": "docs(getting-started): fix clone URL -> github.com/tri-onyx/tri-onyx",
-      "url": "https://github.com/tri-onyx/tri-onyx/pull/33",
-      "updated_at": "2026-04-22T06:34:50Z"
+      "repo": "MukundaKatta/pricematch",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold",
+      "url": "https://github.com/MukundaKatta/pricematch/pull/1",
+      "updated_at": "2026-04-23T14:56:58Z"
     },
     {
-      "repo": "chadbyte/clay",
-      "number": 329,
-      "title": "fix(ui,sdk-bridge): 'codex --login' -> 'codex login' in loginCommand prompts",
-      "url": "https://github.com/chadbyte/clay/pull/329",
-      "updated_at": "2026-04-22T06:12:25Z"
+      "repo": "MukundaKatta/cancely",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try subscription dashboard)",
+      "url": "https://github.com/MukundaKatta/cancely/pull/1",
+      "updated_at": "2026-04-23T14:56:58Z"
     },
     {
-      "repo": "xmldom/xmldom",
-      "number": 1014,
-      "title": "docs(changelog): fix 0.9.8 compare link direction (0.9.7...0.9.8)",
-      "url": "https://github.com/xmldom/xmldom/pull/1014",
-      "updated_at": "2026-04-22T05:48:29Z"
+      "repo": "MukundaKatta/breathly",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing + /try breathing exercise)",
+      "url": "https://github.com/MukundaKatta/breathly/pull/1",
+      "updated_at": "2026-04-23T14:56:56Z"
     },
     {
-      "repo": "MukundaKatta/rnht",
-      "number": 83,
-      "title": "Finally kill homepage hydration #425: HeroSlideshow <style>",
-      "url": "https://github.com/MukundaKatta/rnht/pull/83",
-      "updated_at": "2026-04-22T05:07:34Z"
+      "repo": "MukundaKatta/moontrack",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try cycle tracker)",
+      "url": "https://github.com/MukundaKatta/moontrack/pull/1",
+      "updated_at": "2026-04-23T14:56:56Z"
     },
     {
-      "repo": "microsoft/physical-ai-toolchain",
-      "number": 508,
-      "title": "docs: document dependency-pinning-artifacts directory purpose",
-      "url": "https://github.com/microsoft/physical-ai-toolchain/pull/508",
-      "updated_at": "2026-04-22T04:23:10Z"
+      "repo": "MukundaKatta/codegarden",
+      "number": 1,
+      "title": "feat: Next.js 15 / TypeScript / Tailwind v4 skeleton",
+      "url": "https://github.com/MukundaKatta/codegarden/pull/1",
+      "updated_at": "2026-04-23T14:56:55Z"
     },
     {
-      "repo": "microsoft/physical-ai-toolchain",
-      "number": 510,
-      "title": "fix(workflows): normalize validate.yaml placeholder env/compute values",
-      "url": "https://github.com/microsoft/physical-ai-toolchain/pull/510",
-      "updated_at": "2026-04-22T04:14:54Z"
+      "repo": "MukundaKatta/platewise",
+      "number": 1,
+      "title": "v0 scaffold: Next.js 15 / TypeScript / Tailwind v4",
+      "url": "https://github.com/MukundaKatta/platewise/pull/1",
+      "updated_at": "2026-04-23T14:56:55Z"
     },
     {
-      "repo": "MukundaKatta/rnht",
-      "number": 82,
-      "title": "Finish Zustand persist hydration fix: panchangam store",
-      "url": "https://github.com/MukundaKatta/rnht/pull/82",
-      "updated_at": "2026-04-22T02:41:59Z"
+      "repo": "MukundaKatta/boxit",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold \u2014 landing preserved, /try receipt uploader",
+      "url": "https://github.com/MukundaKatta/boxit/pull/1",
+      "updated_at": "2026-04-23T14:56:55Z"
     },
     {
-      "repo": "MukundaKatta/rnht",
-      "number": 81,
-      "title": "Fix homepage React hydration (#425/#422) from Zustand persist",
-      "url": "https://github.com/MukundaKatta/rnht/pull/81",
-      "updated_at": "2026-04-22T02:33:40Z"
+      "repo": "MukundaKatta/mathkin",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try math practice)",
+      "url": "https://github.com/MukundaKatta/mathkin/pull/1",
+      "updated_at": "2026-04-23T14:56:54Z"
     },
     {
-      "repo": "MukundaKatta/rnht",
-      "number": 80,
-      "title": "Fix homepage hydration, duplicate panditji query, stale calendar/streaming data",
-      "url": "https://github.com/MukundaKatta/rnht/pull/80",
-      "updated_at": "2026-04-22T01:48:27Z"
+      "repo": "MukundaKatta/astra-agent",
+      "number": 7,
+      "title": "fix: session resume loses cache tokens; unknown tools auto-allow in DEFAULT mode",
+      "url": "https://github.com/MukundaKatta/astra-agent/pull/7",
+      "updated_at": "2026-04-23T14:56:54Z"
     },
     {
-      "repo": "momenbasel/PureMac",
-      "number": 36,
-      "title": "feat: add Docker Cache cleaning category (#1)",
-      "url": "https://github.com/momenbasel/PureMac/pull/36",
-      "updated_at": "2026-04-22T00:23:37Z"
+      "repo": "MukundaKatta/readmate",
+      "number": 1,
+      "title": "v0 scaffold: Next.js 15 / TypeScript / Tailwind v4",
+      "url": "https://github.com/MukundaKatta/readmate/pull/1",
+      "updated_at": "2026-04-23T14:56:54Z"
     },
     {
-      "repo": "microsoft/physical-ai-toolchain",
-      "number": 507,
-      "title": "fix(docs): update remaining stale 'Coming soon' labels in docs/README.md",
-      "url": "https://github.com/microsoft/physical-ai-toolchain/pull/507",
-      "updated_at": "2026-04-21T23:38:36Z"
+      "repo": "MukundaKatta/fridgechef",
+      "number": 1,
+      "title": "scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton",
+      "url": "https://github.com/MukundaKatta/fridgechef/pull/1",
+      "updated_at": "2026-04-23T14:56:54Z"
     },
     {
-      "repo": "USACE-RMC/rfaR",
-      "number": 21,
-      "title": "docs(power_function): fix '@param x Highest power of 10 to us' -> 'to use'",
-      "url": "https://github.com/USACE-RMC/rfaR/pull/21",
-      "updated_at": "2026-04-21T21:24:49Z"
+      "repo": "MukundaKatta/replynow",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try review-reply demo)",
+      "url": "https://github.com/MukundaKatta/replynow/pull/1",
+      "updated_at": "2026-04-23T14:56:53Z"
     },
     {
-      "repo": "generative-computing/mellea",
-      "number": 894,
-      "title": "docs: fix 'convienance' -> 'convenience' (5 occurrences)",
-      "url": "https://github.com/generative-computing/mellea/pull/894",
-      "updated_at": "2026-04-21T21:12:36Z"
+      "repo": "MukundaKatta/quotebolt",
+      "number": 1,
+      "title": "v0 scaffold: Next.js 15 / TypeScript / Tailwind v4",
+      "url": "https://github.com/MukundaKatta/quotebolt/pull/1",
+      "updated_at": "2026-04-23T14:56:53Z"
     },
     {
-      "repo": "cisco-ai-defense/defenseclaw",
-      "number": 129,
-      "title": "docs(README): fix OpenClaw repo URL (nvidia/openclaw -> openclaw/openclaw)",
-      "url": "https://github.com/cisco-ai-defense/defenseclaw/pull/129",
-      "updated_at": "2026-04-21T20:47:33Z"
+      "repo": "MukundaKatta/platemap",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold \u2014 landing + /try menu upload",
+      "url": "https://github.com/MukundaKatta/platemap/pull/1",
+      "updated_at": "2026-04-23T14:56:53Z"
+    },
+    {
+      "repo": "MukundaKatta/signoff",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold \u2014 landing + /try contract scanner",
+      "url": "https://github.com/MukundaKatta/signoff/pull/1",
+      "updated_at": "2026-04-23T14:56:51Z"
+    },
+    {
+      "repo": "MukundaKatta/feather",
+      "number": 1,
+      "title": "feat: Next.js 15 v0 scaffold (landing preserved + /try kanban board)",
+      "url": "https://github.com/MukundaKatta/feather/pull/1",
+      "updated_at": "2026-04-23T14:56:51Z"
+    },
+    {
+      "repo": "MukundaKatta/chartly",
+      "number": 1,
+      "title": "scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton",
+      "url": "https://github.com/MukundaKatta/chartly/pull/1",
+      "updated_at": "2026-04-23T14:56:51Z"
     }
   ]
 }
