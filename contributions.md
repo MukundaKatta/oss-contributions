@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [MukundaKatta/chetana #4](https://github.com/MukundaKatta/chetana/pull/4): Fix hardcoded test paths and incorrect README tech stack
-- [MukundaKatta/patchly #1](https://github.com/MukundaKatta/patchly/pull/1): feat: Next.js 15 v0 scaffold — landing preserved, /try diff review
-- [MukundaKatta/fluentpal #2](https://github.com/MukundaKatta/fluentpal/pull/2): feat: Next.js 15 v0 scaffold (landing preserved + /try voice scenario)
-- [MukundaKatta/pricematch #1](https://github.com/MukundaKatta/pricematch/pull/1): feat: Next.js 15 v0 scaffold
-- [MukundaKatta/cancely #1](https://github.com/MukundaKatta/cancely/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try subscription dashboard)
-- [MukundaKatta/breathly #1](https://github.com/MukundaKatta/breathly/pull/1): feat: Next.js 15 v0 scaffold (landing + /try breathing exercise)
-- [MukundaKatta/moontrack #1](https://github.com/MukundaKatta/moontrack/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try cycle tracker)
-- [MukundaKatta/codegarden #1](https://github.com/MukundaKatta/codegarden/pull/1): feat: Next.js 15 / TypeScript / Tailwind v4 skeleton
-- [MukundaKatta/platewise #1](https://github.com/MukundaKatta/platewise/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
-- [MukundaKatta/boxit #1](https://github.com/MukundaKatta/boxit/pull/1): feat: Next.js 15 v0 scaffold — landing preserved, /try receipt uploader
-- [MukundaKatta/mathkin #1](https://github.com/MukundaKatta/mathkin/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try math practice)
-- [MukundaKatta/astra-agent #7](https://github.com/MukundaKatta/astra-agent/pull/7): fix: session resume loses cache tokens; unknown tools auto-allow in DEFAULT mode
-- [MukundaKatta/readmate #1](https://github.com/MukundaKatta/readmate/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
-- [MukundaKatta/fridgechef #1](https://github.com/MukundaKatta/fridgechef/pull/1): scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton
-- [MukundaKatta/replynow #1](https://github.com/MukundaKatta/replynow/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try review-reply demo)
-- [MukundaKatta/quotebolt #1](https://github.com/MukundaKatta/quotebolt/pull/1): v0 scaffold: Next.js 15 / TypeScript / Tailwind v4
-- [MukundaKatta/platemap #1](https://github.com/MukundaKatta/platemap/pull/1): feat: Next.js 15 v0 scaffold — landing + /try menu upload
-- [MukundaKatta/signoff #1](https://github.com/MukundaKatta/signoff/pull/1): feat: Next.js 15 v0 scaffold — landing + /try contract scanner
-- [MukundaKatta/feather #1](https://github.com/MukundaKatta/feather/pull/1): feat: Next.js 15 v0 scaffold (landing preserved + /try kanban board)
-- [MukundaKatta/chartly #1](https://github.com/MukundaKatta/chartly/pull/1): scaffold: Next.js 15 / TypeScript / Tailwind v4 skeleton
+- [RuleWorld/bionetgen #311](https://github.com/RuleWorld/bionetgen/pull/311): docs(run_network): fix header comment typo 'river' -> 'driver'
+- [langgenius/dify #35547](https://github.com/langgenius/dify/pull/35547): docs: fix Kubernetes deployment wording
+- [infiniflow/ragflow #14352](https://github.com/infiniflow/ragflow/pull/14352): docs: fix API key guide typo
+- [MukundaKatta/amogha-cafe #62](https://github.com/MukundaKatta/amogha-cafe/pull/62): fix: 3 bugs from deep mobile + ops simulation (R13)
+- [MukundaKatta/amogha-cafe #61](https://github.com/MukundaKatta/amogha-cafe/pull/61): fix(csp): allow OpenDyslexic font from cdnfonts.com
+- [MukundaKatta/amogha-cafe #60](https://github.com/MukundaKatta/amogha-cafe/pull/60): a11y: label every form input + select + date picker (89+22+11 fixes)
+- [MukundaKatta/amogha-cafe #59](https://github.com/MukundaKatta/amogha-cafe/pull/59): fix: order cache-control rules so immutable wins for hashed chunks
+- [MukundaKatta/eva-research #2](https://github.com/MukundaKatta/eva-research/pull/2): docs: Eva operator layer design doc
+- [MukundaKatta/amogha-cafe #58](https://github.com/MukundaKatta/amogha-cafe/pull/58): seo+cache: refresh sitemap + mark hashed chunks immutable
+- [MukundaKatta/amogha-cafe #57](https://github.com/MukundaKatta/amogha-cafe/pull/57): refactor: replace alert() with toast + harden /api fetch error paths
+- [MukundaKatta/amogha-cafe #56](https://github.com/MukundaKatta/amogha-cafe/pull/56): security: tighten Firestore rules for kiosks / heroSlides / menu
+- [MukundaKatta/amogha-cafe #55](https://github.com/MukundaKatta/amogha-cafe/pull/55): perf: defer hero slides + clean stale chunks + Firebase v10 alignment
+- [MukundaKatta/eva-research #1](https://github.com/MukundaKatta/eva-research/pull/1): feat: Eva v0 — auto-research loop bootstrap
+- [MukundaKatta/amogha-cafe #54](https://github.com/MukundaKatta/amogha-cafe/pull/54): fix: round 3 — five more bugs from comprehensive end-to-end audit
+- [MukundaKatta/fluentpal #3](https://github.com/MukundaKatta/fluentpal/pull/3): fix(meta): populate twitter card title and description
+- [MukundaKatta/cancely #2](https://github.com/MukundaKatta/cancely/pull/2): fix(meta): populate twitter card title and description
+- [MukundaKatta/patchly #2](https://github.com/MukundaKatta/patchly/pull/2): fix(meta): populate twitter card title and description
+- [MukundaKatta/oss-contributions #4](https://github.com/MukundaKatta/oss-contributions/pull/4): chore: expand .gitignore for Python artifacts
+- [MukundaKatta/amogha-cafe #53](https://github.com/MukundaKatta/amogha-cafe/pull/53): docs: clarify prepare-ios.mjs is shared by iOS and Android
+- [MukundaKatta/bustrack #16](https://github.com/MukundaKatta/bustrack/pull/16): docs: fix quickstart to use pnpm
