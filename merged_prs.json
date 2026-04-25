@@ -1,6 +1,76 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "dmachard/DNS-collector",
+      "number": 1203,
+      "title": "docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'",
+      "url": "https://github.com/dmachard/DNS-collector/pull/1203",
+      "updated_at": "2026-04-25T07:07:54Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 68,
+      "title": "fix(pos): screenOrientation fullSensor \u2014 rotate even when auto-rotate is OFF",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/68",
+      "updated_at": "2026-04-24T19:46:46Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 67,
+      "title": "fix(pos): unlock screen orientation \u2014 was hard-locked to landscape",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/67",
+      "updated_at": "2026-04-24T19:29:16Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 66,
+      "title": "ci: auto-fetch POS APK artifact before deploy so /pos-latest.apk survives",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/66",
+      "updated_at": "2026-04-24T18:29:21Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 65,
+      "title": "hosting: serve .apk with Android MIME for on-device POS install",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/65",
+      "updated_at": "2026-04-24T18:22:49Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 64,
+      "title": "fix(pos): granular login error messages + offline guard + 12s timeout",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/64",
+      "updated_at": "2026-04-24T17:57:27Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 63,
+      "title": "fix(pos): native app Connection error \u2014 CORS didn't allow capacitor://",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/63",
+      "updated_at": "2026-04-24T17:11:44Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 88,
+      "title": "fix(capacitor): add splash-screen + status-bar packages",
+      "url": "https://github.com/MukundaKatta/rnht/pull/88",
+      "updated_at": "2026-04-24T16:50:41Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 87,
+      "title": "test(api): webhook route tests for Stripe and PayPal",
+      "url": "https://github.com/MukundaKatta/rnht/pull/87",
+      "updated_at": "2026-04-24T16:33:13Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 86,
+      "title": "fix(android): restore scaffolding and scope *.xml gitignore",
+      "url": "https://github.com/MukundaKatta/rnht/pull/86",
+      "updated_at": "2026-04-24T16:24:37Z"
+    },
+    {
       "repo": "RuleWorld/bionetgen",
       "number": 311,
       "title": "docs(run_network): fix header comment typo 'river' -> 'driver'",
@@ -69,76 +139,6 @@
       "title": "refactor: replace alert() with toast + harden /api fetch error paths",
       "url": "https://github.com/MukundaKatta/amogha-cafe/pull/57",
       "updated_at": "2026-04-24T01:42:00Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 56,
-      "title": "security: tighten Firestore rules for kiosks / heroSlides / menu",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/56",
-      "updated_at": "2026-04-24T01:27:49Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 55,
-      "title": "perf: defer hero slides + clean stale chunks + Firebase v10 alignment",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/55",
-      "updated_at": "2026-04-24T01:10:06Z"
-    },
-    {
-      "repo": "MukundaKatta/eva-research",
-      "number": 1,
-      "title": "feat: Eva v0 \u2014 auto-research loop bootstrap",
-      "url": "https://github.com/MukundaKatta/eva-research/pull/1",
-      "updated_at": "2026-04-24T01:03:54Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 54,
-      "title": "fix: round 3 \u2014 five more bugs from comprehensive end-to-end audit",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/54",
-      "updated_at": "2026-04-23T23:37:53Z"
-    },
-    {
-      "repo": "MukundaKatta/fluentpal",
-      "number": 3,
-      "title": "fix(meta): populate twitter card title and description",
-      "url": "https://github.com/MukundaKatta/fluentpal/pull/3",
-      "updated_at": "2026-04-23T23:27:20Z"
-    },
-    {
-      "repo": "MukundaKatta/cancely",
-      "number": 2,
-      "title": "fix(meta): populate twitter card title and description",
-      "url": "https://github.com/MukundaKatta/cancely/pull/2",
-      "updated_at": "2026-04-23T23:23:20Z"
-    },
-    {
-      "repo": "MukundaKatta/patchly",
-      "number": 2,
-      "title": "fix(meta): populate twitter card title and description",
-      "url": "https://github.com/MukundaKatta/patchly/pull/2",
-      "updated_at": "2026-04-23T23:21:55Z"
-    },
-    {
-      "repo": "MukundaKatta/oss-contributions",
-      "number": 4,
-      "title": "chore: expand .gitignore for Python artifacts",
-      "url": "https://github.com/MukundaKatta/oss-contributions/pull/4",
-      "updated_at": "2026-04-23T23:04:57Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 53,
-      "title": "docs: clarify prepare-ios.mjs is shared by iOS and Android",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/53",
-      "updated_at": "2026-04-23T23:03:05Z"
-    },
-    {
-      "repo": "MukundaKatta/bustrack",
-      "number": 16,
-      "title": "docs: fix quickstart to use pnpm",
-      "url": "https://github.com/MukundaKatta/bustrack/pull/16",
-      "updated_at": "2026-04-23T23:00:47Z"
     }
   ]
 }

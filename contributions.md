@@ -25,6 +25,16 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [dmachard/DNS-collector #1203](https://github.com/dmachard/DNS-collector/pull/1203): docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'
+- [MukundaKatta/amogha-cafe #68](https://github.com/MukundaKatta/amogha-cafe/pull/68): fix(pos): screenOrientation fullSensor — rotate even when auto-rotate is OFF
+- [MukundaKatta/amogha-cafe #67](https://github.com/MukundaKatta/amogha-cafe/pull/67): fix(pos): unlock screen orientation — was hard-locked to landscape
+- [MukundaKatta/amogha-cafe #66](https://github.com/MukundaKatta/amogha-cafe/pull/66): ci: auto-fetch POS APK artifact before deploy so /pos-latest.apk survives
+- [MukundaKatta/amogha-cafe #65](https://github.com/MukundaKatta/amogha-cafe/pull/65): hosting: serve .apk with Android MIME for on-device POS install
+- [MukundaKatta/amogha-cafe #64](https://github.com/MukundaKatta/amogha-cafe/pull/64): fix(pos): granular login error messages + offline guard + 12s timeout
+- [MukundaKatta/amogha-cafe #63](https://github.com/MukundaKatta/amogha-cafe/pull/63): fix(pos): native app Connection error — CORS didn't allow capacitor://
+- [MukundaKatta/rnht #88](https://github.com/MukundaKatta/rnht/pull/88): fix(capacitor): add splash-screen + status-bar packages
+- [MukundaKatta/rnht #87](https://github.com/MukundaKatta/rnht/pull/87): test(api): webhook route tests for Stripe and PayPal
+- [MukundaKatta/rnht #86](https://github.com/MukundaKatta/rnht/pull/86): fix(android): restore scaffolding and scope *.xml gitignore
 - [RuleWorld/bionetgen #311](https://github.com/RuleWorld/bionetgen/pull/311): docs(run_network): fix header comment typo 'river' -> 'driver'
 - [langgenius/dify #35547](https://github.com/langgenius/dify/pull/35547): docs: fix Kubernetes deployment wording
 - [infiniflow/ragflow #14352](https://github.com/infiniflow/ragflow/pull/14352): docs: fix API key guide typo
@@ -35,13 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/eva-research #2](https://github.com/MukundaKatta/eva-research/pull/2): docs: Eva operator layer design doc
 - [MukundaKatta/amogha-cafe #58](https://github.com/MukundaKatta/amogha-cafe/pull/58): seo+cache: refresh sitemap + mark hashed chunks immutable
 - [MukundaKatta/amogha-cafe #57](https://github.com/MukundaKatta/amogha-cafe/pull/57): refactor: replace alert() with toast + harden /api fetch error paths
-- [MukundaKatta/amogha-cafe #56](https://github.com/MukundaKatta/amogha-cafe/pull/56): security: tighten Firestore rules for kiosks / heroSlides / menu
-- [MukundaKatta/amogha-cafe #55](https://github.com/MukundaKatta/amogha-cafe/pull/55): perf: defer hero slides + clean stale chunks + Firebase v10 alignment
-- [MukundaKatta/eva-research #1](https://github.com/MukundaKatta/eva-research/pull/1): feat: Eva v0 — auto-research loop bootstrap
-- [MukundaKatta/amogha-cafe #54](https://github.com/MukundaKatta/amogha-cafe/pull/54): fix: round 3 — five more bugs from comprehensive end-to-end audit
-- [MukundaKatta/fluentpal #3](https://github.com/MukundaKatta/fluentpal/pull/3): fix(meta): populate twitter card title and description
-- [MukundaKatta/cancely #2](https://github.com/MukundaKatta/cancely/pull/2): fix(meta): populate twitter card title and description
-- [MukundaKatta/patchly #2](https://github.com/MukundaKatta/patchly/pull/2): fix(meta): populate twitter card title and description
-- [MukundaKatta/oss-contributions #4](https://github.com/MukundaKatta/oss-contributions/pull/4): chore: expand .gitignore for Python artifacts
-- [MukundaKatta/amogha-cafe #53](https://github.com/MukundaKatta/amogha-cafe/pull/53): docs: clarify prepare-ios.mjs is shared by iOS and Android
-- [MukundaKatta/bustrack #16](https://github.com/MukundaKatta/bustrack/pull/16): docs: fix quickstart to use pnpm
