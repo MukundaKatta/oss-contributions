@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "mne-tools/mne-nirs",
+      "number": 683,
+      "title": "docs: swap red/green in Filter Neural Signal tutorial comment",
+      "url": "https://github.com/mne-tools/mne-nirs/pull/683",
+      "updated_at": "2026-04-26T00:11:57Z"
+    },
+    {
+      "repo": "PrefectHQ/fastmcp",
+      "number": 4001,
+      "title": "docs: add best practices for custom telemetry spans",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/4001",
+      "updated_at": "2026-04-25T15:43:32Z"
+    },
+    {
       "repo": "dmachard/DNS-collector",
       "number": 1203,
       "title": "docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'",
@@ -125,20 +139,6 @@
       "title": "docs: Eva operator layer design doc",
       "url": "https://github.com/MukundaKatta/eva-research/pull/2",
       "updated_at": "2026-04-24T01:49:25Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 58,
-      "title": "seo+cache: refresh sitemap + mark hashed chunks immutable",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/58",
-      "updated_at": "2026-04-24T01:49:23Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 57,
-      "title": "refactor: replace alert() with toast + harden /api fetch error paths",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/57",
-      "updated_at": "2026-04-24T01:42:00Z"
     }
   ]
 }

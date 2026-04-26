@@ -25,22 +25,6 @@ Most of my contributions are small, practical fixes spread across many repositor
 - agent tooling
 - docs and DX fixes that unblock users fast
 
-## Featured Flagship · streamparse
-
-A streaming JSON parser that yields **partial valid trees as tokens arrive**.
-Built for LLM tool calls, structured-output streams, and partial recovery.
-Shipped in lockstep across npm, PyPI, and MCP so libraries, Python apps, and
-AI assistants can all use it directly.
-
-| Channel | Repo | Package |
-|---|---|---|
-| npm + CLI | [streamparse](https://github.com/MukundaKatta/streamparse) | [@mukundakatta/streamparse](https://www.npmjs.com/package/@mukundakatta/streamparse) |
-| PyPI | [partial-json-stream](https://github.com/MukundaKatta/partial-json-stream) | [partial-json-stream](https://pypi.org/project/partial-json-stream/) |
-| MCP server | [streamparse-mcp](https://github.com/MukundaKatta/streamparse-mcp) | [@mukundakatta/streamparse-mcp](https://www.npmjs.com/package/@mukundakatta/streamparse-mcp) |
-| Homebrew | [homebrew-tools](https://github.com/MukundaKatta/homebrew-tools) | `brew install mukundakatta/tools/streamparse` |
-
-64 tests on the TypeScript core, 55 on the Python port, 4 end-to-end smoke tests on the MCP server. Zero deps everywhere.
-
 ## Selected Contributions
 
 ### AI SDKs and Tooling
