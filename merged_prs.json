@@ -1,6 +1,27 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "apache/druid",
+      "number": 19318,
+      "title": "fix: correct typo in SeekableStreamIndexTaskRunner log message",
+      "url": "https://github.com/apache/druid/pull/19318",
+      "updated_at": "2026-04-27T15:32:20Z"
+    },
+    {
+      "repo": "fossasia/badgemagic-firmware",
+      "number": 138,
+      "title": "docs(readme): fix debugging-section typos (DEUBG, debuging)",
+      "url": "https://github.com/fossasia/badgemagic-firmware/pull/138",
+      "updated_at": "2026-04-27T12:42:34Z"
+    },
+    {
+      "repo": "Azure/Azure-Sentinel",
+      "number": 14120,
+      "title": "docs: fix three 'Microsoft' typos across playbook READMEs",
+      "url": "https://github.com/Azure/Azure-Sentinel/pull/14120",
+      "updated_at": "2026-04-27T08:19:57Z"
+    },
+    {
       "repo": "mne-tools/mne-nirs",
       "number": 683,
       "title": "docs: swap red/green in Filter Neural Signal tutorial comment",
@@ -118,27 +139,6 @@
       "title": "fix(csp): allow OpenDyslexic font from cdnfonts.com",
       "url": "https://github.com/MukundaKatta/amogha-cafe/pull/61",
       "updated_at": "2026-04-24T02:11:49Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 60,
-      "title": "a11y: label every form input + select + date picker (89+22+11 fixes)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/60",
-      "updated_at": "2026-04-24T02:05:50Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 59,
-      "title": "fix: order cache-control rules so immutable wins for hashed chunks",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/59",
-      "updated_at": "2026-04-24T01:51:10Z"
-    },
-    {
-      "repo": "MukundaKatta/eva-research",
-      "number": 2,
-      "title": "docs: Eva operator layer design doc",
-      "url": "https://github.com/MukundaKatta/eva-research/pull/2",
-      "updated_at": "2026-04-24T01:49:25Z"
     }
   ]
 }

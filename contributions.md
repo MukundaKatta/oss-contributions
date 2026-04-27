@@ -25,6 +25,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [apache/druid #19318](https://github.com/apache/druid/pull/19318): fix: correct typo in SeekableStreamIndexTaskRunner log message
+- [fossasia/badgemagic-firmware #138](https://github.com/fossasia/badgemagic-firmware/pull/138): docs(readme): fix debugging-section typos (DEUBG, debuging)
+- [Azure/Azure-Sentinel #14120](https://github.com/Azure/Azure-Sentinel/pull/14120): docs: fix three 'Microsoft' typos across playbook READMEs
 - [mne-tools/mne-nirs #683](https://github.com/mne-tools/mne-nirs/pull/683): docs: swap red/green in Filter Neural Signal tutorial comment
 - [PrefectHQ/fastmcp #4001](https://github.com/PrefectHQ/fastmcp/pull/4001): docs: add best practices for custom telemetry spans
 - [dmachard/DNS-collector #1203](https://github.com/dmachard/DNS-collector/pull/1203): docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'
@@ -42,6 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [infiniflow/ragflow #14352](https://github.com/infiniflow/ragflow/pull/14352): docs: fix API key guide typo
 - [MukundaKatta/amogha-cafe #62](https://github.com/MukundaKatta/amogha-cafe/pull/62): fix: 3 bugs from deep mobile + ops simulation (R13)
 - [MukundaKatta/amogha-cafe #61](https://github.com/MukundaKatta/amogha-cafe/pull/61): fix(csp): allow OpenDyslexic font from cdnfonts.com
-- [MukundaKatta/amogha-cafe #60](https://github.com/MukundaKatta/amogha-cafe/pull/60): a11y: label every form input + select + date picker (89+22+11 fixes)
-- [MukundaKatta/amogha-cafe #59](https://github.com/MukundaKatta/amogha-cafe/pull/59): fix: order cache-control rules so immutable wins for hashed chunks
-- [MukundaKatta/eva-research #2](https://github.com/MukundaKatta/eva-research/pull/2): docs: Eva operator layer design doc
