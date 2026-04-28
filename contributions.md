@@ -6,21 +6,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 - [openai/openai-node #1831](https://github.com/openai/openai-node/pull/1831): improved fallback handling for non-standard JSON error bodies
 - [openai/tiktoken #529](https://github.com/openai/tiktoken/pull/529): added PyInstaller hooks for dynamic encoding plugins
-- [openai/tiktoken #535](https://github.com/openai/tiktoken/pull/535): use a static artifact name for the sdist build job in CI
 - [googleapis/python-genai #2298](https://github.com/googleapis/python-genai/pull/2298): clarified response_schema vs response_json_schema
 - [microsoft/playwright-mcp #1562](https://github.com/microsoft/playwright-mcp/pull/1562): clarified extension connection and tab-selection flow
 - [anthropics/anthropic-sdk-python #1412](https://github.com/anthropics/anthropic-sdk-python/pull/1412): fixed async memory tool example docs
-
-## Model Context Protocol
-
-- [modelcontextprotocol/typescript-sdk #1966](https://github.com/modelcontextprotocol/typescript-sdk/pull/1966): return tool input validation failures as Tool Execution Errors per SEP-1303
-- [modelcontextprotocol/typescript-sdk #1967](https://github.com/modelcontextprotocol/typescript-sdk/pull/1967): example for an external-auth Streamable-HTTP resource server
-- [modelcontextprotocol/typescript-sdk #1971](https://github.com/modelcontextprotocol/typescript-sdk/pull/1971): handle ZodObject in `RegisteredTool.update`
-- [modelcontextprotocol/typescript-sdk #1972](https://github.com/modelcontextprotocol/typescript-sdk/pull/1972): preserve resource URI without trailing slash in auth flow
-- [modelcontextprotocol/python-sdk #2515](https://github.com/modelcontextprotocol/python-sdk/pull/2515): document FastMCP server instructions
-- [modelcontextprotocol/python-sdk #2516](https://github.com/modelcontextprotocol/python-sdk/pull/2516): document env vars for MCP dev mode
-- [modelcontextprotocol/registry #1208](https://github.com/modelcontextprotocol/registry/pull/1208): display package icons in the server list
-- [modelcontextprotocol/registry #1209](https://github.com/modelcontextprotocol/registry/pull/1209): add Maven Central package source for JVM MCP servers
 
 ## Research / University Ecosystem
 
@@ -37,6 +25,11 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [getsentry/XcodeBuildMCP #350](https://github.com/getsentry/XcodeBuildMCP/pull/350): fix(device): stop suggesting unsupported --device-id
+- [supabase/supabase-js #2269](https://github.com/supabase/supabase-js/pull/2269): docs(auth): surface global-scope warning on signOut JSDoc
+- [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
+- [unjs/unimport #529](https://github.com/unjs/unimport/pull/529): fix(toExports): dedupe duplicate identifiers for class/enum declarations
+- [googleapis/python-genai #2345](https://github.com/googleapis/python-genai/pull/2345): fix(retry): retry on httpx.TimeoutException with HttpRetryOptions
 - [apache/druid #19318](https://github.com/apache/druid/pull/19318): fix: correct typo in SeekableStreamIndexTaskRunner log message
 - [fossasia/badgemagic-firmware #138](https://github.com/fossasia/badgemagic-firmware/pull/138): docs(readme): fix debugging-section typos (DEUBG, debuging)
 - [Azure/Azure-Sentinel #14120](https://github.com/Azure/Azure-Sentinel/pull/14120): docs: fix three 'Microsoft' typos across playbook READMEs
@@ -52,8 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/rnht #88](https://github.com/MukundaKatta/rnht/pull/88): fix(capacitor): add splash-screen + status-bar packages
 - [MukundaKatta/rnht #87](https://github.com/MukundaKatta/rnht/pull/87): test(api): webhook route tests for Stripe and PayPal
 - [MukundaKatta/rnht #86](https://github.com/MukundaKatta/rnht/pull/86): fix(android): restore scaffolding and scope *.xml gitignore
-- [RuleWorld/bionetgen #311](https://github.com/RuleWorld/bionetgen/pull/311): docs(run_network): fix header comment typo 'river' -> 'driver'
-- [langgenius/dify #35547](https://github.com/langgenius/dify/pull/35547): docs: fix Kubernetes deployment wording
-- [infiniflow/ragflow #14352](https://github.com/infiniflow/ragflow/pull/14352): docs: fix API key guide typo
-- [MukundaKatta/amogha-cafe #62](https://github.com/MukundaKatta/amogha-cafe/pull/62): fix: 3 bugs from deep mobile + ops simulation (R13)
-- [MukundaKatta/amogha-cafe #61](https://github.com/MukundaKatta/amogha-cafe/pull/61): fix(csp): allow OpenDyslexic font from cdnfonts.com

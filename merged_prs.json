@@ -1,6 +1,41 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "getsentry/XcodeBuildMCP",
+      "number": 350,
+      "title": "fix(device): stop suggesting unsupported --device-id",
+      "url": "https://github.com/getsentry/XcodeBuildMCP/pull/350",
+      "updated_at": "2026-04-28T15:09:38Z"
+    },
+    {
+      "repo": "supabase/supabase-js",
+      "number": 2269,
+      "title": "docs(auth): surface global-scope warning on signOut JSDoc",
+      "url": "https://github.com/supabase/supabase-js/pull/2269",
+      "updated_at": "2026-04-28T11:10:33Z"
+    },
+    {
+      "repo": "cloudflare/cloudflare-docs",
+      "number": 30210,
+      "title": "docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section",
+      "url": "https://github.com/cloudflare/cloudflare-docs/pull/30210",
+      "updated_at": "2026-04-28T09:40:27Z"
+    },
+    {
+      "repo": "unjs/unimport",
+      "number": 529,
+      "title": "fix(toExports): dedupe duplicate identifiers for class/enum declarations",
+      "url": "https://github.com/unjs/unimport/pull/529",
+      "updated_at": "2026-04-28T01:28:57Z"
+    },
+    {
+      "repo": "googleapis/python-genai",
+      "number": 2345,
+      "title": "fix(retry): retry on httpx.TimeoutException with HttpRetryOptions",
+      "url": "https://github.com/googleapis/python-genai/pull/2345",
+      "updated_at": "2026-04-27T23:59:56Z"
+    },
+    {
       "repo": "apache/druid",
       "number": 19318,
       "title": "fix: correct typo in SeekableStreamIndexTaskRunner log message",
@@ -104,41 +139,6 @@
       "title": "fix(android): restore scaffolding and scope *.xml gitignore",
       "url": "https://github.com/MukundaKatta/rnht/pull/86",
       "updated_at": "2026-04-24T16:24:37Z"
-    },
-    {
-      "repo": "RuleWorld/bionetgen",
-      "number": 311,
-      "title": "docs(run_network): fix header comment typo 'river' -> 'driver'",
-      "url": "https://github.com/RuleWorld/bionetgen/pull/311",
-      "updated_at": "2026-04-24T13:26:54Z"
-    },
-    {
-      "repo": "langgenius/dify",
-      "number": 35547,
-      "title": "docs: fix Kubernetes deployment wording",
-      "url": "https://github.com/langgenius/dify/pull/35547",
-      "updated_at": "2026-04-24T09:59:05Z"
-    },
-    {
-      "repo": "infiniflow/ragflow",
-      "number": 14352,
-      "title": "docs: fix API key guide typo",
-      "url": "https://github.com/infiniflow/ragflow/pull/14352",
-      "updated_at": "2026-04-24T08:59:26Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 62,
-      "title": "fix: 3 bugs from deep mobile + ops simulation (R13)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/62",
-      "updated_at": "2026-04-24T04:27:26Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 61,
-      "title": "fix(csp): allow OpenDyslexic font from cdnfonts.com",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/61",
-      "updated_at": "2026-04-24T02:11:49Z"
     }
   ]
 }
