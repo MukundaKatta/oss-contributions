@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [open-telemetry/opentelemetry-python #5149](https://github.com/open-telemetry/opentelemetry-python/pull/5149): fix(ci): stabilize tracecontext job
+- [googleapis/google-cloud-python #16808](https://github.com/googleapis/google-cloud-python/pull/16808): ci: add pylint presubmit on golden files (closes #16393)
 - [getsentry/XcodeBuildMCP #350](https://github.com/getsentry/XcodeBuildMCP/pull/350): fix(device): stop suggesting unsupported --device-id
 - [supabase/supabase-js #2269](https://github.com/supabase/supabase-js/pull/2269): docs(auth): surface global-scope warning on signOut JSDoc
 - [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/amogha-cafe #64](https://github.com/MukundaKatta/amogha-cafe/pull/64): fix(pos): granular login error messages + offline guard + 12s timeout
 - [MukundaKatta/amogha-cafe #63](https://github.com/MukundaKatta/amogha-cafe/pull/63): fix(pos): native app Connection error — CORS didn't allow capacitor://
 - [MukundaKatta/rnht #88](https://github.com/MukundaKatta/rnht/pull/88): fix(capacitor): add splash-screen + status-bar packages
-- [MukundaKatta/rnht #87](https://github.com/MukundaKatta/rnht/pull/87): test(api): webhook route tests for Stripe and PayPal
-- [MukundaKatta/rnht #86](https://github.com/MukundaKatta/rnht/pull/86): fix(android): restore scaffolding and scope *.xml gitignore

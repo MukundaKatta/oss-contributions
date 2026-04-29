@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "open-telemetry/opentelemetry-python",
+      "number": 5149,
+      "title": "fix(ci): stabilize tracecontext job",
+      "url": "https://github.com/open-telemetry/opentelemetry-python/pull/5149",
+      "updated_at": "2026-04-29T12:34:37Z"
+    },
+    {
+      "repo": "googleapis/google-cloud-python",
+      "number": 16808,
+      "title": "ci: add pylint presubmit on golden files (closes #16393)",
+      "url": "https://github.com/googleapis/google-cloud-python/pull/16808",
+      "updated_at": "2026-04-28T19:11:19Z"
+    },
+    {
       "repo": "getsentry/XcodeBuildMCP",
       "number": 350,
       "title": "fix(device): stop suggesting unsupported --device-id",
@@ -125,20 +139,6 @@
       "title": "fix(capacitor): add splash-screen + status-bar packages",
       "url": "https://github.com/MukundaKatta/rnht/pull/88",
       "updated_at": "2026-04-24T16:50:41Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 87,
-      "title": "test(api): webhook route tests for Stripe and PayPal",
-      "url": "https://github.com/MukundaKatta/rnht/pull/87",
-      "updated_at": "2026-04-24T16:33:13Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 86,
-      "title": "fix(android): restore scaffolding and scope *.xml gitignore",
-      "url": "https://github.com/MukundaKatta/rnht/pull/86",
-      "updated_at": "2026-04-24T16:24:37Z"
     }
   ]
 }
