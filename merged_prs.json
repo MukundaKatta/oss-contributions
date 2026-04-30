@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "vercel/next.js",
+      "number": 92809,
+      "title": "docs: add documentation for no-typos ESLint rule",
+      "url": "https://github.com/vercel/next.js/pull/92809",
+      "updated_at": "2026-04-30T00:38:16Z"
+    },
+    {
       "repo": "open-telemetry/opentelemetry-python",
       "number": 5149,
       "title": "fix(ci): stabilize tracecontext job",
@@ -132,13 +139,6 @@
       "title": "fix(pos): native app Connection error \u2014 CORS didn't allow capacitor://",
       "url": "https://github.com/MukundaKatta/amogha-cafe/pull/63",
       "updated_at": "2026-04-24T17:11:44Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 88,
-      "title": "fix(capacitor): add splash-screen + status-bar packages",
-      "url": "https://github.com/MukundaKatta/rnht/pull/88",
-      "updated_at": "2026-04-24T16:50:41Z"
     }
   ]
 }

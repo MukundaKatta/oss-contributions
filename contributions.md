@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [vercel/next.js #92809](https://github.com/vercel/next.js/pull/92809): docs: add documentation for no-typos ESLint rule
 - [open-telemetry/opentelemetry-python #5149](https://github.com/open-telemetry/opentelemetry-python/pull/5149): fix(ci): stabilize tracecontext job
 - [googleapis/google-cloud-python #16808](https://github.com/googleapis/google-cloud-python/pull/16808): ci: add pylint presubmit on golden files (closes #16393)
 - [getsentry/XcodeBuildMCP #350](https://github.com/getsentry/XcodeBuildMCP/pull/350): fix(device): stop suggesting unsupported --device-id
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/amogha-cafe #65](https://github.com/MukundaKatta/amogha-cafe/pull/65): hosting: serve .apk with Android MIME for on-device POS install
 - [MukundaKatta/amogha-cafe #64](https://github.com/MukundaKatta/amogha-cafe/pull/64): fix(pos): granular login error messages + offline guard + 12s timeout
 - [MukundaKatta/amogha-cafe #63](https://github.com/MukundaKatta/amogha-cafe/pull/63): fix(pos): native app Connection error — CORS didn't allow capacitor://
-- [MukundaKatta/rnht #88](https://github.com/MukundaKatta/rnht/pull/88): fix(capacitor): add splash-screen + status-bar packages
