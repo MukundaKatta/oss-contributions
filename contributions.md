@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
+- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
 - [vercel/next.js #92809](https://github.com/vercel/next.js/pull/92809): docs: add documentation for no-typos ESLint rule
 - [open-telemetry/opentelemetry-python #5149](https://github.com/open-telemetry/opentelemetry-python/pull/5149): fix(ci): stabilize tracecontext job
 - [googleapis/google-cloud-python #16808](https://github.com/googleapis/google-cloud-python/pull/16808): ci: add pylint presubmit on golden files (closes #16393)
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/amogha-cafe #67](https://github.com/MukundaKatta/amogha-cafe/pull/67): fix(pos): unlock screen orientation — was hard-locked to landscape
 - [MukundaKatta/amogha-cafe #66](https://github.com/MukundaKatta/amogha-cafe/pull/66): ci: auto-fetch POS APK artifact before deploy so /pos-latest.apk survives
 - [MukundaKatta/amogha-cafe #65](https://github.com/MukundaKatta/amogha-cafe/pull/65): hosting: serve .apk with Android MIME for on-device POS install
-- [MukundaKatta/amogha-cafe #64](https://github.com/MukundaKatta/amogha-cafe/pull/64): fix(pos): granular login error messages + offline guard + 12s timeout
-- [MukundaKatta/amogha-cafe #63](https://github.com/MukundaKatta/amogha-cafe/pull/63): fix(pos): native app Connection error — CORS didn't allow capacitor://

@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "apache/iggy",
+      "number": 3179,
+      "title": "fix(connectors): reject duplicate iggy_sink_open and iggy_source_open",
+      "url": "https://github.com/apache/iggy/pull/3179",
+      "updated_at": "2026-05-01T12:29:59Z"
+    },
+    {
+      "repo": "FirebaseExtended/action-hosting-deploy",
+      "number": 450,
+      "title": "chore: bump action runtime to Node 24 (fixes #448)",
+      "url": "https://github.com/FirebaseExtended/action-hosting-deploy/pull/450",
+      "updated_at": "2026-04-30T19:53:01Z"
+    },
+    {
       "repo": "vercel/next.js",
       "number": 92809,
       "title": "docs: add documentation for no-typos ESLint rule",
@@ -125,20 +139,6 @@
       "title": "hosting: serve .apk with Android MIME for on-device POS install",
       "url": "https://github.com/MukundaKatta/amogha-cafe/pull/65",
       "updated_at": "2026-04-24T18:22:49Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 64,
-      "title": "fix(pos): granular login error messages + offline guard + 12s timeout",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/64",
-      "updated_at": "2026-04-24T17:57:27Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 63,
-      "title": "fix(pos): native app Connection error \u2014 CORS didn't allow capacitor://",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/63",
-      "updated_at": "2026-04-24T17:11:44Z"
     }
   ]
 }
