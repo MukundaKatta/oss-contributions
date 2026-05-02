@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [meilisearch/heed #368](https://github.com/meilisearch/heed/pull/368): Add put_reserved_with_flags to Database
+- [microsoft/agent-governance-toolkit #1669](https://github.com/microsoft/agent-governance-toolkit/pull/1669): docs: add TypeScript policy evaluation example
+- [microsoft/agent-governance-toolkit #1670](https://github.com/microsoft/agent-governance-toolkit/pull/1670): docs: fix Agent SRE PyPI link
+- [microsoft/agent-governance-toolkit #1671](https://github.com/microsoft/agent-governance-toolkit/pull/1671): docs: add AgentMesh quick start
+- [microsoft/agent-governance-toolkit #1672](https://github.com/microsoft/agent-governance-toolkit/pull/1672): docs: add MCP Trust Server getting started
+- [microsoft/agent-governance-toolkit #1673](https://github.com/microsoft/agent-governance-toolkit/pull/1673): docs: add Rust contributor commands
+- [microsoft/agent-governance-toolkit #1674](https://github.com/microsoft/agent-governance-toolkit/pull/1674): docs: add i18n contribution guide
+- [microsoft/agent-governance-toolkit #1681](https://github.com/microsoft/agent-governance-toolkit/pull/1681): docs: fix TypeScript README encoding
+- [microsoft/agent-governance-toolkit #1682](https://github.com/microsoft/agent-governance-toolkit/pull/1682): docs: add TypeScript README badges
+- [microsoft/agent-governance-toolkit #1683](https://github.com/microsoft/agent-governance-toolkit/pull/1683): docs: add Go README badges and install check
+- [microsoft/agent-governance-toolkit #1685](https://github.com/microsoft/agent-governance-toolkit/pull/1685): docs: add Rust README badges
+- [microsoft/agent-governance-toolkit #1686](https://github.com/microsoft/agent-governance-toolkit/pull/1686): Add Go HTTP governance middleware tests
+- [microsoft/agent-governance-toolkit #1687](https://github.com/microsoft/agent-governance-toolkit/pull/1687): Add TypeScript core governance tests
+- [microsoft/agent-governance-toolkit #1688](https://github.com/microsoft/agent-governance-toolkit/pull/1688): Add Rust core governance tests
+- [microsoft/agent-governance-toolkit #1689](https://github.com/microsoft/agent-governance-toolkit/pull/1689): Add Python package import smoke tests
 - [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
 - [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
 - [vercel/next.js #92809](https://github.com/vercel/next.js/pull/92809): docs: add documentation for no-typos ESLint rule
 - [open-telemetry/opentelemetry-python #5149](https://github.com/open-telemetry/opentelemetry-python/pull/5149): fix(ci): stabilize tracecontext job
 - [googleapis/google-cloud-python #16808](https://github.com/googleapis/google-cloud-python/pull/16808): ci: add pylint presubmit on golden files (closes #16393)
-- [getsentry/XcodeBuildMCP #350](https://github.com/getsentry/XcodeBuildMCP/pull/350): fix(device): stop suggesting unsupported --device-id
-- [supabase/supabase-js #2269](https://github.com/supabase/supabase-js/pull/2269): docs(auth): surface global-scope warning on signOut JSDoc
-- [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
-- [unjs/unimport #529](https://github.com/unjs/unimport/pull/529): fix(toExports): dedupe duplicate identifiers for class/enum declarations
-- [googleapis/python-genai #2345](https://github.com/googleapis/python-genai/pull/2345): fix(retry): retry on httpx.TimeoutException with HttpRetryOptions
-- [apache/druid #19318](https://github.com/apache/druid/pull/19318): fix: correct typo in SeekableStreamIndexTaskRunner log message
-- [fossasia/badgemagic-firmware #138](https://github.com/fossasia/badgemagic-firmware/pull/138): docs(readme): fix debugging-section typos (DEUBG, debuging)
-- [Azure/Azure-Sentinel #14120](https://github.com/Azure/Azure-Sentinel/pull/14120): docs: fix three 'Microsoft' typos across playbook READMEs
-- [mne-tools/mne-nirs #683](https://github.com/mne-tools/mne-nirs/pull/683): docs: swap red/green in Filter Neural Signal tutorial comment
-- [PrefectHQ/fastmcp #4001](https://github.com/PrefectHQ/fastmcp/pull/4001): docs: add best practices for custom telemetry spans
-- [dmachard/DNS-collector #1203](https://github.com/dmachard/DNS-collector/pull/1203): docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'
-- [MukundaKatta/amogha-cafe #68](https://github.com/MukundaKatta/amogha-cafe/pull/68): fix(pos): screenOrientation fullSensor — rotate even when auto-rotate is OFF
-- [MukundaKatta/amogha-cafe #67](https://github.com/MukundaKatta/amogha-cafe/pull/67): fix(pos): unlock screen orientation — was hard-locked to landscape
-- [MukundaKatta/amogha-cafe #66](https://github.com/MukundaKatta/amogha-cafe/pull/66): ci: auto-fetch POS APK artifact before deploy so /pos-latest.apk survives
-- [MukundaKatta/amogha-cafe #65](https://github.com/MukundaKatta/amogha-cafe/pull/65): hosting: serve .apk with Android MIME for on-device POS install

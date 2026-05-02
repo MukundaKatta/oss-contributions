@@ -1,6 +1,111 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "meilisearch/heed",
+      "number": 368,
+      "title": "Add put_reserved_with_flags to Database",
+      "url": "https://github.com/meilisearch/heed/pull/368",
+      "updated_at": "2026-05-02T14:04:16Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1669,
+      "title": "docs: add TypeScript policy evaluation example",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1669",
+      "updated_at": "2026-05-01T16:16:20Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1670,
+      "title": "docs: fix Agent SRE PyPI link",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1670",
+      "updated_at": "2026-05-01T16:16:15Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1671,
+      "title": "docs: add AgentMesh quick start",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1671",
+      "updated_at": "2026-05-01T16:16:09Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1672,
+      "title": "docs: add MCP Trust Server getting started",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1672",
+      "updated_at": "2026-05-01T16:16:03Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1673,
+      "title": "docs: add Rust contributor commands",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1673",
+      "updated_at": "2026-05-01T16:15:58Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1674,
+      "title": "docs: add i18n contribution guide",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1674",
+      "updated_at": "2026-05-01T16:15:53Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1681,
+      "title": "docs: fix TypeScript README encoding",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1681",
+      "updated_at": "2026-05-01T16:15:44Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1682,
+      "title": "docs: add TypeScript README badges",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1682",
+      "updated_at": "2026-05-01T16:15:39Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1683,
+      "title": "docs: add Go README badges and install check",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1683",
+      "updated_at": "2026-05-01T16:15:35Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1685,
+      "title": "docs: add Rust README badges",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1685",
+      "updated_at": "2026-05-01T16:15:29Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1686,
+      "title": "Add Go HTTP governance middleware tests",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1686",
+      "updated_at": "2026-05-01T16:15:24Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1687,
+      "title": "Add TypeScript core governance tests",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1687",
+      "updated_at": "2026-05-01T16:15:19Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1688,
+      "title": "Add Rust core governance tests",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1688",
+      "updated_at": "2026-05-01T16:15:15Z"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "number": 1689,
+      "title": "Add Python package import smoke tests",
+      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1689",
+      "updated_at": "2026-05-01T16:15:10Z"
+    },
+    {
       "repo": "apache/iggy",
       "number": 3179,
       "title": "fix(connectors): reject duplicate iggy_sink_open and iggy_source_open",
@@ -34,111 +139,6 @@
       "title": "ci: add pylint presubmit on golden files (closes #16393)",
       "url": "https://github.com/googleapis/google-cloud-python/pull/16808",
       "updated_at": "2026-04-28T19:11:19Z"
-    },
-    {
-      "repo": "getsentry/XcodeBuildMCP",
-      "number": 350,
-      "title": "fix(device): stop suggesting unsupported --device-id",
-      "url": "https://github.com/getsentry/XcodeBuildMCP/pull/350",
-      "updated_at": "2026-04-28T15:09:38Z"
-    },
-    {
-      "repo": "supabase/supabase-js",
-      "number": 2269,
-      "title": "docs(auth): surface global-scope warning on signOut JSDoc",
-      "url": "https://github.com/supabase/supabase-js/pull/2269",
-      "updated_at": "2026-04-28T11:10:33Z"
-    },
-    {
-      "repo": "cloudflare/cloudflare-docs",
-      "number": 30210,
-      "title": "docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section",
-      "url": "https://github.com/cloudflare/cloudflare-docs/pull/30210",
-      "updated_at": "2026-04-28T09:40:27Z"
-    },
-    {
-      "repo": "unjs/unimport",
-      "number": 529,
-      "title": "fix(toExports): dedupe duplicate identifiers for class/enum declarations",
-      "url": "https://github.com/unjs/unimport/pull/529",
-      "updated_at": "2026-04-28T01:28:57Z"
-    },
-    {
-      "repo": "googleapis/python-genai",
-      "number": 2345,
-      "title": "fix(retry): retry on httpx.TimeoutException with HttpRetryOptions",
-      "url": "https://github.com/googleapis/python-genai/pull/2345",
-      "updated_at": "2026-04-27T23:59:56Z"
-    },
-    {
-      "repo": "apache/druid",
-      "number": 19318,
-      "title": "fix: correct typo in SeekableStreamIndexTaskRunner log message",
-      "url": "https://github.com/apache/druid/pull/19318",
-      "updated_at": "2026-04-27T15:32:20Z"
-    },
-    {
-      "repo": "fossasia/badgemagic-firmware",
-      "number": 138,
-      "title": "docs(readme): fix debugging-section typos (DEUBG, debuging)",
-      "url": "https://github.com/fossasia/badgemagic-firmware/pull/138",
-      "updated_at": "2026-04-27T12:42:34Z"
-    },
-    {
-      "repo": "Azure/Azure-Sentinel",
-      "number": 14120,
-      "title": "docs: fix three 'Microsoft' typos across playbook READMEs",
-      "url": "https://github.com/Azure/Azure-Sentinel/pull/14120",
-      "updated_at": "2026-04-27T08:19:57Z"
-    },
-    {
-      "repo": "mne-tools/mne-nirs",
-      "number": 683,
-      "title": "docs: swap red/green in Filter Neural Signal tutorial comment",
-      "url": "https://github.com/mne-tools/mne-nirs/pull/683",
-      "updated_at": "2026-04-26T00:11:57Z"
-    },
-    {
-      "repo": "PrefectHQ/fastmcp",
-      "number": 4001,
-      "title": "docs: add best practices for custom telemetry spans",
-      "url": "https://github.com/PrefectHQ/fastmcp/pull/4001",
-      "updated_at": "2026-04-25T15:43:32Z"
-    },
-    {
-      "repo": "dmachard/DNS-collector",
-      "number": 1203,
-      "title": "docs(afpacket): fix IP-defrag option name 'enable-fragment-support' -> 'enable-defrag-ip'",
-      "url": "https://github.com/dmachard/DNS-collector/pull/1203",
-      "updated_at": "2026-04-25T07:07:54Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 68,
-      "title": "fix(pos): screenOrientation fullSensor \u2014 rotate even when auto-rotate is OFF",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/68",
-      "updated_at": "2026-04-24T19:46:46Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 67,
-      "title": "fix(pos): unlock screen orientation \u2014 was hard-locked to landscape",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/67",
-      "updated_at": "2026-04-24T19:29:16Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 66,
-      "title": "ci: auto-fetch POS APK artifact before deploy so /pos-latest.apk survives",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/66",
-      "updated_at": "2026-04-24T18:29:21Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 65,
-      "title": "hosting: serve .apk with Android MIME for on-device POS install",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/65",
-      "updated_at": "2026-04-24T18:22:49Z"
     }
   ]
 }
