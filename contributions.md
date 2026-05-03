@@ -25,6 +25,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [microsoft/agent-governance-toolkit #1678](https://github.com/microsoft/agent-governance-toolkit/pull/1678): examples: add Rust audit logging demo
+- [microsoft/agent-governance-toolkit #1676](https://github.com/microsoft/agent-governance-toolkit/pull/1676): examples: add Go SLO tracking demo
+- [microsoft/agent-governance-toolkit #1675](https://github.com/microsoft/agent-governance-toolkit/pull/1675): examples: add Go HTTP middleware demo
 - [meilisearch/heed #368](https://github.com/meilisearch/heed/pull/368): Add put_reserved_with_flags to Database
 - [microsoft/agent-governance-toolkit #1669](https://github.com/microsoft/agent-governance-toolkit/pull/1669): docs: add TypeScript policy evaluation example
 - [microsoft/agent-governance-toolkit #1670](https://github.com/microsoft/agent-governance-toolkit/pull/1670): docs: fix Agent SRE PyPI link
@@ -42,6 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1689](https://github.com/microsoft/agent-governance-toolkit/pull/1689): Add Python package import smoke tests
 - [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
 - [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
-- [vercel/next.js #92809](https://github.com/vercel/next.js/pull/92809): docs: add documentation for no-typos ESLint rule
-- [open-telemetry/opentelemetry-python #5149](https://github.com/open-telemetry/opentelemetry-python/pull/5149): fix(ci): stabilize tracecontext job
-- [googleapis/google-cloud-python #16808](https://github.com/googleapis/google-cloud-python/pull/16808): ci: add pylint presubmit on golden files (closes #16393)
