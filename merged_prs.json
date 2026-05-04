@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "apache/pulsar-site",
+      "number": 1135,
+      "title": "docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)",
+      "url": "https://github.com/apache/pulsar-site/pull/1135",
+      "updated_at": "2026-05-04T06:12:19Z"
+    },
+    {
+      "repo": "apache/pulsar-site",
+      "number": 1134,
+      "title": "docs: fix Java code example compilation errors (closes apache/pulsar#23246)",
+      "url": "https://github.com/apache/pulsar-site/pull/1134",
+      "updated_at": "2026-05-04T06:01:13Z"
+    },
+    {
       "repo": "microsoft/agent-governance-toolkit",
       "number": 1678,
       "title": "examples: add Rust audit logging demo",
@@ -125,20 +139,6 @@
       "title": "Add Python package import smoke tests",
       "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1689",
       "updated_at": "2026-05-01T16:15:10Z"
-    },
-    {
-      "repo": "apache/iggy",
-      "number": 3179,
-      "title": "fix(connectors): reject duplicate iggy_sink_open and iggy_source_open",
-      "url": "https://github.com/apache/iggy/pull/3179",
-      "updated_at": "2026-05-01T12:29:59Z"
-    },
-    {
-      "repo": "FirebaseExtended/action-hosting-deploy",
-      "number": 450,
-      "title": "chore: bump action runtime to Node 24 (fixes #448)",
-      "url": "https://github.com/FirebaseExtended/action-hosting-deploy/pull/450",
-      "updated_at": "2026-04-30T19:53:01Z"
     }
   ]
 }

@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [apache/pulsar-site #1135](https://github.com/apache/pulsar-site/pull/1135): docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)
+- [apache/pulsar-site #1134](https://github.com/apache/pulsar-site/pull/1134): docs: fix Java code example compilation errors (closes apache/pulsar#23246)
 - [microsoft/agent-governance-toolkit #1678](https://github.com/microsoft/agent-governance-toolkit/pull/1678): examples: add Rust audit logging demo
 - [microsoft/agent-governance-toolkit #1676](https://github.com/microsoft/agent-governance-toolkit/pull/1676): examples: add Go SLO tracking demo
 - [microsoft/agent-governance-toolkit #1675](https://github.com/microsoft/agent-governance-toolkit/pull/1675): examples: add Go HTTP middleware demo
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1687](https://github.com/microsoft/agent-governance-toolkit/pull/1687): Add TypeScript core governance tests
 - [microsoft/agent-governance-toolkit #1688](https://github.com/microsoft/agent-governance-toolkit/pull/1688): Add Rust core governance tests
 - [microsoft/agent-governance-toolkit #1689](https://github.com/microsoft/agent-governance-toolkit/pull/1689): Add Python package import smoke tests
-- [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
-- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
