@@ -25,6 +25,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [PrefectHQ/fastmcp #4069](https://github.com/PrefectHQ/fastmcp/pull/4069): Fix #4056: keep blank query values, add token bucket regression test
+- [PrefectHQ/fastmcp #4076](https://github.com/PrefectHQ/fastmcp/pull/4076): fix(openapi): keep blank values in parse_qs (refs #4056)
+- [PrefectHQ/fastmcp #4070](https://github.com/PrefectHQ/fastmcp/pull/4070): docs(integrations): add Pydantic AI FastMCP toolset guide
 - [apache/pulsar-site #1135](https://github.com/apache/pulsar-site/pull/1135): docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)
 - [apache/pulsar-site #1134](https://github.com/apache/pulsar-site/pull/1134): docs: fix Java code example compilation errors (closes apache/pulsar#23246)
 - [microsoft/agent-governance-toolkit #1678](https://github.com/microsoft/agent-governance-toolkit/pull/1678): examples: add Rust audit logging demo
@@ -42,6 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1683](https://github.com/microsoft/agent-governance-toolkit/pull/1683): docs: add Go README badges and install check
 - [microsoft/agent-governance-toolkit #1685](https://github.com/microsoft/agent-governance-toolkit/pull/1685): docs: add Rust README badges
 - [microsoft/agent-governance-toolkit #1686](https://github.com/microsoft/agent-governance-toolkit/pull/1686): Add Go HTTP governance middleware tests
-- [microsoft/agent-governance-toolkit #1687](https://github.com/microsoft/agent-governance-toolkit/pull/1687): Add TypeScript core governance tests
-- [microsoft/agent-governance-toolkit #1688](https://github.com/microsoft/agent-governance-toolkit/pull/1688): Add Rust core governance tests
-- [microsoft/agent-governance-toolkit #1689](https://github.com/microsoft/agent-governance-toolkit/pull/1689): Add Python package import smoke tests

@@ -1,6 +1,27 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "PrefectHQ/fastmcp",
+      "number": 4069,
+      "title": "Fix #4056: keep blank query values, add token bucket regression test",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/4069",
+      "updated_at": "2026-05-04T16:44:38Z"
+    },
+    {
+      "repo": "PrefectHQ/fastmcp",
+      "number": 4076,
+      "title": "fix(openapi): keep blank values in parse_qs (refs #4056)",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/4076",
+      "updated_at": "2026-05-04T16:44:07Z"
+    },
+    {
+      "repo": "PrefectHQ/fastmcp",
+      "number": 4070,
+      "title": "docs(integrations): add Pydantic AI FastMCP toolset guide",
+      "url": "https://github.com/PrefectHQ/fastmcp/pull/4070",
+      "updated_at": "2026-05-04T16:22:18Z"
+    },
+    {
       "repo": "apache/pulsar-site",
       "number": 1135,
       "title": "docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)",
@@ -118,27 +139,6 @@
       "title": "Add Go HTTP governance middleware tests",
       "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1686",
       "updated_at": "2026-05-01T16:15:24Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1687,
-      "title": "Add TypeScript core governance tests",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1687",
-      "updated_at": "2026-05-01T16:15:19Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1688,
-      "title": "Add Rust core governance tests",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1688",
-      "updated_at": "2026-05-01T16:15:15Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1689,
-      "title": "Add Python package import smoke tests",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1689",
-      "updated_at": "2026-05-01T16:15:10Z"
     }
   ]
 }
