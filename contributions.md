@@ -25,6 +25,10 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [microsoft/agent-governance-toolkit #1677](https://github.com/microsoft/agent-governance-toolkit/pull/1677): examples: add Rust quickstart
+- [microsoft/agent-governance-toolkit #1684](https://github.com/microsoft/agent-governance-toolkit/pull/1684): docs: add Rust cargo quickstart
+- [rg-engineering/ioBroker.heatingcontrol #815](https://github.com/rg-engineering/ioBroker.heatingcontrol/pull/815): fix(logging): 'userTage' -> 'userTag' in discord-not-configured error
+- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
 - [PrefectHQ/fastmcp #4069](https://github.com/PrefectHQ/fastmcp/pull/4069): Fix #4056: keep blank query values, add token bucket regression test
 - [PrefectHQ/fastmcp #4076](https://github.com/PrefectHQ/fastmcp/pull/4076): fix(openapi): keep blank values in parse_qs (refs #4056)
 - [PrefectHQ/fastmcp #4070](https://github.com/PrefectHQ/fastmcp/pull/4070): docs(integrations): add Pydantic AI FastMCP toolset guide
@@ -41,7 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1673](https://github.com/microsoft/agent-governance-toolkit/pull/1673): docs: add Rust contributor commands
 - [microsoft/agent-governance-toolkit #1674](https://github.com/microsoft/agent-governance-toolkit/pull/1674): docs: add i18n contribution guide
 - [microsoft/agent-governance-toolkit #1681](https://github.com/microsoft/agent-governance-toolkit/pull/1681): docs: fix TypeScript README encoding
-- [microsoft/agent-governance-toolkit #1682](https://github.com/microsoft/agent-governance-toolkit/pull/1682): docs: add TypeScript README badges
-- [microsoft/agent-governance-toolkit #1683](https://github.com/microsoft/agent-governance-toolkit/pull/1683): docs: add Go README badges and install check
-- [microsoft/agent-governance-toolkit #1685](https://github.com/microsoft/agent-governance-toolkit/pull/1685): docs: add Rust README badges
-- [microsoft/agent-governance-toolkit #1686](https://github.com/microsoft/agent-governance-toolkit/pull/1686): Add Go HTTP governance middleware tests
