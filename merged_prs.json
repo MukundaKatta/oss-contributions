@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "elastic/beats",
+      "number": 50281,
+      "title": "docs: fix 'ElasticSearch' casing and 'a SSL' -> 'an SSL' across reference docs",
+      "url": "https://github.com/elastic/beats/pull/50281",
+      "updated_at": "2026-05-07T08:20:26Z"
+    },
+    {
       "repo": "microsoft/agent-governance-toolkit",
       "number": 1677,
       "title": "examples: add Rust quickstart",
@@ -132,13 +139,6 @@
       "title": "docs: add i18n contribution guide",
       "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1674",
       "updated_at": "2026-05-01T16:15:53Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1681,
-      "title": "docs: fix TypeScript README encoding",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1681",
-      "updated_at": "2026-05-01T16:15:44Z"
     }
   ]
 }

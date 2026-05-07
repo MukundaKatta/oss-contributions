@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [elastic/beats #50281](https://github.com/elastic/beats/pull/50281): docs: fix 'ElasticSearch' casing and 'a SSL' -> 'an SSL' across reference docs
 - [microsoft/agent-governance-toolkit #1677](https://github.com/microsoft/agent-governance-toolkit/pull/1677): examples: add Rust quickstart
 - [microsoft/agent-governance-toolkit #1684](https://github.com/microsoft/agent-governance-toolkit/pull/1684): docs: add Rust cargo quickstart
 - [rg-engineering/ioBroker.heatingcontrol #815](https://github.com/rg-engineering/ioBroker.heatingcontrol/pull/815): fix(logging): 'userTage' -> 'userTag' in discord-not-configured error
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1672](https://github.com/microsoft/agent-governance-toolkit/pull/1672): docs: add MCP Trust Server getting started
 - [microsoft/agent-governance-toolkit #1673](https://github.com/microsoft/agent-governance-toolkit/pull/1673): docs: add Rust contributor commands
 - [microsoft/agent-governance-toolkit #1674](https://github.com/microsoft/agent-governance-toolkit/pull/1674): docs: add i18n contribution guide
-- [microsoft/agent-governance-toolkit #1681](https://github.com/microsoft/agent-governance-toolkit/pull/1681): docs: fix TypeScript README encoding
