@@ -1,6 +1,27 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "cloudflare/cloudflare-docs",
+      "number": 30210,
+      "title": "docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section",
+      "url": "https://github.com/cloudflare/cloudflare-docs/pull/30210",
+      "updated_at": "2026-05-12T14:51:29Z"
+    },
+    {
+      "repo": "kivy/buildozer",
+      "number": 2017,
+      "title": "docs(installation): drop commas from pip install example (and 'it's' -> 'its')",
+      "url": "https://github.com/kivy/buildozer/pull/2017",
+      "updated_at": "2026-05-12T11:47:06Z"
+    },
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "number": 67330,
+      "title": "fix(curriculum): clarify DOM element node wording",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/pull/67330",
+      "updated_at": "2026-05-12T08:23:50Z"
+    },
+    {
       "repo": "elastic/beats",
       "number": 50281,
       "title": "docs: fix 'ElasticSearch' casing and 'a SSL' -> 'an SSL' across reference docs",
@@ -118,27 +139,6 @@
       "title": "docs: add AgentMesh quick start",
       "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1671",
       "updated_at": "2026-05-01T16:16:09Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1672,
-      "title": "docs: add MCP Trust Server getting started",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1672",
-      "updated_at": "2026-05-01T16:16:03Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1673,
-      "title": "docs: add Rust contributor commands",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1673",
-      "updated_at": "2026-05-01T16:15:58Z"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "number": 1674,
-      "title": "docs: add i18n contribution guide",
-      "url": "https://github.com/microsoft/agent-governance-toolkit/pull/1674",
-      "updated_at": "2026-05-01T16:15:53Z"
     }
   ]
 }

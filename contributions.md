@@ -25,6 +25,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
+- [kivy/buildozer #2017](https://github.com/kivy/buildozer/pull/2017): docs(installation): drop commas from pip install example (and 'it's' -> 'its')
+- [freeCodeCamp/freeCodeCamp #67330](https://github.com/freeCodeCamp/freeCodeCamp/pull/67330): fix(curriculum): clarify DOM element node wording
 - [elastic/beats #50281](https://github.com/elastic/beats/pull/50281): docs: fix 'ElasticSearch' casing and 'a SSL' -> 'an SSL' across reference docs
 - [microsoft/agent-governance-toolkit #1677](https://github.com/microsoft/agent-governance-toolkit/pull/1677): examples: add Rust quickstart
 - [microsoft/agent-governance-toolkit #1684](https://github.com/microsoft/agent-governance-toolkit/pull/1684): docs: add Rust cargo quickstart
@@ -42,6 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [microsoft/agent-governance-toolkit #1669](https://github.com/microsoft/agent-governance-toolkit/pull/1669): docs: add TypeScript policy evaluation example
 - [microsoft/agent-governance-toolkit #1670](https://github.com/microsoft/agent-governance-toolkit/pull/1670): docs: fix Agent SRE PyPI link
 - [microsoft/agent-governance-toolkit #1671](https://github.com/microsoft/agent-governance-toolkit/pull/1671): docs: add AgentMesh quick start
-- [microsoft/agent-governance-toolkit #1672](https://github.com/microsoft/agent-governance-toolkit/pull/1672): docs: add MCP Trust Server getting started
-- [microsoft/agent-governance-toolkit #1673](https://github.com/microsoft/agent-governance-toolkit/pull/1673): docs: add Rust contributor commands
-- [microsoft/agent-governance-toolkit #1674](https://github.com/microsoft/agent-governance-toolkit/pull/1674): docs: add i18n contribution guide
