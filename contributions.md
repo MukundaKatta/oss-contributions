@@ -25,6 +25,12 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [lextpf/rift #7](https://github.com/lextpf/rift/pull/7): Fix console quest and time edge cases
+- [lextpf/seal #6](https://github.com/lextpf/seal/pull/6): Fix credential parsing and add crypto coverage
+- [apache/fluss-blog #6](https://github.com/apache/fluss-blog/pull/6): docs: fix typos in blog posts
+- [apache/datafusion-ballista #1708](https://github.com/apache/datafusion-ballista/pull/1708): Saturate scheduler job elapsed time
+- [containerd/nerdctl #4903](https://github.com/containerd/nerdctl/pull/4903): docs: fix sig-proxy flag spelling
+- [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
 - [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
 - [kivy/buildozer #2017](https://github.com/kivy/buildozer/pull/2017): docs(installation): drop commas from pip install example (and 'it's' -> 'its')
 - [freeCodeCamp/freeCodeCamp #67330](https://github.com/freeCodeCamp/freeCodeCamp/pull/67330): fix(curriculum): clarify DOM element node wording
@@ -39,9 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [apache/pulsar-site #1135](https://github.com/apache/pulsar-site/pull/1135): docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)
 - [apache/pulsar-site #1134](https://github.com/apache/pulsar-site/pull/1134): docs: fix Java code example compilation errors (closes apache/pulsar#23246)
 - [microsoft/agent-governance-toolkit #1678](https://github.com/microsoft/agent-governance-toolkit/pull/1678): examples: add Rust audit logging demo
-- [microsoft/agent-governance-toolkit #1676](https://github.com/microsoft/agent-governance-toolkit/pull/1676): examples: add Go SLO tracking demo
-- [microsoft/agent-governance-toolkit #1675](https://github.com/microsoft/agent-governance-toolkit/pull/1675): examples: add Go HTTP middleware demo
-- [meilisearch/heed #368](https://github.com/meilisearch/heed/pull/368): Add put_reserved_with_flags to Database
-- [microsoft/agent-governance-toolkit #1669](https://github.com/microsoft/agent-governance-toolkit/pull/1669): docs: add TypeScript policy evaluation example
-- [microsoft/agent-governance-toolkit #1670](https://github.com/microsoft/agent-governance-toolkit/pull/1670): docs: fix Agent SRE PyPI link
-- [microsoft/agent-governance-toolkit #1671](https://github.com/microsoft/agent-governance-toolkit/pull/1671): docs: add AgentMesh quick start
