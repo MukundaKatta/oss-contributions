@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [lextpf/rift #7](https://github.com/lextpf/rift/pull/7): Fix console quest and time edge cases
-- [lextpf/seal #6](https://github.com/lextpf/seal/pull/6): Fix credential parsing and add crypto coverage
-- [apache/fluss-blog #6](https://github.com/apache/fluss-blog/pull/6): docs: fix typos in blog posts
-- [apache/datafusion-ballista #1708](https://github.com/apache/datafusion-ballista/pull/1708): Saturate scheduler job elapsed time
-- [containerd/nerdctl #4903](https://github.com/containerd/nerdctl/pull/4903): docs: fix sig-proxy flag spelling
-- [apache/iggy #3179](https://github.com/apache/iggy/pull/3179): fix(connectors): reject duplicate iggy_sink_open and iggy_source_open
-- [cloudflare/cloudflare-docs #30210](https://github.com/cloudflare/cloudflare-docs/pull/30210): docs(wrangler/deprecations): 'wrangler deploy' -> 'wrangler publish' in publish deprecation section
-- [kivy/buildozer #2017](https://github.com/kivy/buildozer/pull/2017): docs(installation): drop commas from pip install example (and 'it's' -> 'its')
-- [freeCodeCamp/freeCodeCamp #67330](https://github.com/freeCodeCamp/freeCodeCamp/pull/67330): fix(curriculum): clarify DOM element node wording
-- [elastic/beats #50281](https://github.com/elastic/beats/pull/50281): docs: fix 'ElasticSearch' casing and 'a SSL' -> 'an SSL' across reference docs
-- [microsoft/agent-governance-toolkit #1677](https://github.com/microsoft/agent-governance-toolkit/pull/1677): examples: add Rust quickstart
-- [microsoft/agent-governance-toolkit #1684](https://github.com/microsoft/agent-governance-toolkit/pull/1684): docs: add Rust cargo quickstart
-- [rg-engineering/ioBroker.heatingcontrol #815](https://github.com/rg-engineering/ioBroker.heatingcontrol/pull/815): fix(logging): 'userTage' -> 'userTag' in discord-not-configured error
-- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)
-- [PrefectHQ/fastmcp #4069](https://github.com/PrefectHQ/fastmcp/pull/4069): Fix #4056: keep blank query values, add token bucket regression test
-- [PrefectHQ/fastmcp #4076](https://github.com/PrefectHQ/fastmcp/pull/4076): fix(openapi): keep blank values in parse_qs (refs #4056)
-- [PrefectHQ/fastmcp #4070](https://github.com/PrefectHQ/fastmcp/pull/4070): docs(integrations): add Pydantic AI FastMCP toolset guide
-- [apache/pulsar-site #1135](https://github.com/apache/pulsar-site/pull/1135): docs: add hyperlinks for common keywords on getting-started + architecture pages (partial #23150)
-- [apache/pulsar-site #1134](https://github.com/apache/pulsar-site/pull/1134): docs: fix Java code example compilation errors (closes apache/pulsar#23246)
-- [microsoft/agent-governance-toolkit #1678](https://github.com/microsoft/agent-governance-toolkit/pull/1678): examples: add Rust audit logging demo
+- [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
+- [MukundaKatta/agent-governance-toolkit #1](https://github.com/MukundaKatta/agent-governance-toolkit/pull/1): [codex] add repository health checks
+- [MukundaKatta/agent-framework #1](https://github.com/MukundaKatta/agent-framework/pull/1): [codex] add repository health checks
+- [MukundaKatta/pydantic-ai #1](https://github.com/MukundaKatta/pydantic-ai/pull/1): [codex] add repository health checks
+- [MukundaKatta/langgraph #1](https://github.com/MukundaKatta/langgraph/pull/1): chore: add repository health checks
+- [MukundaKatta/browser-use #1](https://github.com/MukundaKatta/browser-use/pull/1): [codex] add repository health checks
+- [MukundaKatta/autogen #1](https://github.com/MukundaKatta/autogen/pull/1): [codex] add repository health checks
+- [MukundaKatta/bustrack #28](https://github.com/MukundaKatta/bustrack/pull/28): [codex] add repository health checks
+- [MukundaKatta/arnio #1](https://github.com/MukundaKatta/arnio/pull/1): [codex] add repository health checks
+- [MukundaKatta/karna #181](https://github.com/MukundaKatta/karna/pull/181): [codex] add repository health checks
+- [MukundaKatta/lightweight-eval-scorecards-paper #1](https://github.com/MukundaKatta/lightweight-eval-scorecards-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/ml-intern-lab-paper #1](https://github.com/MukundaKatta/ml-intern-lab-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/karna-chat-native-assistant-paper #1](https://github.com/MukundaKatta/karna-chat-native-assistant-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/context-forge-paper #1](https://github.com/MukundaKatta/context-forge-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/chetana-consciousness-indicator-paper #1](https://github.com/MukundaKatta/chetana-consciousness-indicator-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/browser-research-agent-paper #1](https://github.com/MukundaKatta/browser-research-agent-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/agent-trajectory-replay-paper #1](https://github.com/MukundaKatta/agent-trajectory-replay-paper/pull/1): [codex] add repository health checks
+- [MukundaKatta/agent-eval-platform-starters #1](https://github.com/MukundaKatta/agent-eval-platform-starters/pull/1): [codex] add repository health checks
+- [MukundaKatta/context-forge #2](https://github.com/MukundaKatta/context-forge/pull/2): [codex] add repository health checks
+- [MukundaKatta/artigen #175](https://github.com/MukundaKatta/artigen/pull/175): [codex] strengthen production readiness
