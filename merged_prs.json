@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
-      "repo": "im-anishraj/arnio",
-      "number": 351,
-      "title": "feat: add column existence validation helper",
-      "url": "https://github.com/im-anishraj/arnio/pull/351",
-      "updated_at": "2026-05-16T05:01:09Z"
-    },
-    {
-      "repo": "MukundaKatta/agent-governance-toolkit",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/agent-governance-toolkit/pull/1",
-      "updated_at": "2026-05-16T04:49:26Z"
-    },
-    {
-      "repo": "MukundaKatta/agent-framework",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/agent-framework/pull/1",
-      "updated_at": "2026-05-16T04:28:18Z"
-    },
-    {
-      "repo": "MukundaKatta/pydantic-ai",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/pydantic-ai/pull/1",
-      "updated_at": "2026-05-16T04:28:15Z"
-    },
-    {
-      "repo": "MukundaKatta/langgraph",
-      "number": 1,
-      "title": "chore: add repository health checks",
-      "url": "https://github.com/MukundaKatta/langgraph/pull/1",
-      "updated_at": "2026-05-16T04:28:13Z"
-    },
-    {
-      "repo": "MukundaKatta/browser-use",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/browser-use/pull/1",
-      "updated_at": "2026-05-16T04:28:09Z"
-    },
-    {
-      "repo": "MukundaKatta/autogen",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/autogen/pull/1",
-      "updated_at": "2026-05-16T04:28:06Z"
-    },
-    {
-      "repo": "MukundaKatta/bustrack",
-      "number": 28,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/bustrack/pull/28",
-      "updated_at": "2026-05-16T04:25:02Z"
-    },
-    {
-      "repo": "MukundaKatta/arnio",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/arnio/pull/1",
-      "updated_at": "2026-05-16T04:18:38Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 181,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/karna/pull/181",
-      "updated_at": "2026-05-16T04:14:42Z"
-    },
-    {
-      "repo": "MukundaKatta/lightweight-eval-scorecards-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/lightweight-eval-scorecards-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:40Z"
-    },
-    {
-      "repo": "MukundaKatta/ml-intern-lab-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/ml-intern-lab-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:37Z"
-    },
-    {
-      "repo": "MukundaKatta/karna-chat-native-assistant-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/karna-chat-native-assistant-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:34Z"
-    },
-    {
-      "repo": "MukundaKatta/context-forge-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/context-forge-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:31Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana-consciousness-indicator-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/chetana-consciousness-indicator-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:28Z"
-    },
-    {
-      "repo": "MukundaKatta/browser-research-agent-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/browser-research-agent-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:25Z"
-    },
-    {
-      "repo": "MukundaKatta/agent-trajectory-replay-paper",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/agent-trajectory-replay-paper/pull/1",
-      "updated_at": "2026-05-16T04:13:21Z"
-    },
-    {
-      "repo": "MukundaKatta/agent-eval-platform-starters",
-      "number": 1,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/agent-eval-platform-starters/pull/1",
-      "updated_at": "2026-05-16T04:13:18Z"
-    },
-    {
-      "repo": "MukundaKatta/context-forge",
-      "number": 2,
-      "title": "[codex] add repository health checks",
-      "url": "https://github.com/MukundaKatta/context-forge/pull/2",
-      "updated_at": "2026-05-16T04:13:14Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 179,
+      "title": "fix(types): type preset grids and trending prompts",
+      "url": "https://github.com/MukundaKatta/artigen/pull/179",
+      "updated_at": "2026-05-16T21:53:46Z"
     },
     {
       "repo": "MukundaKatta/artigen",
-      "number": 175,
-      "title": "[codex] strengthen production readiness",
-      "url": "https://github.com/MukundaKatta/artigen/pull/175",
-      "updated_at": "2026-05-16T04:01:13Z"
+      "number": 178,
+      "title": "fix(types): replace `any` data props with concrete database types",
+      "url": "https://github.com/MukundaKatta/artigen/pull/178",
+      "updated_at": "2026-05-16T21:53:43Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 177,
+      "title": "fix(types): drop `as any` casts in 6 components (Ionicons + Input + StickerPickerSheet)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/177",
+      "updated_at": "2026-05-16T21:53:40Z"
+    },
+    {
+      "repo": "MukundaKatta/SpotRank",
+      "number": 3,
+      "title": "fix: Pydantic v2 deprecated Config syntax and hard-coded fallback SECRET_KEY",
+      "url": "https://github.com/MukundaKatta/SpotRank/pull/3",
+      "updated_at": "2026-05-16T21:38:58Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 176,
+      "title": "fix(types): drop `as any` casts in 5 UI components",
+      "url": "https://github.com/MukundaKatta/artigen/pull/176",
+      "updated_at": "2026-05-16T21:31:49Z"
+    },
+    {
+      "repo": "MukundaKatta/waitlist-api",
+      "number": 2,
+      "title": "Add daily email digest of waitlist signups",
+      "url": "https://github.com/MukundaKatta/waitlist-api/pull/2",
+      "updated_at": "2026-05-16T21:22:10Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 174,
+      "title": "Fix migration checks and theme color issue sweep",
+      "url": "https://github.com/MukundaKatta/artigen/pull/174",
+      "updated_at": "2026-05-16T21:19:41Z"
+    },
+    {
+      "repo": "MukundaKatta/fluentpal",
+      "number": 1,
+      "title": "Build FluentPal MVP \u2014 Next.js 16, Supabase auth, AI chat",
+      "url": "https://github.com/MukundaKatta/fluentpal/pull/1",
+      "updated_at": "2026-05-16T21:19:36Z"
+    },
+    {
+      "repo": "MukundaKatta/Oradent",
+      "number": 4,
+      "title": "fix(web): add missing ESLint config to unblock CI lint job",
+      "url": "https://github.com/MukundaKatta/Oradent/pull/4",
+      "updated_at": "2026-05-16T21:19:31Z"
+    },
+    {
+      "repo": "MukundaKatta/voiceagent",
+      "number": 4,
+      "title": "fix: Dockerfile manifest stubs, slotting module placement, and lookup_info tool definition",
+      "url": "https://github.com/MukundaKatta/voiceagent/pull/4",
+      "updated_at": "2026-05-16T21:19:23Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 31,
+      "title": "feat: research/suggest \u2014 generate research queries from a product blurb",
+      "url": "https://github.com/MukundaKatta/fanout/pull/31",
+      "updated_at": "2026-05-16T21:19:20Z"
+    },
+    {
+      "repo": "MukundaKatta/crammr",
+      "number": 1,
+      "title": "Build Crammr MVP: NEET Physics Kinematics quiz",
+      "url": "https://github.com/MukundaKatta/crammr/pull/1",
+      "updated_at": "2026-05-16T21:19:17Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 32,
+      "title": "feat: research subscriptions \u2014 autonomous loop on a cron",
+      "url": "https://github.com/MukundaKatta/fanout/pull/32",
+      "updated_at": "2026-05-16T21:19:16Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 33,
+      "title": "chore(ci): hourly research-tick GitHub Action (opt-in)",
+      "url": "https://github.com/MukundaKatta/fanout/pull/33",
+      "updated_at": "2026-05-16T21:19:11Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 34,
+      "title": "feat: per-draft citation tracking + UI pill",
+      "url": "https://github.com/MukundaKatta/fanout/pull/34",
+      "updated_at": "2026-05-16T21:19:07Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 44,
+      "title": "docs: add operator's guide for the research loop",
+      "url": "https://github.com/MukundaKatta/fanout/pull/44",
+      "updated_at": "2026-05-16T21:18:51Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 172,
+      "title": "ci: block duplicate migration filename prefixes",
+      "url": "https://github.com/MukundaKatta/artigen/pull/172",
+      "updated_at": "2026-05-16T21:18:44Z"
+    },
+    {
+      "repo": "MukundaKatta/homebrew-tools",
+      "number": 3,
+      "title": "Production polish: brew-install CI matrix, sha256 supply-chain hardening, Formula-bump procedure",
+      "url": "https://github.com/MukundaKatta/homebrew-tools/pull/3",
+      "updated_at": "2026-05-16T21:18:36Z"
+    },
+    {
+      "repo": "MukundaKatta/clinical-nlp-toolkit",
+      "number": 1,
+      "title": "fix: use standard setuptools build backend",
+      "url": "https://github.com/MukundaKatta/clinical-nlp-toolkit/pull/1",
+      "updated_at": "2026-05-16T21:16:28Z"
+    },
+    {
+      "repo": "MukundaKatta/TokenWise",
+      "number": 6,
+      "title": "fix: mypy CI failures and missing monthly budget check",
+      "url": "https://github.com/MukundaKatta/TokenWise/pull/6",
+      "updated_at": "2026-05-16T21:16:25Z"
     }
   ]
 }
