@@ -25,6 +25,13 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [vitest-dev/vitest #10358](https://github.com/vitest-dev/vitest/pull/10358): docs: mention xvfb for headful WebdriverIO Chrome
+- [ChromeDevTools/chrome-devtools-mcp #2062](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2062): docs: explain concurrent session options
+- [apache/doris #62521](https://github.com/apache/doris/pull/62521): [fix](storage) Fix typo 'occured' in user-facing error messages
+- [apache/pulsar-site #1139](https://github.com/apache/pulsar-site/pull/1139): [improve][docs] Clarify failover standby mapping in 3.0.x docs
+- [MukundaKatta/artigen #298](https://github.com/MukundaKatta/artigen/pull/298): fix: address open issues (rolling batches)
+- [microsoft/gctoolkit #535](https://github.com/microsoft/gctoolkit/pull/535): docs: cross-link contributor guides
+- [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
 - [MukundaKatta/artigen #179](https://github.com/MukundaKatta/artigen/pull/179): fix(types): type preset grids and trending prompts
 - [MukundaKatta/artigen #178](https://github.com/MukundaKatta/artigen/pull/178): fix(types): replace `any` data props with concrete database types
 - [MukundaKatta/artigen #177](https://github.com/MukundaKatta/artigen/pull/177): fix(types): drop `as any` casts in 6 components (Ionicons + Input + StickerPickerSheet)
@@ -38,10 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/fanout #31](https://github.com/MukundaKatta/fanout/pull/31): feat: research/suggest — generate research queries from a product blurb
 - [MukundaKatta/crammr #1](https://github.com/MukundaKatta/crammr/pull/1): Build Crammr MVP: NEET Physics Kinematics quiz
 - [MukundaKatta/fanout #32](https://github.com/MukundaKatta/fanout/pull/32): feat: research subscriptions — autonomous loop on a cron
-- [MukundaKatta/fanout #33](https://github.com/MukundaKatta/fanout/pull/33): chore(ci): hourly research-tick GitHub Action (opt-in)
-- [MukundaKatta/fanout #34](https://github.com/MukundaKatta/fanout/pull/34): feat: per-draft citation tracking + UI pill
-- [MukundaKatta/fanout #44](https://github.com/MukundaKatta/fanout/pull/44): docs: add operator's guide for the research loop
-- [MukundaKatta/artigen #172](https://github.com/MukundaKatta/artigen/pull/172): ci: block duplicate migration filename prefixes
-- [MukundaKatta/homebrew-tools #3](https://github.com/MukundaKatta/homebrew-tools/pull/3): Production polish: brew-install CI matrix, sha256 supply-chain hardening, Formula-bump procedure
-- [MukundaKatta/clinical-nlp-toolkit #1](https://github.com/MukundaKatta/clinical-nlp-toolkit/pull/1): fix: use standard setuptools build backend
-- [MukundaKatta/TokenWise #6](https://github.com/MukundaKatta/TokenWise/pull/6): fix: mypy CI failures and missing monthly budget check

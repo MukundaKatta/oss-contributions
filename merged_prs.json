@@ -1,6 +1,55 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "vitest-dev/vitest",
+      "number": 10358,
+      "title": "docs: mention xvfb for headful WebdriverIO Chrome",
+      "url": "https://github.com/vitest-dev/vitest/pull/10358",
+      "updated_at": "2026-05-18T11:08:26Z"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "number": 2062,
+      "title": "docs: explain concurrent session options",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2062",
+      "updated_at": "2026-05-18T08:30:52Z"
+    },
+    {
+      "repo": "apache/doris",
+      "number": 62521,
+      "title": "[fix](storage) Fix typo 'occured' in user-facing error messages",
+      "url": "https://github.com/apache/doris/pull/62521",
+      "updated_at": "2026-05-18T07:59:37Z"
+    },
+    {
+      "repo": "apache/pulsar-site",
+      "number": 1139,
+      "title": "[improve][docs] Clarify failover standby mapping in 3.0.x docs",
+      "url": "https://github.com/apache/pulsar-site/pull/1139",
+      "updated_at": "2026-05-18T07:43:48Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 298,
+      "title": "fix: address open issues (rolling batches)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/298",
+      "updated_at": "2026-05-18T06:59:03Z"
+    },
+    {
+      "repo": "microsoft/gctoolkit",
+      "number": 535,
+      "title": "docs: cross-link contributor guides",
+      "url": "https://github.com/microsoft/gctoolkit/pull/535",
+      "updated_at": "2026-05-18T00:02:20Z"
+    },
+    {
+      "repo": "im-anishraj/arnio",
+      "number": 351,
+      "title": "feat: add column existence validation helper",
+      "url": "https://github.com/im-anishraj/arnio/pull/351",
+      "updated_at": "2026-05-17T20:52:22Z"
+    },
+    {
       "repo": "MukundaKatta/artigen",
       "number": 179,
       "title": "fix(types): type preset grids and trending prompts",
@@ -90,55 +139,6 @@
       "title": "feat: research subscriptions \u2014 autonomous loop on a cron",
       "url": "https://github.com/MukundaKatta/fanout/pull/32",
       "updated_at": "2026-05-16T21:19:16Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 33,
-      "title": "chore(ci): hourly research-tick GitHub Action (opt-in)",
-      "url": "https://github.com/MukundaKatta/fanout/pull/33",
-      "updated_at": "2026-05-16T21:19:11Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 34,
-      "title": "feat: per-draft citation tracking + UI pill",
-      "url": "https://github.com/MukundaKatta/fanout/pull/34",
-      "updated_at": "2026-05-16T21:19:07Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 44,
-      "title": "docs: add operator's guide for the research loop",
-      "url": "https://github.com/MukundaKatta/fanout/pull/44",
-      "updated_at": "2026-05-16T21:18:51Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 172,
-      "title": "ci: block duplicate migration filename prefixes",
-      "url": "https://github.com/MukundaKatta/artigen/pull/172",
-      "updated_at": "2026-05-16T21:18:44Z"
-    },
-    {
-      "repo": "MukundaKatta/homebrew-tools",
-      "number": 3,
-      "title": "Production polish: brew-install CI matrix, sha256 supply-chain hardening, Formula-bump procedure",
-      "url": "https://github.com/MukundaKatta/homebrew-tools/pull/3",
-      "updated_at": "2026-05-16T21:18:36Z"
-    },
-    {
-      "repo": "MukundaKatta/clinical-nlp-toolkit",
-      "number": 1,
-      "title": "fix: use standard setuptools build backend",
-      "url": "https://github.com/MukundaKatta/clinical-nlp-toolkit/pull/1",
-      "updated_at": "2026-05-16T21:16:28Z"
-    },
-    {
-      "repo": "MukundaKatta/TokenWise",
-      "number": 6,
-      "title": "fix: mypy CI failures and missing monthly budget check",
-      "url": "https://github.com/MukundaKatta/TokenWise/pull/6",
-      "updated_at": "2026-05-16T21:16:25Z"
     }
   ]
 }
