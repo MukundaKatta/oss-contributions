@@ -1,6 +1,62 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "storybookjs/storybook",
+      "number": 34806,
+      "title": "Core: Ignore story-like directories in indexer",
+      "url": "https://github.com/storybookjs/storybook/pull/34806",
+      "updated_at": "2026-05-19T15:03:51Z"
+    },
+    {
+      "repo": "nextcloud/documentation",
+      "number": 14860,
+      "title": "docs: use folder terminology in mail manual",
+      "url": "https://github.com/nextcloud/documentation/pull/14860",
+      "updated_at": "2026-05-19T12:52:42Z"
+    },
+    {
+      "repo": "im-anishraj/arnio",
+      "number": 351,
+      "title": "feat: add column existence validation helper",
+      "url": "https://github.com/im-anishraj/arnio/pull/351",
+      "updated_at": "2026-05-19T08:17:55Z"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2330,
+      "title": "[cueweb] Add frame state filter chips",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
+      "updated_at": "2026-05-19T04:29:32Z"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2331,
+      "title": "[cueweb] Add job progress tooltip",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
+      "updated_at": "2026-05-19T03:45:16Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 302,
+      "title": "fix(types): type ShareSheet's profile and user-filter callback",
+      "url": "https://github.com/MukundaKatta/artigen/pull/302",
+      "updated_at": "2026-05-18T19:53:27Z"
+    },
+    {
+      "repo": "agno-agi/agno",
+      "number": 7607,
+      "title": "fix(gemini): preserve generic error context",
+      "url": "https://github.com/agno-agi/agno/pull/7607",
+      "updated_at": "2026-05-18T19:51:19Z"
+    },
+    {
+      "repo": "sveltejs/svelte",
+      "number": 18226,
+      "title": "docs: clarify context state getter pattern",
+      "url": "https://github.com/sveltejs/svelte/pull/18226",
+      "updated_at": "2026-05-18T19:42:21Z"
+    },
+    {
       "repo": "vitest-dev/vitest",
       "number": 10358,
       "title": "docs: mention xvfb for headful WebdriverIO Chrome",
@@ -43,13 +99,6 @@
       "updated_at": "2026-05-18T00:02:20Z"
     },
     {
-      "repo": "im-anishraj/arnio",
-      "number": 351,
-      "title": "feat: add column existence validation helper",
-      "url": "https://github.com/im-anishraj/arnio/pull/351",
-      "updated_at": "2026-05-17T20:52:22Z"
-    },
-    {
       "repo": "MukundaKatta/artigen",
       "number": 179,
       "title": "fix(types): type preset grids and trending prompts",
@@ -90,55 +139,6 @@
       "title": "Add daily email digest of waitlist signups",
       "url": "https://github.com/MukundaKatta/waitlist-api/pull/2",
       "updated_at": "2026-05-16T21:22:10Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 174,
-      "title": "Fix migration checks and theme color issue sweep",
-      "url": "https://github.com/MukundaKatta/artigen/pull/174",
-      "updated_at": "2026-05-16T21:19:41Z"
-    },
-    {
-      "repo": "MukundaKatta/fluentpal",
-      "number": 1,
-      "title": "Build FluentPal MVP \u2014 Next.js 16, Supabase auth, AI chat",
-      "url": "https://github.com/MukundaKatta/fluentpal/pull/1",
-      "updated_at": "2026-05-16T21:19:36Z"
-    },
-    {
-      "repo": "MukundaKatta/Oradent",
-      "number": 4,
-      "title": "fix(web): add missing ESLint config to unblock CI lint job",
-      "url": "https://github.com/MukundaKatta/Oradent/pull/4",
-      "updated_at": "2026-05-16T21:19:31Z"
-    },
-    {
-      "repo": "MukundaKatta/voiceagent",
-      "number": 4,
-      "title": "fix: Dockerfile manifest stubs, slotting module placement, and lookup_info tool definition",
-      "url": "https://github.com/MukundaKatta/voiceagent/pull/4",
-      "updated_at": "2026-05-16T21:19:23Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 31,
-      "title": "feat: research/suggest \u2014 generate research queries from a product blurb",
-      "url": "https://github.com/MukundaKatta/fanout/pull/31",
-      "updated_at": "2026-05-16T21:19:20Z"
-    },
-    {
-      "repo": "MukundaKatta/crammr",
-      "number": 1,
-      "title": "Build Crammr MVP: NEET Physics Kinematics quiz",
-      "url": "https://github.com/MukundaKatta/crammr/pull/1",
-      "updated_at": "2026-05-16T21:19:17Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 32,
-      "title": "feat: research subscriptions \u2014 autonomous loop on a cron",
-      "url": "https://github.com/MukundaKatta/fanout/pull/32",
-      "updated_at": "2026-05-16T21:19:16Z"
     }
   ]
 }
