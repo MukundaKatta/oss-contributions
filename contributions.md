@@ -25,6 +25,11 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [MukundaKatta/amogha-cafe #69](https://github.com/MukundaKatta/amogha-cafe/pull/69): fix(pos): silence "No printer name configured" toast on every bill print
+- [MukundaKatta/artigen #301](https://github.com/MukundaKatta/artigen/pull/301): fix(types): drop `any` in supabase hooks (useSpotlightSearch + useChat)
+- [MukundaKatta/artigen #300](https://github.com/MukundaKatta/artigen/pull/300): fix(types): type challenge components' `any[]`/`any` props
+- [MukundaKatta/artigen #231](https://github.com/MukundaKatta/artigen/pull/231): fix(types): add Props types to 5 zero-prop components + tighten DesktopSidebar
+- [MukundaKatta/agentcast #8](https://github.com/MukundaKatta/agentcast/pull/8): fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))
 - [storybookjs/storybook #34806](https://github.com/storybookjs/storybook/pull/34806): Core: Ignore story-like directories in indexer
 - [nextcloud/documentation #14860](https://github.com/nextcloud/documentation/pull/14860): docs: use folder terminology in mail manual
 - [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
@@ -40,8 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/artigen #298](https://github.com/MukundaKatta/artigen/pull/298): fix: address open issues (rolling batches)
 - [microsoft/gctoolkit #535](https://github.com/microsoft/gctoolkit/pull/535): docs: cross-link contributor guides
 - [MukundaKatta/artigen #179](https://github.com/MukundaKatta/artigen/pull/179): fix(types): type preset grids and trending prompts
-- [MukundaKatta/artigen #178](https://github.com/MukundaKatta/artigen/pull/178): fix(types): replace `any` data props with concrete database types
-- [MukundaKatta/artigen #177](https://github.com/MukundaKatta/artigen/pull/177): fix(types): drop `as any` casts in 6 components (Ionicons + Input + StickerPickerSheet)
-- [MukundaKatta/SpotRank #3](https://github.com/MukundaKatta/SpotRank/pull/3): fix: Pydantic v2 deprecated Config syntax and hard-coded fallback SECRET_KEY
-- [MukundaKatta/artigen #176](https://github.com/MukundaKatta/artigen/pull/176): fix(types): drop `as any` casts in 5 UI components
-- [MukundaKatta/waitlist-api #2](https://github.com/MukundaKatta/waitlist-api/pull/2): Add daily email digest of waitlist signups

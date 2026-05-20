@@ -1,6 +1,41 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 69,
+      "title": "fix(pos): silence \"No printer name configured\" toast on every bill print",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/69",
+      "updated_at": "2026-05-20T02:09:16Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 301,
+      "title": "fix(types): drop `any` in supabase hooks (useSpotlightSearch + useChat)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/301",
+      "updated_at": "2026-05-20T01:34:28Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 300,
+      "title": "fix(types): type challenge components' `any[]`/`any` props",
+      "url": "https://github.com/MukundaKatta/artigen/pull/300",
+      "updated_at": "2026-05-20T01:34:11Z"
+    },
+    {
+      "repo": "MukundaKatta/artigen",
+      "number": 231,
+      "title": "fix(types): add Props types to 5 zero-prop components + tighten DesktopSidebar",
+      "url": "https://github.com/MukundaKatta/artigen/pull/231",
+      "updated_at": "2026-05-20T01:33:51Z"
+    },
+    {
+      "repo": "MukundaKatta/agentcast",
+      "number": 8,
+      "title": "fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))",
+      "url": "https://github.com/MukundaKatta/agentcast/pull/8",
+      "updated_at": "2026-05-20T01:09:26Z"
+    },
+    {
       "repo": "storybookjs/storybook",
       "number": 34806,
       "title": "Core: Ignore story-like directories in indexer",
@@ -104,41 +139,6 @@
       "title": "fix(types): type preset grids and trending prompts",
       "url": "https://github.com/MukundaKatta/artigen/pull/179",
       "updated_at": "2026-05-16T21:53:46Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 178,
-      "title": "fix(types): replace `any` data props with concrete database types",
-      "url": "https://github.com/MukundaKatta/artigen/pull/178",
-      "updated_at": "2026-05-16T21:53:43Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 177,
-      "title": "fix(types): drop `as any` casts in 6 components (Ionicons + Input + StickerPickerSheet)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/177",
-      "updated_at": "2026-05-16T21:53:40Z"
-    },
-    {
-      "repo": "MukundaKatta/SpotRank",
-      "number": 3,
-      "title": "fix: Pydantic v2 deprecated Config syntax and hard-coded fallback SECRET_KEY",
-      "url": "https://github.com/MukundaKatta/SpotRank/pull/3",
-      "updated_at": "2026-05-16T21:38:58Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 176,
-      "title": "fix(types): drop `as any` casts in 5 UI components",
-      "url": "https://github.com/MukundaKatta/artigen/pull/176",
-      "updated_at": "2026-05-16T21:31:49Z"
-    },
-    {
-      "repo": "MukundaKatta/waitlist-api",
-      "number": 2,
-      "title": "Add daily email digest of waitlist signups",
-      "url": "https://github.com/MukundaKatta/waitlist-api/pull/2",
-      "updated_at": "2026-05-16T21:22:10Z"
     }
   ]
 }
