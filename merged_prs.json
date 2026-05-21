@@ -1,6 +1,69 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "im-anishraj/arnio",
+      "number": 351,
+      "title": "feat: add column existence validation helper",
+      "url": "https://github.com/im-anishraj/arnio/pull/351",
+      "updated_at": "2026-05-21T09:44:14Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 96,
+      "title": "feat(donate): port donate flow to Supabase Edge Functions",
+      "url": "https://github.com/MukundaKatta/rnht/pull/96",
+      "updated_at": "2026-05-21T05:44:18Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 95,
+      "title": "chore: remove placeholder finances + donor wall from /transparency",
+      "url": "https://github.com/MukundaKatta/rnht/pull/95",
+      "updated_at": "2026-05-21T05:05:46Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 94,
+      "title": "chore: remove placeholder email from JSON-LD; fix dir-URL cache",
+      "url": "https://github.com/MukundaKatta/rnht/pull/94",
+      "updated_at": "2026-05-21T05:01:51Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 93,
+      "title": "chore: prod-readiness batch 1 (UI/copy fixes)",
+      "url": "https://github.com/MukundaKatta/rnht/pull/93",
+      "updated_at": "2026-05-21T04:58:17Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 92,
+      "title": "chore(hosting): no-cache HTML so deploys are visible immediately",
+      "url": "https://github.com/MukundaKatta/rnht/pull/92",
+      "updated_at": "2026-05-21T04:07:49Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 91,
+      "title": "fix(home): correct calendar preview aspect + drop card-stretch gap",
+      "url": "https://github.com/MukundaKatta/rnht/pull/91",
+      "updated_at": "2026-05-21T03:18:06Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 90,
+      "title": "refactor(home): redesign Panchangam banner to match site language",
+      "url": "https://github.com/MukundaKatta/rnht/pull/90",
+      "updated_at": "2026-05-21T02:44:27Z"
+    },
+    {
+      "repo": "MukundaKatta/rnht",
+      "number": 89,
+      "title": "fix(home): make Panchangam scroll mobile responsive",
+      "url": "https://github.com/MukundaKatta/rnht/pull/89",
+      "updated_at": "2026-05-21T02:29:08Z"
+    },
+    {
       "repo": "MukundaKatta/amogha-cafe",
       "number": 69,
       "title": "fix(pos): silence \"No printer name configured\" toast on every bill print",
@@ -50,13 +113,6 @@
       "updated_at": "2026-05-19T12:52:42Z"
     },
     {
-      "repo": "im-anishraj/arnio",
-      "number": 351,
-      "title": "feat: add column existence validation helper",
-      "url": "https://github.com/im-anishraj/arnio/pull/351",
-      "updated_at": "2026-05-19T08:17:55Z"
-    },
-    {
       "repo": "AcademySoftwareFoundation/OpenCue",
       "number": 2330,
       "title": "[cueweb] Add frame state filter chips",
@@ -83,62 +139,6 @@
       "title": "fix(gemini): preserve generic error context",
       "url": "https://github.com/agno-agi/agno/pull/7607",
       "updated_at": "2026-05-18T19:51:19Z"
-    },
-    {
-      "repo": "sveltejs/svelte",
-      "number": 18226,
-      "title": "docs: clarify context state getter pattern",
-      "url": "https://github.com/sveltejs/svelte/pull/18226",
-      "updated_at": "2026-05-18T19:42:21Z"
-    },
-    {
-      "repo": "vitest-dev/vitest",
-      "number": 10358,
-      "title": "docs: mention xvfb for headful WebdriverIO Chrome",
-      "url": "https://github.com/vitest-dev/vitest/pull/10358",
-      "updated_at": "2026-05-18T11:08:26Z"
-    },
-    {
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "number": 2062,
-      "title": "docs: explain concurrent session options",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2062",
-      "updated_at": "2026-05-18T08:30:52Z"
-    },
-    {
-      "repo": "apache/doris",
-      "number": 62521,
-      "title": "[fix](storage) Fix typo 'occured' in user-facing error messages",
-      "url": "https://github.com/apache/doris/pull/62521",
-      "updated_at": "2026-05-18T07:59:37Z"
-    },
-    {
-      "repo": "apache/pulsar-site",
-      "number": 1139,
-      "title": "[improve][docs] Clarify failover standby mapping in 3.0.x docs",
-      "url": "https://github.com/apache/pulsar-site/pull/1139",
-      "updated_at": "2026-05-18T07:43:48Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 298,
-      "title": "fix: address open issues (rolling batches)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/298",
-      "updated_at": "2026-05-18T06:59:03Z"
-    },
-    {
-      "repo": "microsoft/gctoolkit",
-      "number": 535,
-      "title": "docs: cross-link contributor guides",
-      "url": "https://github.com/microsoft/gctoolkit/pull/535",
-      "updated_at": "2026-05-18T00:02:20Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 179,
-      "title": "fix(types): type preset grids and trending prompts",
-      "url": "https://github.com/MukundaKatta/artigen/pull/179",
-      "updated_at": "2026-05-16T21:53:46Z"
     }
   ]
 }

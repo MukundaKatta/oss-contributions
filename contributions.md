@@ -25,6 +25,15 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
+- [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions
+- [MukundaKatta/rnht #95](https://github.com/MukundaKatta/rnht/pull/95): chore: remove placeholder finances + donor wall from /transparency
+- [MukundaKatta/rnht #94](https://github.com/MukundaKatta/rnht/pull/94): chore: remove placeholder email from JSON-LD; fix dir-URL cache
+- [MukundaKatta/rnht #93](https://github.com/MukundaKatta/rnht/pull/93): chore: prod-readiness batch 1 (UI/copy fixes)
+- [MukundaKatta/rnht #92](https://github.com/MukundaKatta/rnht/pull/92): chore(hosting): no-cache HTML so deploys are visible immediately
+- [MukundaKatta/rnht #91](https://github.com/MukundaKatta/rnht/pull/91): fix(home): correct calendar preview aspect + drop card-stretch gap
+- [MukundaKatta/rnht #90](https://github.com/MukundaKatta/rnht/pull/90): refactor(home): redesign Panchangam banner to match site language
+- [MukundaKatta/rnht #89](https://github.com/MukundaKatta/rnht/pull/89): fix(home): make Panchangam scroll mobile responsive
 - [MukundaKatta/amogha-cafe #69](https://github.com/MukundaKatta/amogha-cafe/pull/69): fix(pos): silence "No printer name configured" toast on every bill print
 - [MukundaKatta/artigen #301](https://github.com/MukundaKatta/artigen/pull/301): fix(types): drop `any` in supabase hooks (useSpotlightSearch + useChat)
 - [MukundaKatta/artigen #300](https://github.com/MukundaKatta/artigen/pull/300): fix(types): type challenge components' `any[]`/`any` props
@@ -32,16 +41,7 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/agentcast #8](https://github.com/MukundaKatta/agentcast/pull/8): fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))
 - [storybookjs/storybook #34806](https://github.com/storybookjs/storybook/pull/34806): Core: Ignore story-like directories in indexer
 - [nextcloud/documentation #14860](https://github.com/nextcloud/documentation/pull/14860): docs: use folder terminology in mail manual
-- [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
 - [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
 - [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
 - [MukundaKatta/artigen #302](https://github.com/MukundaKatta/artigen/pull/302): fix(types): type ShareSheet's profile and user-filter callback
 - [agno-agi/agno #7607](https://github.com/agno-agi/agno/pull/7607): fix(gemini): preserve generic error context
-- [sveltejs/svelte #18226](https://github.com/sveltejs/svelte/pull/18226): docs: clarify context state getter pattern
-- [vitest-dev/vitest #10358](https://github.com/vitest-dev/vitest/pull/10358): docs: mention xvfb for headful WebdriverIO Chrome
-- [ChromeDevTools/chrome-devtools-mcp #2062](https://github.com/ChromeDevTools/chrome-devtools-mcp/pull/2062): docs: explain concurrent session options
-- [apache/doris #62521](https://github.com/apache/doris/pull/62521): [fix](storage) Fix typo 'occured' in user-facing error messages
-- [apache/pulsar-site #1139](https://github.com/apache/pulsar-site/pull/1139): [improve][docs] Clarify failover standby mapping in 3.0.x docs
-- [MukundaKatta/artigen #298](https://github.com/MukundaKatta/artigen/pull/298): fix: address open issues (rolling batches)
-- [microsoft/gctoolkit #535](https://github.com/microsoft/gctoolkit/pull/535): docs: cross-link contributor guides
-- [MukundaKatta/artigen #179](https://github.com/MukundaKatta/artigen/pull/179): fix(types): type preset grids and trending prompts
