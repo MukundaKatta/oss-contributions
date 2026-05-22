@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [storybookjs/storybook #34809](https://github.com/storybookjs/storybook/pull/34809): UI: Allow manager-head favicon override
 - [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
 - [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions
 - [MukundaKatta/rnht #95](https://github.com/MukundaKatta/rnht/pull/95): chore: remove placeholder finances + donor wall from /transparency
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
 - [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
 - [MukundaKatta/artigen #302](https://github.com/MukundaKatta/artigen/pull/302): fix(types): type ShareSheet's profile and user-filter callback
-- [agno-agi/agno #7607](https://github.com/agno-agi/agno/pull/7607): fix(gemini): preserve generic error context
