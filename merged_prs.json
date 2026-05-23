@@ -1,6 +1,27 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "pytest-dev/pytest",
+      "number": 14485,
+      "title": "docs: clarify hookimpl specname limitation",
+      "url": "https://github.com/pytest-dev/pytest/pull/14485",
+      "updated_at": "2026-05-23T13:16:13Z"
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "number": 14486,
+      "title": "docs: clarify stdlib monkeypatch guidance",
+      "url": "https://github.com/pytest-dev/pytest/pull/14486",
+      "updated_at": "2026-05-23T13:15:39Z"
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "number": 14487,
+      "title": "docs: document doctest fixture parametrization limit",
+      "url": "https://github.com/pytest-dev/pytest/pull/14487",
+      "updated_at": "2026-05-23T13:15:00Z"
+    },
+    {
       "repo": "storybookjs/storybook",
       "number": 34809,
       "title": "UI: Allow manager-head favicon override",
@@ -118,27 +139,6 @@
       "title": "docs: use folder terminology in mail manual",
       "url": "https://github.com/nextcloud/documentation/pull/14860",
       "updated_at": "2026-05-19T12:52:42Z"
-    },
-    {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2330,
-      "title": "[cueweb] Add frame state filter chips",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
-      "updated_at": "2026-05-19T04:29:32Z"
-    },
-    {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2331,
-      "title": "[cueweb] Add job progress tooltip",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
-      "updated_at": "2026-05-19T03:45:16Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 302,
-      "title": "fix(types): type ShareSheet's profile and user-filter callback",
-      "url": "https://github.com/MukundaKatta/artigen/pull/302",
-      "updated_at": "2026-05-18T19:53:27Z"
     }
   ]
 }

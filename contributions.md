@@ -25,6 +25,9 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [pytest-dev/pytest #14485](https://github.com/pytest-dev/pytest/pull/14485): docs: clarify hookimpl specname limitation
+- [pytest-dev/pytest #14486](https://github.com/pytest-dev/pytest/pull/14486): docs: clarify stdlib monkeypatch guidance
+- [pytest-dev/pytest #14487](https://github.com/pytest-dev/pytest/pull/14487): docs: document doctest fixture parametrization limit
 - [storybookjs/storybook #34809](https://github.com/storybookjs/storybook/pull/34809): UI: Allow manager-head favicon override
 - [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
 - [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions
@@ -42,6 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/agentcast #8](https://github.com/MukundaKatta/agentcast/pull/8): fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))
 - [storybookjs/storybook #34806](https://github.com/storybookjs/storybook/pull/34806): Core: Ignore story-like directories in indexer
 - [nextcloud/documentation #14860](https://github.com/nextcloud/documentation/pull/14860): docs: use folder terminology in mail manual
-- [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
-- [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
-- [MukundaKatta/artigen #302](https://github.com/MukundaKatta/artigen/pull/302): fix(types): type ShareSheet's profile and user-filter callback
