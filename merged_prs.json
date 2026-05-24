@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openai/tiktoken",
+      "number": 535,
+      "title": "ci: use static artifact name for sdist build job",
+      "url": "https://github.com/openai/tiktoken/pull/535",
+      "updated_at": "2026-05-24T08:43:54Z"
+    },
+    {
       "repo": "pytest-dev/pytest",
       "number": 14485,
       "title": "docs: clarify hookimpl specname limitation",
@@ -132,13 +139,6 @@
       "title": "Core: Ignore story-like directories in indexer",
       "url": "https://github.com/storybookjs/storybook/pull/34806",
       "updated_at": "2026-05-19T15:03:51Z"
-    },
-    {
-      "repo": "nextcloud/documentation",
-      "number": 14860,
-      "title": "docs: use folder terminology in mail manual",
-      "url": "https://github.com/nextcloud/documentation/pull/14860",
-      "updated_at": "2026-05-19T12:52:42Z"
     }
   ]
 }
