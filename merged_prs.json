@@ -1,6 +1,69 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "MukundaKatta/fanout",
+      "number": 64,
+      "title": "docs: rewrite README to reflect the autonomy loop",
+      "url": "https://github.com/MukundaKatta/fanout/pull/64",
+      "updated_at": "2026-05-24T20:51:44Z"
+    },
+    {
+      "repo": "uutils/sed",
+      "number": 434,
+      "title": "fix: preserve latest binary executable mode",
+      "url": "https://github.com/uutils/sed/pull/434",
+      "updated_at": "2026-05-24T18:00:21Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 63,
+      "title": "feat(web): /operator history page",
+      "url": "https://github.com/MukundaKatta/fanout/pull/63",
+      "updated_at": "2026-05-24T17:15:26Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 62,
+      "title": "feat(extension): outcome-puller \u2014 close the autonomy loop",
+      "url": "https://github.com/MukundaKatta/fanout/pull/62",
+      "updated_at": "2026-05-24T17:11:34Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 61,
+      "title": "feat(web): operator panel on research page",
+      "url": "https://github.com/MukundaKatta/fanout/pull/61",
+      "updated_at": "2026-05-24T16:55:19Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 60,
+      "title": "feat: operator scheduler \u2014 subscriptions + tick + hourly cron",
+      "url": "https://github.com/MukundaKatta/fanout/pull/60",
+      "updated_at": "2026-05-24T16:25:38Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 59,
+      "title": "feat: Eva operator \u2014 autonomous draft cycle with leaderboard-weighted picks",
+      "url": "https://github.com/MukundaKatta/fanout/pull/59",
+      "updated_at": "2026-05-24T16:14:07Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 58,
+      "title": "feat: outcome feedback collector \u2014 close the research loop",
+      "url": "https://github.com/MukundaKatta/fanout/pull/58",
+      "updated_at": "2026-05-24T16:07:59Z"
+    },
+    {
+      "repo": "MukundaKatta/fanout",
+      "number": 57,
+      "title": "feat: research loop \u2014 workbench UI, subscriptions, citations, hourly cron",
+      "url": "https://github.com/MukundaKatta/fanout/pull/57",
+      "updated_at": "2026-05-24T15:54:25Z"
+    },
+    {
       "repo": "openai/tiktoken",
       "number": 535,
       "title": "ci: use static artifact name for sdist build job",
@@ -76,69 +139,6 @@
       "title": "chore(hosting): no-cache HTML so deploys are visible immediately",
       "url": "https://github.com/MukundaKatta/rnht/pull/92",
       "updated_at": "2026-05-21T04:07:49Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 91,
-      "title": "fix(home): correct calendar preview aspect + drop card-stretch gap",
-      "url": "https://github.com/MukundaKatta/rnht/pull/91",
-      "updated_at": "2026-05-21T03:18:06Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 90,
-      "title": "refactor(home): redesign Panchangam banner to match site language",
-      "url": "https://github.com/MukundaKatta/rnht/pull/90",
-      "updated_at": "2026-05-21T02:44:27Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 89,
-      "title": "fix(home): make Panchangam scroll mobile responsive",
-      "url": "https://github.com/MukundaKatta/rnht/pull/89",
-      "updated_at": "2026-05-21T02:29:08Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 69,
-      "title": "fix(pos): silence \"No printer name configured\" toast on every bill print",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/69",
-      "updated_at": "2026-05-20T02:09:16Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 301,
-      "title": "fix(types): drop `any` in supabase hooks (useSpotlightSearch + useChat)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/301",
-      "updated_at": "2026-05-20T01:34:28Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 300,
-      "title": "fix(types): type challenge components' `any[]`/`any` props",
-      "url": "https://github.com/MukundaKatta/artigen/pull/300",
-      "updated_at": "2026-05-20T01:34:11Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 231,
-      "title": "fix(types): add Props types to 5 zero-prop components + tighten DesktopSidebar",
-      "url": "https://github.com/MukundaKatta/artigen/pull/231",
-      "updated_at": "2026-05-20T01:33:51Z"
-    },
-    {
-      "repo": "MukundaKatta/agentcast",
-      "number": 8,
-      "title": "fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))",
-      "url": "https://github.com/MukundaKatta/agentcast/pull/8",
-      "updated_at": "2026-05-20T01:09:26Z"
-    },
-    {
-      "repo": "storybookjs/storybook",
-      "number": 34806,
-      "title": "Core: Ignore story-like directories in indexer",
-      "url": "https://github.com/storybookjs/storybook/pull/34806",
-      "updated_at": "2026-05-19T15:03:51Z"
     }
   ]
 }

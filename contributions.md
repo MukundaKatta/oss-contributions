@@ -25,6 +25,15 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [MukundaKatta/fanout #64](https://github.com/MukundaKatta/fanout/pull/64): docs: rewrite README to reflect the autonomy loop
+- [uutils/sed #434](https://github.com/uutils/sed/pull/434): fix: preserve latest binary executable mode
+- [MukundaKatta/fanout #63](https://github.com/MukundaKatta/fanout/pull/63): feat(web): /operator history page
+- [MukundaKatta/fanout #62](https://github.com/MukundaKatta/fanout/pull/62): feat(extension): outcome-puller — close the autonomy loop
+- [MukundaKatta/fanout #61](https://github.com/MukundaKatta/fanout/pull/61): feat(web): operator panel on research page
+- [MukundaKatta/fanout #60](https://github.com/MukundaKatta/fanout/pull/60): feat: operator scheduler — subscriptions + tick + hourly cron
+- [MukundaKatta/fanout #59](https://github.com/MukundaKatta/fanout/pull/59): feat: Eva operator — autonomous draft cycle with leaderboard-weighted picks
+- [MukundaKatta/fanout #58](https://github.com/MukundaKatta/fanout/pull/58): feat: outcome feedback collector — close the research loop
+- [MukundaKatta/fanout #57](https://github.com/MukundaKatta/fanout/pull/57): feat: research loop — workbench UI, subscriptions, citations, hourly cron
 - [openai/tiktoken #535](https://github.com/openai/tiktoken/pull/535): ci: use static artifact name for sdist build job
 - [pytest-dev/pytest #14485](https://github.com/pytest-dev/pytest/pull/14485): docs: clarify hookimpl specname limitation
 - [pytest-dev/pytest #14486](https://github.com/pytest-dev/pytest/pull/14486): docs: clarify stdlib monkeypatch guidance
@@ -36,12 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/rnht #94](https://github.com/MukundaKatta/rnht/pull/94): chore: remove placeholder email from JSON-LD; fix dir-URL cache
 - [MukundaKatta/rnht #93](https://github.com/MukundaKatta/rnht/pull/93): chore: prod-readiness batch 1 (UI/copy fixes)
 - [MukundaKatta/rnht #92](https://github.com/MukundaKatta/rnht/pull/92): chore(hosting): no-cache HTML so deploys are visible immediately
-- [MukundaKatta/rnht #91](https://github.com/MukundaKatta/rnht/pull/91): fix(home): correct calendar preview aspect + drop card-stretch gap
-- [MukundaKatta/rnht #90](https://github.com/MukundaKatta/rnht/pull/90): refactor(home): redesign Panchangam banner to match site language
-- [MukundaKatta/rnht #89](https://github.com/MukundaKatta/rnht/pull/89): fix(home): make Panchangam scroll mobile responsive
-- [MukundaKatta/amogha-cafe #69](https://github.com/MukundaKatta/amogha-cafe/pull/69): fix(pos): silence "No printer name configured" toast on every bill print
-- [MukundaKatta/artigen #301](https://github.com/MukundaKatta/artigen/pull/301): fix(types): drop `any` in supabase hooks (useSpotlightSearch + useChat)
-- [MukundaKatta/artigen #300](https://github.com/MukundaKatta/artigen/pull/300): fix(types): type challenge components' `any[]`/`any` props
-- [MukundaKatta/artigen #231](https://github.com/MukundaKatta/artigen/pull/231): fix(types): add Props types to 5 zero-prop components + tighten DesktopSidebar
-- [MukundaKatta/agentcast #8](https://github.com/MukundaKatta/agentcast/pull/8): fix(extract): rewrite extractLargestBalanced as single-pass O(N) (was O(N^2))
-- [storybookjs/storybook #34806](https://github.com/storybookjs/storybook/pull/34806): Core: Ignore story-like directories in indexer
