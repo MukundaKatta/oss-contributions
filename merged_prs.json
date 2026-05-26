@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "denoland/std",
+      "number": 7131,
+      "title": "fix(http): getCookies returns Partial<Record<string, string>>",
+      "url": "https://github.com/denoland/std/pull/7131",
+      "updated_at": "2026-05-26T09:34:44Z"
+    },
+    {
+      "repo": "napi-rs/napi-rs",
+      "number": 3236,
+      "title": "fix(cli): NAPI_RS_FORCE_WASI only activates on 'true' or 'error'",
+      "url": "https://github.com/napi-rs/napi-rs/pull/3236",
+      "updated_at": "2026-05-26T04:43:37Z"
+    },
+    {
       "repo": "MukundaKatta/fanout",
       "number": 64,
       "title": "docs: rewrite README to reflect the autonomy loop",
@@ -125,20 +139,6 @@
       "title": "chore: remove placeholder email from JSON-LD; fix dir-URL cache",
       "url": "https://github.com/MukundaKatta/rnht/pull/94",
       "updated_at": "2026-05-21T05:01:51Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 93,
-      "title": "chore: prod-readiness batch 1 (UI/copy fixes)",
-      "url": "https://github.com/MukundaKatta/rnht/pull/93",
-      "updated_at": "2026-05-21T04:58:17Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 92,
-      "title": "chore(hosting): no-cache HTML so deploys are visible immediately",
-      "url": "https://github.com/MukundaKatta/rnht/pull/92",
-      "updated_at": "2026-05-21T04:07:49Z"
     }
   ]
 }

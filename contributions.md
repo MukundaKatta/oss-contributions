@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [denoland/std #7131](https://github.com/denoland/std/pull/7131): fix(http): getCookies returns Partial<Record<string, string>>
+- [napi-rs/napi-rs #3236](https://github.com/napi-rs/napi-rs/pull/3236): fix(cli): NAPI_RS_FORCE_WASI only activates on 'true' or 'error'
 - [MukundaKatta/fanout #64](https://github.com/MukundaKatta/fanout/pull/64): docs: rewrite README to reflect the autonomy loop
 - [uutils/sed #434](https://github.com/uutils/sed/pull/434): fix: preserve latest binary executable mode
 - [MukundaKatta/fanout #63](https://github.com/MukundaKatta/fanout/pull/63): feat(web): /operator history page
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions
 - [MukundaKatta/rnht #95](https://github.com/MukundaKatta/rnht/pull/95): chore: remove placeholder finances + donor wall from /transparency
 - [MukundaKatta/rnht #94](https://github.com/MukundaKatta/rnht/pull/94): chore: remove placeholder email from JSON-LD; fix dir-URL cache
-- [MukundaKatta/rnht #93](https://github.com/MukundaKatta/rnht/pull/93): chore: prod-readiness batch 1 (UI/copy fixes)
-- [MukundaKatta/rnht #92](https://github.com/MukundaKatta/rnht/pull/92): chore(hosting): no-cache HTML so deploys are visible immediately
