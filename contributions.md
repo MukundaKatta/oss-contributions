@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
+- [apache/pulsar-client-go #1485](https://github.com/apache/pulsar-client-go/pull/1485): docs(producer): clarify SendAsync description
 - [denoland/std #7131](https://github.com/denoland/std/pull/7131): fix(http): getCookies returns Partial<Record<string, string>>
 - [napi-rs/napi-rs #3236](https://github.com/napi-rs/napi-rs/pull/3236): fix(cli): NAPI_RS_FORCE_WASI only activates on 'true' or 'error'
 - [MukundaKatta/fanout #64](https://github.com/MukundaKatta/fanout/pull/64): docs: rewrite README to reflect the autonomy loop
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [storybookjs/storybook #34809](https://github.com/storybookjs/storybook/pull/34809): UI: Allow manager-head favicon override
 - [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
 - [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions
-- [MukundaKatta/rnht #95](https://github.com/MukundaKatta/rnht/pull/95): chore: remove placeholder finances + donor wall from /transparency
-- [MukundaKatta/rnht #94](https://github.com/MukundaKatta/rnht/pull/94): chore: remove placeholder email from JSON-LD; fix dir-URL cache

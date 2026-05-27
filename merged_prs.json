@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "google-gemini/gemini-cli",
+      "number": 27102,
+      "title": "fix(cli): ignore unmapped vim normal keys",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/27102",
+      "updated_at": "2026-05-27T17:16:08Z"
+    },
+    {
+      "repo": "apache/pulsar-client-go",
+      "number": 1485,
+      "title": "docs(producer): clarify SendAsync description",
+      "url": "https://github.com/apache/pulsar-client-go/pull/1485",
+      "updated_at": "2026-05-27T06:57:07Z"
+    },
+    {
       "repo": "denoland/std",
       "number": 7131,
       "title": "fix(http): getCookies returns Partial<Record<string, string>>",
@@ -125,20 +139,6 @@
       "title": "feat(donate): port donate flow to Supabase Edge Functions",
       "url": "https://github.com/MukundaKatta/rnht/pull/96",
       "updated_at": "2026-05-21T05:44:18Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 95,
-      "title": "chore: remove placeholder finances + donor wall from /transparency",
-      "url": "https://github.com/MukundaKatta/rnht/pull/95",
-      "updated_at": "2026-05-21T05:05:46Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 94,
-      "title": "chore: remove placeholder email from JSON-LD; fix dir-URL cache",
-      "url": "https://github.com/MukundaKatta/rnht/pull/94",
-      "updated_at": "2026-05-21T05:01:51Z"
     }
   ]
 }
