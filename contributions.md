@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [dapr/dapr #9798](https://github.com/dapr/dapr/pull/9798): Fix 'sucessful' typo in scheduler.proto comment
 - [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
 - [apache/pulsar-client-go #1485](https://github.com/apache/pulsar-client-go/pull/1485): docs(producer): clarify SendAsync description
 - [denoland/std #7131](https://github.com/denoland/std/pull/7131): fix(http): getCookies returns Partial<Record<string, string>>
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [pytest-dev/pytest #14487](https://github.com/pytest-dev/pytest/pull/14487): docs: document doctest fixture parametrization limit
 - [storybookjs/storybook #34809](https://github.com/storybookjs/storybook/pull/34809): UI: Allow manager-head favicon override
 - [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
-- [MukundaKatta/rnht #96](https://github.com/MukundaKatta/rnht/pull/96): feat(donate): port donate flow to Supabase Edge Functions

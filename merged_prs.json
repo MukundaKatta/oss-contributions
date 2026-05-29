@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "dapr/dapr",
+      "number": 9798,
+      "title": "Fix 'sucessful' typo in scheduler.proto comment",
+      "url": "https://github.com/dapr/dapr/pull/9798",
+      "updated_at": "2026-05-29T09:45:34Z"
+    },
+    {
       "repo": "google-gemini/gemini-cli",
       "number": 27102,
       "title": "fix(cli): ignore unmapped vim normal keys",
@@ -132,13 +139,6 @@
       "title": "feat: add column existence validation helper",
       "url": "https://github.com/im-anishraj/arnio/pull/351",
       "updated_at": "2026-05-21T09:44:14Z"
-    },
-    {
-      "repo": "MukundaKatta/rnht",
-      "number": 96,
-      "title": "feat(donate): port donate flow to Supabase Edge Functions",
-      "url": "https://github.com/MukundaKatta/rnht/pull/96",
-      "updated_at": "2026-05-21T05:44:18Z"
     }
   ]
 }
