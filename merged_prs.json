@@ -1,6 +1,41 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "MukundaKatta/karna",
+      "number": 624,
+      "title": "feat: trends-2026 wave 3 \u2014 orchestration, evals, memory, security, MCP, observability (~35 issues)",
+      "url": "https://github.com/MukundaKatta/karna/pull/624",
+      "updated_at": "2026-05-30T04:41:51Z"
+    },
+    {
+      "repo": "MukundaKatta/chetana",
+      "number": 656,
+      "title": "Implement 2026 trend issues (#556\u2013#655)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/656",
+      "updated_at": "2026-05-30T03:26:58Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 623,
+      "title": "feat: model provider hardening \u2014 local provider, circuit breaker, prompt caching (wave 2)",
+      "url": "https://github.com/MukundaKatta/karna/pull/623",
+      "updated_at": "2026-05-30T03:23:06Z"
+    },
+    {
+      "repo": "MukundaKatta/karna",
+      "number": 622,
+      "title": "Agent-ecosystem trends: first implementation wave (additive, non-breaking)",
+      "url": "https://github.com/MukundaKatta/karna/pull/622",
+      "updated_at": "2026-05-30T02:52:32Z"
+    },
+    {
+      "repo": "nextcloud/documentation",
+      "number": 14860,
+      "title": "docs: use folder terminology in mail manual",
+      "url": "https://github.com/nextcloud/documentation/pull/14860",
+      "updated_at": "2026-05-30T02:30:09Z"
+    },
+    {
       "repo": "dapr/dapr",
       "number": 9798,
       "title": "Fix 'sucessful' typo in scheduler.proto comment",
@@ -104,41 +139,6 @@
       "title": "ci: use static artifact name for sdist build job",
       "url": "https://github.com/openai/tiktoken/pull/535",
       "updated_at": "2026-05-24T08:43:54Z"
-    },
-    {
-      "repo": "pytest-dev/pytest",
-      "number": 14485,
-      "title": "docs: clarify hookimpl specname limitation",
-      "url": "https://github.com/pytest-dev/pytest/pull/14485",
-      "updated_at": "2026-05-23T13:16:13Z"
-    },
-    {
-      "repo": "pytest-dev/pytest",
-      "number": 14486,
-      "title": "docs: clarify stdlib monkeypatch guidance",
-      "url": "https://github.com/pytest-dev/pytest/pull/14486",
-      "updated_at": "2026-05-23T13:15:39Z"
-    },
-    {
-      "repo": "pytest-dev/pytest",
-      "number": 14487,
-      "title": "docs: document doctest fixture parametrization limit",
-      "url": "https://github.com/pytest-dev/pytest/pull/14487",
-      "updated_at": "2026-05-23T13:15:00Z"
-    },
-    {
-      "repo": "storybookjs/storybook",
-      "number": 34809,
-      "title": "UI: Allow manager-head favicon override",
-      "url": "https://github.com/storybookjs/storybook/pull/34809",
-      "updated_at": "2026-05-22T13:37:55Z"
-    },
-    {
-      "repo": "im-anishraj/arnio",
-      "number": 351,
-      "title": "feat: add column existence validation helper",
-      "url": "https://github.com/im-anishraj/arnio/pull/351",
-      "updated_at": "2026-05-21T09:44:14Z"
     }
   ]
 }

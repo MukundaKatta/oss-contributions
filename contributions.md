@@ -25,6 +25,11 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [MukundaKatta/karna #624](https://github.com/MukundaKatta/karna/pull/624): feat: trends-2026 wave 3 — orchestration, evals, memory, security, MCP, observability (~35 issues)
+- [MukundaKatta/chetana #656](https://github.com/MukundaKatta/chetana/pull/656): Implement 2026 trend issues (#556–#655)
+- [MukundaKatta/karna #623](https://github.com/MukundaKatta/karna/pull/623): feat: model provider hardening — local provider, circuit breaker, prompt caching (wave 2)
+- [MukundaKatta/karna #622](https://github.com/MukundaKatta/karna/pull/622): Agent-ecosystem trends: first implementation wave (additive, non-breaking)
+- [nextcloud/documentation #14860](https://github.com/nextcloud/documentation/pull/14860): docs: use folder terminology in mail manual
 - [dapr/dapr #9798](https://github.com/dapr/dapr/pull/9798): Fix 'sucessful' typo in scheduler.proto comment
 - [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
 - [apache/pulsar-client-go #1485](https://github.com/apache/pulsar-client-go/pull/1485): docs(producer): clarify SendAsync description
@@ -40,8 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/fanout #58](https://github.com/MukundaKatta/fanout/pull/58): feat: outcome feedback collector — close the research loop
 - [MukundaKatta/fanout #57](https://github.com/MukundaKatta/fanout/pull/57): feat: research loop — workbench UI, subscriptions, citations, hourly cron
 - [openai/tiktoken #535](https://github.com/openai/tiktoken/pull/535): ci: use static artifact name for sdist build job
-- [pytest-dev/pytest #14485](https://github.com/pytest-dev/pytest/pull/14485): docs: clarify hookimpl specname limitation
-- [pytest-dev/pytest #14486](https://github.com/pytest-dev/pytest/pull/14486): docs: clarify stdlib monkeypatch guidance
-- [pytest-dev/pytest #14487](https://github.com/pytest-dev/pytest/pull/14487): docs: document doctest fixture parametrization limit
-- [storybookjs/storybook #34809](https://github.com/storybookjs/storybook/pull/34809): UI: Allow manager-head favicon override
-- [im-anishraj/arnio #351](https://github.com/im-anishraj/arnio/pull/351): feat: add column existence validation helper
