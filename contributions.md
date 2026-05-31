@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [openclaw/openclaw #87962](https://github.com/openclaw/openclaw/pull/87962): fix(webchat): suppress stale active session row racing a completed turn (#87875)
 - [MukundaKatta/karna #624](https://github.com/MukundaKatta/karna/pull/624): feat: trends-2026 wave 3 — orchestration, evals, memory, security, MCP, observability (~35 issues)
 - [MukundaKatta/chetana #656](https://github.com/MukundaKatta/chetana/pull/656): Implement 2026 trend issues (#556–#655)
 - [MukundaKatta/karna #623](https://github.com/MukundaKatta/karna/pull/623): feat: model provider hardening — local provider, circuit breaker, prompt caching (wave 2)
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/fanout #59](https://github.com/MukundaKatta/fanout/pull/59): feat: Eva operator — autonomous draft cycle with leaderboard-weighted picks
 - [MukundaKatta/fanout #58](https://github.com/MukundaKatta/fanout/pull/58): feat: outcome feedback collector — close the research loop
 - [MukundaKatta/fanout #57](https://github.com/MukundaKatta/fanout/pull/57): feat: research loop — workbench UI, subscriptions, citations, hourly cron
-- [openai/tiktoken #535](https://github.com/openai/tiktoken/pull/535): ci: use static artifact name for sdist build job

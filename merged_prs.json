@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openclaw/openclaw",
+      "number": 87962,
+      "title": "fix(webchat): suppress stale active session row racing a completed turn (#87875)",
+      "url": "https://github.com/openclaw/openclaw/pull/87962",
+      "updated_at": "2026-05-31T13:35:51Z"
+    },
+    {
       "repo": "MukundaKatta/karna",
       "number": 624,
       "title": "feat: trends-2026 wave 3 \u2014 orchestration, evals, memory, security, MCP, observability (~35 issues)",
@@ -132,13 +139,6 @@
       "title": "feat: research loop \u2014 workbench UI, subscriptions, citations, hourly cron",
       "url": "https://github.com/MukundaKatta/fanout/pull/57",
       "updated_at": "2026-05-24T15:54:25Z"
-    },
-    {
-      "repo": "openai/tiktoken",
-      "number": 535,
-      "title": "ci: use static artifact name for sdist build job",
-      "url": "https://github.com/openai/tiktoken/pull/535",
-      "updated_at": "2026-05-24T08:43:54Z"
     }
   ]
 }
