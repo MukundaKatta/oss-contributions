@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [openclaw/openclaw #87962](https://github.com/openclaw/openclaw/pull/87962): fix(webchat): suppress stale active session row racing a completed turn (#87875)
-- [MukundaKatta/karna #624](https://github.com/MukundaKatta/karna/pull/624): feat: trends-2026 wave 3 — orchestration, evals, memory, security, MCP, observability (~35 issues)
-- [MukundaKatta/chetana #656](https://github.com/MukundaKatta/chetana/pull/656): Implement 2026 trend issues (#556–#655)
-- [MukundaKatta/karna #623](https://github.com/MukundaKatta/karna/pull/623): feat: model provider hardening — local provider, circuit breaker, prompt caching (wave 2)
-- [MukundaKatta/karna #622](https://github.com/MukundaKatta/karna/pull/622): Agent-ecosystem trends: first implementation wave (additive, non-breaking)
-- [nextcloud/documentation #14860](https://github.com/nextcloud/documentation/pull/14860): docs: use folder terminology in mail manual
-- [dapr/dapr #9798](https://github.com/dapr/dapr/pull/9798): Fix 'sucessful' typo in scheduler.proto comment
-- [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
-- [apache/pulsar-client-go #1485](https://github.com/apache/pulsar-client-go/pull/1485): docs(producer): clarify SendAsync description
-- [denoland/std #7131](https://github.com/denoland/std/pull/7131): fix(http): getCookies returns Partial<Record<string, string>>
-- [napi-rs/napi-rs #3236](https://github.com/napi-rs/napi-rs/pull/3236): fix(cli): NAPI_RS_FORCE_WASI only activates on 'true' or 'error'
-- [MukundaKatta/fanout #64](https://github.com/MukundaKatta/fanout/pull/64): docs: rewrite README to reflect the autonomy loop
-- [uutils/sed #434](https://github.com/uutils/sed/pull/434): fix: preserve latest binary executable mode
-- [MukundaKatta/fanout #63](https://github.com/MukundaKatta/fanout/pull/63): feat(web): /operator history page
-- [MukundaKatta/fanout #62](https://github.com/MukundaKatta/fanout/pull/62): feat(extension): outcome-puller — close the autonomy loop
-- [MukundaKatta/fanout #61](https://github.com/MukundaKatta/fanout/pull/61): feat(web): operator panel on research page
-- [MukundaKatta/fanout #60](https://github.com/MukundaKatta/fanout/pull/60): feat: operator scheduler — subscriptions + tick + hourly cron
-- [MukundaKatta/fanout #59](https://github.com/MukundaKatta/fanout/pull/59): feat: Eva operator — autonomous draft cycle with leaderboard-weighted picks
-- [MukundaKatta/fanout #58](https://github.com/MukundaKatta/fanout/pull/58): feat: outcome feedback collector — close the research loop
-- [MukundaKatta/fanout #57](https://github.com/MukundaKatta/fanout/pull/57): feat: research loop — workbench UI, subscriptions, citations, hourly cron
+- [MukundaKatta/mukunda-ai #22](https://github.com/MukundaKatta/mukunda-ai/pull/22): Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup
+- [MukundaKatta/mukunda-ai #21](https://github.com/MukundaKatta/mukunda-ai/pull/21): Accessibility, palette purge, and performance fixes
+- [MukundaKatta/chetana #1080](https://github.com/MukundaKatta/chetana/pull/1080): Implement report generators (#856,#857,#861,#862,#863)
+- [MukundaKatta/mukunda-ai #20](https://github.com/MukundaKatta/mukunda-ai/pull/20): Full portfolio redesign: cyberpunk-tech aesthetic + brand icons + polish
+- [MukundaKatta/chetana #1079](https://github.com/MukundaKatta/chetana/pull/1079): Implement phenomenology probes (#999–1010)
+- [MukundaKatta/chetana #1078](https://github.com/MukundaKatta/chetana/pull/1078): Implement advanced statistics (#1011–1017)
+- [MukundaKatta/chetana #877](https://github.com/MukundaKatta/chetana/pull/877): Cores: evaluation-science methods (#804,#806,#808,#809,#812–815)
+- [MukundaKatta/chetana #876](https://github.com/MukundaKatta/chetana/pull/876): Cores: comparative/neuroscience-grounded probes (#778–789)
+- [MukundaKatta/karna #630](https://github.com/MukundaKatta/karna/pull/630): feat: wire Anthropic prompt caching end-to-end (#592)
+- [MukundaKatta/karna #629](https://github.com/MukundaKatta/karna/pull/629): feat: wire tool security/rate-limit/cache modules into AgentRuntime
+- [MukundaKatta/karna #628](https://github.com/MukundaKatta/karna/pull/628): docs: trends-2026 implementation reconciliation map
+- [MukundaKatta/chetana #775](https://github.com/MukundaKatta/chetana/pull/775): Cores: platform logic — pagination, governance, RBAC, billing, alerting, cohort, queue
+- [MukundaKatta/chetana #774](https://github.com/MukundaKatta/chetana/pull/774): Governance: compliance/SLA/usage page (#743,#747,#748,#752,#756,#759)
+- [MukundaKatta/chetana #773](https://github.com/MukundaKatta/chetana/pull/773): Cores: governance, ops & probe-authoring (#707,#708,#743,#745,#747,#748,#752,#756,#759)
+- [MukundaKatta/karna #627](https://github.com/MukundaKatta/karna/pull/627): feat: cross-channel inline approve/deny rendering & callback parsing (#588)
+- [MukundaKatta/chetana #772](https://github.com/MukundaKatta/chetana/pull/772): Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse
+- [MukundaKatta/chetana #770](https://github.com/MukundaKatta/chetana/pull/770): Cores: 2026 theory + safety probes and 14 model adapters (#670–704)
+- [MukundaKatta/chetana #771](https://github.com/MukundaKatta/chetana/pull/771): Cores: analytics & statistics modules (#732,#733,#735,#736,#738,#739,#740)
+- [MukundaKatta/karna #626](https://github.com/MukundaKatta/karna/pull/626): feat: trends-2026 wave 5 — web & mobile UI (dashboards, approvals, marketplace)
+- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)

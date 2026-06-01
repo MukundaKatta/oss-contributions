@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
-      "repo": "openclaw/openclaw",
-      "number": 87962,
-      "title": "fix(webchat): suppress stale active session row racing a completed turn (#87875)",
-      "url": "https://github.com/openclaw/openclaw/pull/87962",
-      "updated_at": "2026-05-31T13:35:51Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 22,
+      "title": "Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/22",
+      "updated_at": "2026-06-01T04:39:33Z"
     },
     {
-      "repo": "MukundaKatta/karna",
-      "number": 624,
-      "title": "feat: trends-2026 wave 3 \u2014 orchestration, evals, memory, security, MCP, observability (~35 issues)",
-      "url": "https://github.com/MukundaKatta/karna/pull/624",
-      "updated_at": "2026-05-30T04:41:51Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 21,
+      "title": "Accessibility, palette purge, and performance fixes",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/21",
+      "updated_at": "2026-06-01T04:34:34Z"
     },
     {
       "repo": "MukundaKatta/chetana",
-      "number": 656,
-      "title": "Implement 2026 trend issues (#556\u2013#655)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/656",
-      "updated_at": "2026-05-30T03:26:58Z"
+      "number": 1080,
+      "title": "Implement report generators (#856,#857,#861,#862,#863)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1080",
+      "updated_at": "2026-06-01T04:30:42Z"
+    },
+    {
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 20,
+      "title": "Full portfolio redesign: cyberpunk-tech aesthetic + brand icons + polish",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/20",
+      "updated_at": "2026-06-01T04:27:08Z"
+    },
+    {
+      "repo": "MukundaKatta/chetana",
+      "number": 1079,
+      "title": "Implement phenomenology probes (#999\u20131010)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1079",
+      "updated_at": "2026-06-01T04:23:45Z"
+    },
+    {
+      "repo": "MukundaKatta/chetana",
+      "number": 1078,
+      "title": "Implement advanced statistics (#1011\u20131017)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1078",
+      "updated_at": "2026-06-01T04:20:07Z"
+    },
+    {
+      "repo": "MukundaKatta/chetana",
+      "number": 877,
+      "title": "Cores: evaluation-science methods (#804,#806,#808,#809,#812\u2013815)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/877",
+      "updated_at": "2026-06-01T02:20:55Z"
+    },
+    {
+      "repo": "MukundaKatta/chetana",
+      "number": 876,
+      "title": "Cores: comparative/neuroscience-grounded probes (#778\u2013789)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/876",
+      "updated_at": "2026-06-01T02:13:43Z"
     },
     {
       "repo": "MukundaKatta/karna",
-      "number": 623,
-      "title": "feat: model provider hardening \u2014 local provider, circuit breaker, prompt caching (wave 2)",
-      "url": "https://github.com/MukundaKatta/karna/pull/623",
-      "updated_at": "2026-05-30T03:23:06Z"
+      "number": 630,
+      "title": "feat: wire Anthropic prompt caching end-to-end (#592)",
+      "url": "https://github.com/MukundaKatta/karna/pull/630",
+      "updated_at": "2026-06-01T02:13:05Z"
     },
     {
       "repo": "MukundaKatta/karna",
-      "number": 622,
-      "title": "Agent-ecosystem trends: first implementation wave (additive, non-breaking)",
-      "url": "https://github.com/MukundaKatta/karna/pull/622",
-      "updated_at": "2026-05-30T02:52:32Z"
+      "number": 629,
+      "title": "feat: wire tool security/rate-limit/cache modules into AgentRuntime",
+      "url": "https://github.com/MukundaKatta/karna/pull/629",
+      "updated_at": "2026-05-31T20:10:42Z"
     },
     {
-      "repo": "nextcloud/documentation",
-      "number": 14860,
-      "title": "docs: use folder terminology in mail manual",
-      "url": "https://github.com/nextcloud/documentation/pull/14860",
-      "updated_at": "2026-05-30T02:30:09Z"
+      "repo": "MukundaKatta/karna",
+      "number": 628,
+      "title": "docs: trends-2026 implementation reconciliation map",
+      "url": "https://github.com/MukundaKatta/karna/pull/628",
+      "updated_at": "2026-05-31T19:50:04Z"
     },
     {
-      "repo": "dapr/dapr",
-      "number": 9798,
-      "title": "Fix 'sucessful' typo in scheduler.proto comment",
-      "url": "https://github.com/dapr/dapr/pull/9798",
-      "updated_at": "2026-05-29T09:45:34Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 775,
+      "title": "Cores: platform logic \u2014 pagination, governance, RBAC, billing, alerting, cohort, queue",
+      "url": "https://github.com/MukundaKatta/chetana/pull/775",
+      "updated_at": "2026-05-31T19:44:05Z"
     },
     {
-      "repo": "google-gemini/gemini-cli",
-      "number": 27102,
-      "title": "fix(cli): ignore unmapped vim normal keys",
-      "url": "https://github.com/google-gemini/gemini-cli/pull/27102",
-      "updated_at": "2026-05-27T17:16:08Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 774,
+      "title": "Governance: compliance/SLA/usage page (#743,#747,#748,#752,#756,#759)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/774",
+      "updated_at": "2026-05-31T19:36:50Z"
     },
     {
-      "repo": "apache/pulsar-client-go",
-      "number": 1485,
-      "title": "docs(producer): clarify SendAsync description",
-      "url": "https://github.com/apache/pulsar-client-go/pull/1485",
-      "updated_at": "2026-05-27T06:57:07Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 773,
+      "title": "Cores: governance, ops & probe-authoring (#707,#708,#743,#745,#747,#748,#752,#756,#759)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/773",
+      "updated_at": "2026-05-31T19:34:45Z"
     },
     {
-      "repo": "denoland/std",
-      "number": 7131,
-      "title": "fix(http): getCookies returns Partial<Record<string, string>>",
-      "url": "https://github.com/denoland/std/pull/7131",
-      "updated_at": "2026-05-26T09:34:44Z"
+      "repo": "MukundaKatta/karna",
+      "number": 627,
+      "title": "feat: cross-channel inline approve/deny rendering & callback parsing (#588)",
+      "url": "https://github.com/MukundaKatta/karna/pull/627",
+      "updated_at": "2026-05-31T19:34:36Z"
     },
     {
-      "repo": "napi-rs/napi-rs",
-      "number": 3236,
-      "title": "fix(cli): NAPI_RS_FORCE_WASI only activates on 'true' or 'error'",
-      "url": "https://github.com/napi-rs/napi-rs/pull/3236",
-      "updated_at": "2026-05-26T04:43:37Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 772,
+      "title": "Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse",
+      "url": "https://github.com/MukundaKatta/chetana/pull/772",
+      "updated_at": "2026-05-31T19:34:27Z"
     },
     {
-      "repo": "MukundaKatta/fanout",
-      "number": 64,
-      "title": "docs: rewrite README to reflect the autonomy loop",
-      "url": "https://github.com/MukundaKatta/fanout/pull/64",
-      "updated_at": "2026-05-24T20:51:44Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 770,
+      "title": "Cores: 2026 theory + safety probes and 14 model adapters (#670\u2013704)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/770",
+      "updated_at": "2026-05-31T19:27:55Z"
     },
     {
-      "repo": "uutils/sed",
-      "number": 434,
-      "title": "fix: preserve latest binary executable mode",
-      "url": "https://github.com/uutils/sed/pull/434",
-      "updated_at": "2026-05-24T18:00:21Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 771,
+      "title": "Cores: analytics & statistics modules (#732,#733,#735,#736,#738,#739,#740)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/771",
+      "updated_at": "2026-05-31T19:21:42Z"
     },
     {
-      "repo": "MukundaKatta/fanout",
-      "number": 63,
-      "title": "feat(web): /operator history page",
-      "url": "https://github.com/MukundaKatta/fanout/pull/63",
-      "updated_at": "2026-05-24T17:15:26Z"
+      "repo": "MukundaKatta/karna",
+      "number": 626,
+      "title": "feat: trends-2026 wave 5 \u2014 web & mobile UI (dashboards, approvals, marketplace)",
+      "url": "https://github.com/MukundaKatta/karna/pull/626",
+      "updated_at": "2026-05-31T19:10:20Z"
     },
     {
-      "repo": "MukundaKatta/fanout",
-      "number": 62,
-      "title": "feat(extension): outcome-puller \u2014 close the autonomy loop",
-      "url": "https://github.com/MukundaKatta/fanout/pull/62",
-      "updated_at": "2026-05-24T17:11:34Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 61,
-      "title": "feat(web): operator panel on research page",
-      "url": "https://github.com/MukundaKatta/fanout/pull/61",
-      "updated_at": "2026-05-24T16:55:19Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 60,
-      "title": "feat: operator scheduler \u2014 subscriptions + tick + hourly cron",
-      "url": "https://github.com/MukundaKatta/fanout/pull/60",
-      "updated_at": "2026-05-24T16:25:38Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 59,
-      "title": "feat: Eva operator \u2014 autonomous draft cycle with leaderboard-weighted picks",
-      "url": "https://github.com/MukundaKatta/fanout/pull/59",
-      "updated_at": "2026-05-24T16:14:07Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 58,
-      "title": "feat: outcome feedback collector \u2014 close the research loop",
-      "url": "https://github.com/MukundaKatta/fanout/pull/58",
-      "updated_at": "2026-05-24T16:07:59Z"
-    },
-    {
-      "repo": "MukundaKatta/fanout",
-      "number": 57,
-      "title": "feat: research loop \u2014 workbench UI, subscriptions, citations, hourly cron",
-      "url": "https://github.com/MukundaKatta/fanout/pull/57",
-      "updated_at": "2026-05-24T15:54:25Z"
+      "repo": "FirebaseExtended/action-hosting-deploy",
+      "number": 450,
+      "title": "chore: bump action runtime to Node 24 (fixes #448)",
+      "url": "https://github.com/FirebaseExtended/action-hosting-deploy/pull/450",
+      "updated_at": "2026-05-31T18:00:20Z"
     }
   ]
 }
