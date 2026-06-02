@@ -25,6 +25,10 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [openclaw/openclaw #87952](https://github.com/openclaw/openclaw/pull/87952): fix(update): pin post-core plugin compatibility to the downgraded core version (#87914)
+- [vuejs/docs #3393](https://github.com/vuejs/docs/pull/3393): docs: show useId with aria-labelledby
+- [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
+- [uutils/sed #437](https://github.com/uutils/sed/pull/437): fix: reject empty text commands
 - [MukundaKatta/mukunda-ai #22](https://github.com/MukundaKatta/mukunda-ai/pull/22): Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup
 - [MukundaKatta/mukunda-ai #21](https://github.com/MukundaKatta/mukunda-ai/pull/21): Accessibility, palette purge, and performance fixes
 - [MukundaKatta/chetana #1080](https://github.com/MukundaKatta/chetana/pull/1080): Implement report generators (#856,#857,#861,#862,#863)
@@ -41,7 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/chetana #773](https://github.com/MukundaKatta/chetana/pull/773): Cores: governance, ops & probe-authoring (#707,#708,#743,#745,#747,#748,#752,#756,#759)
 - [MukundaKatta/karna #627](https://github.com/MukundaKatta/karna/pull/627): feat: cross-channel inline approve/deny rendering & callback parsing (#588)
 - [MukundaKatta/chetana #772](https://github.com/MukundaKatta/chetana/pull/772): Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse
-- [MukundaKatta/chetana #770](https://github.com/MukundaKatta/chetana/pull/770): Cores: 2026 theory + safety probes and 14 model adapters (#670–704)
-- [MukundaKatta/chetana #771](https://github.com/MukundaKatta/chetana/pull/771): Cores: analytics & statistics modules (#732,#733,#735,#736,#738,#739,#740)
-- [MukundaKatta/karna #626](https://github.com/MukundaKatta/karna/pull/626): feat: trends-2026 wave 5 — web & mobile UI (dashboards, approvals, marketplace)
-- [FirebaseExtended/action-hosting-deploy #450](https://github.com/FirebaseExtended/action-hosting-deploy/pull/450): chore: bump action runtime to Node 24 (fixes #448)

@@ -1,6 +1,34 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openclaw/openclaw",
+      "number": 87952,
+      "title": "fix(update): pin post-core plugin compatibility to the downgraded core version (#87914)",
+      "url": "https://github.com/openclaw/openclaw/pull/87952",
+      "updated_at": "2026-06-02T11:13:27Z"
+    },
+    {
+      "repo": "vuejs/docs",
+      "number": 3393,
+      "title": "docs: show useId with aria-labelledby",
+      "url": "https://github.com/vuejs/docs/pull/3393",
+      "updated_at": "2026-06-02T09:22:07Z"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "number": 27102,
+      "title": "fix(cli): ignore unmapped vim normal keys",
+      "url": "https://github.com/google-gemini/gemini-cli/pull/27102",
+      "updated_at": "2026-06-02T05:17:37Z"
+    },
+    {
+      "repo": "uutils/sed",
+      "number": 437,
+      "title": "fix: reject empty text commands",
+      "url": "https://github.com/uutils/sed/pull/437",
+      "updated_at": "2026-06-01T19:49:17Z"
+    },
+    {
       "repo": "MukundaKatta/mukunda-ai",
       "number": 22,
       "title": "Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup",
@@ -111,34 +139,6 @@
       "title": "Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse",
       "url": "https://github.com/MukundaKatta/chetana/pull/772",
       "updated_at": "2026-05-31T19:34:27Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana",
-      "number": 770,
-      "title": "Cores: 2026 theory + safety probes and 14 model adapters (#670\u2013704)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/770",
-      "updated_at": "2026-05-31T19:27:55Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana",
-      "number": 771,
-      "title": "Cores: analytics & statistics modules (#732,#733,#735,#736,#738,#739,#740)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/771",
-      "updated_at": "2026-05-31T19:21:42Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 626,
-      "title": "feat: trends-2026 wave 5 \u2014 web & mobile UI (dashboards, approvals, marketplace)",
-      "url": "https://github.com/MukundaKatta/karna/pull/626",
-      "updated_at": "2026-05-31T19:10:20Z"
-    },
-    {
-      "repo": "FirebaseExtended/action-hosting-deploy",
-      "number": 450,
-      "title": "chore: bump action runtime to Node 24 (fixes #448)",
-      "url": "https://github.com/FirebaseExtended/action-hosting-deploy/pull/450",
-      "updated_at": "2026-05-31T18:00:20Z"
     }
   ]
 }
