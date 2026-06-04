@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [openclaw/openclaw #87952](https://github.com/openclaw/openclaw/pull/87952): fix(update): pin post-core plugin compatibility to the downgraded core version (#87914)
-- [vuejs/docs #3393](https://github.com/vuejs/docs/pull/3393): docs: show useId with aria-labelledby
-- [google-gemini/gemini-cli #27102](https://github.com/google-gemini/gemini-cli/pull/27102): fix(cli): ignore unmapped vim normal keys
-- [uutils/sed #437](https://github.com/uutils/sed/pull/437): fix: reject empty text commands
-- [MukundaKatta/mukunda-ai #22](https://github.com/MukundaKatta/mukunda-ai/pull/22): Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup
-- [MukundaKatta/mukunda-ai #21](https://github.com/MukundaKatta/mukunda-ai/pull/21): Accessibility, palette purge, and performance fixes
-- [MukundaKatta/chetana #1080](https://github.com/MukundaKatta/chetana/pull/1080): Implement report generators (#856,#857,#861,#862,#863)
-- [MukundaKatta/mukunda-ai #20](https://github.com/MukundaKatta/mukunda-ai/pull/20): Full portfolio redesign: cyberpunk-tech aesthetic + brand icons + polish
-- [MukundaKatta/chetana #1079](https://github.com/MukundaKatta/chetana/pull/1079): Implement phenomenology probes (#999–1010)
-- [MukundaKatta/chetana #1078](https://github.com/MukundaKatta/chetana/pull/1078): Implement advanced statistics (#1011–1017)
-- [MukundaKatta/chetana #877](https://github.com/MukundaKatta/chetana/pull/877): Cores: evaluation-science methods (#804,#806,#808,#809,#812–815)
-- [MukundaKatta/chetana #876](https://github.com/MukundaKatta/chetana/pull/876): Cores: comparative/neuroscience-grounded probes (#778–789)
-- [MukundaKatta/karna #630](https://github.com/MukundaKatta/karna/pull/630): feat: wire Anthropic prompt caching end-to-end (#592)
-- [MukundaKatta/karna #629](https://github.com/MukundaKatta/karna/pull/629): feat: wire tool security/rate-limit/cache modules into AgentRuntime
-- [MukundaKatta/karna #628](https://github.com/MukundaKatta/karna/pull/628): docs: trends-2026 implementation reconciliation map
-- [MukundaKatta/chetana #775](https://github.com/MukundaKatta/chetana/pull/775): Cores: platform logic — pagination, governance, RBAC, billing, alerting, cohort, queue
-- [MukundaKatta/chetana #774](https://github.com/MukundaKatta/chetana/pull/774): Governance: compliance/SLA/usage page (#743,#747,#748,#752,#756,#759)
-- [MukundaKatta/chetana #773](https://github.com/MukundaKatta/chetana/pull/773): Cores: governance, ops & probe-authoring (#707,#708,#743,#745,#747,#748,#752,#756,#759)
-- [MukundaKatta/karna #627](https://github.com/MukundaKatta/karna/pull/627): feat: cross-channel inline approve/deny rendering & callback parsing (#588)
-- [MukundaKatta/chetana #772](https://github.com/MukundaKatta/chetana/pull/772): Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse
+- [MukundaKatta/artigen #984](https://github.com/MukundaKatta/artigen/pull/984): test: useDebounce / useResponsive / useNetworkStatus tests
+- [elastic/beats #50279](https://github.com/elastic/beats/pull/50279): fix: clear typos 'defauling' -> 'defaulting' and 'choosen' -> 'chosen'
+- [openclaw/openclaw #87965](https://github.com/openclaw/openclaw/pull/87965): fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down
+- [MukundaKatta/amogha-cafe #78](https://github.com/MukundaKatta/amogha-cafe/pull/78): cleanup: delete root-level /modules/ — 15k lines of dead code that nothing loads
+- [MukundaKatta/amogha-cafe #77](https://github.com/MukundaKatta/amogha-cafe/pull/77): fix: port PR #72 (PIN strip) + PR #74 group.js fix to src/modules — the REAL production code
+- [MukundaKatta/amogha-cafe #76](https://github.com/MukundaKatta/amogha-cafe/pull/76): sec(hosting): drop 'unsafe-eval' from CSP, add HSTS + frame-ancestors + upgrade-insecure-requests
+- [MukundaKatta/amogha-cafe #75](https://github.com/MukundaKatta/amogha-cafe/pull/75): perf(functions): persist /order rate-limit state in Firestore (was bypassable on cold start)
+- [MukundaKatta/amogha-cafe #73](https://github.com/MukundaKatta/amogha-cafe/pull/73): feat(admin): gate admin writes behind Firebase Auth custom claim
+- [MukundaKatta/artigen #476](https://github.com/MukundaKatta/artigen/pull/476): test: useHaptics web/native dispatch (+7 tests)
+- [MukundaKatta/artigen #475](https://github.com/MukundaKatta/artigen/pull/475): fix: 5 small bounded bug + tech-debt fixes
+- [MukundaKatta/artigen #473](https://github.com/MukundaKatta/artigen/pull/473): test: render tests for 3 auth screens (+11 tests)
+- [MukundaKatta/artigen #471](https://github.com/MukundaKatta/artigen/pull/471): test: render tests for 5 more components (+32 tests)
+- [MukundaKatta/artigen #469](https://github.com/MukundaKatta/artigen/pull/469): perf: migrate 5 high-traffic FlatLists to FlashList
+- [MukundaKatta/artigen #468](https://github.com/MukundaKatta/artigen/pull/468): test: component render tests for 6 components + RNTL setup
+- [MukundaKatta/artigen #467](https://github.com/MukundaKatta/artigen/pull/467): a11y: critique-composer textarea label + hint + live char-count
+- [MukundaKatta/artigen #466](https://github.com/MukundaKatta/artigen/pull/466): test: cover 8 services with mocked supabase client (+53 tests)
+- [MukundaKatta/artigen #465](https://github.com/MukundaKatta/artigen/pull/465): a11y: labels on community / exhibition / marketplace / tab-bar targets
+- [MukundaKatta/artigen #464](https://github.com/MukundaKatta/artigen/pull/464): a11y: labels on sticker / share / report tap targets
+- [MukundaKatta/artigen #463](https://github.com/MukundaKatta/artigen/pull/463): fix: input validation guards (min/max length, whitelist)
+- [MukundaKatta/artigen #462](https://github.com/MukundaKatta/artigen/pull/462): fix: stable React keys in list renders

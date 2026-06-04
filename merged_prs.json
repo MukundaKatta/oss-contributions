@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "MukundaKatta/artigen",
+      "number": 984,
+      "title": "test: useDebounce / useResponsive / useNetworkStatus tests",
+      "url": "https://github.com/MukundaKatta/artigen/pull/984",
+      "updated_at": "2026-06-04T15:24:21Z"
+    },
+    {
+      "repo": "elastic/beats",
+      "number": 50279,
+      "title": "fix: clear typos 'defauling' -> 'defaulting' and 'choosen' -> 'chosen'",
+      "url": "https://github.com/elastic/beats/pull/50279",
+      "updated_at": "2026-06-04T07:41:01Z"
+    },
+    {
       "repo": "openclaw/openclaw",
-      "number": 87952,
-      "title": "fix(update): pin post-core plugin compatibility to the downgraded core version (#87914)",
-      "url": "https://github.com/openclaw/openclaw/pull/87952",
-      "updated_at": "2026-06-02T11:13:27Z"
+      "number": 87965,
+      "title": "fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down",
+      "url": "https://github.com/openclaw/openclaw/pull/87965",
+      "updated_at": "2026-06-04T03:30:34Z"
     },
     {
-      "repo": "vuejs/docs",
-      "number": 3393,
-      "title": "docs: show useId with aria-labelledby",
-      "url": "https://github.com/vuejs/docs/pull/3393",
-      "updated_at": "2026-06-02T09:22:07Z"
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 78,
+      "title": "cleanup: delete root-level /modules/ \u2014 15k lines of dead code that nothing loads",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/78",
+      "updated_at": "2026-06-03T22:12:16Z"
     },
     {
-      "repo": "google-gemini/gemini-cli",
-      "number": 27102,
-      "title": "fix(cli): ignore unmapped vim normal keys",
-      "url": "https://github.com/google-gemini/gemini-cli/pull/27102",
-      "updated_at": "2026-06-02T05:17:37Z"
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 77,
+      "title": "fix: port PR #72 (PIN strip) + PR #74 group.js fix to src/modules \u2014 the REAL production code",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/77",
+      "updated_at": "2026-06-03T22:12:02Z"
     },
     {
-      "repo": "uutils/sed",
-      "number": 437,
-      "title": "fix: reject empty text commands",
-      "url": "https://github.com/uutils/sed/pull/437",
-      "updated_at": "2026-06-01T19:49:17Z"
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 76,
+      "title": "sec(hosting): drop 'unsafe-eval' from CSP, add HSTS + frame-ancestors + upgrade-insecure-requests",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/76",
+      "updated_at": "2026-06-03T22:11:46Z"
     },
     {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 22,
-      "title": "Batch: 404 page, vendor chunking, favicon, mailto subjects, dead code cleanup",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/22",
-      "updated_at": "2026-06-01T04:39:33Z"
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 75,
+      "title": "perf(functions): persist /order rate-limit state in Firestore (was bypassable on cold start)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/75",
+      "updated_at": "2026-06-03T22:11:31Z"
     },
     {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 21,
-      "title": "Accessibility, palette purge, and performance fixes",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/21",
-      "updated_at": "2026-06-01T04:34:34Z"
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 73,
+      "title": "feat(admin): gate admin writes behind Firebase Auth custom claim",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/73",
+      "updated_at": "2026-06-03T22:11:16Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 1080,
-      "title": "Implement report generators (#856,#857,#861,#862,#863)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/1080",
-      "updated_at": "2026-06-01T04:30:42Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 476,
+      "title": "test: useHaptics web/native dispatch (+7 tests)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/476",
+      "updated_at": "2026-06-03T22:11:12Z"
     },
     {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 20,
-      "title": "Full portfolio redesign: cyberpunk-tech aesthetic + brand icons + polish",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/20",
-      "updated_at": "2026-06-01T04:27:08Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 475,
+      "title": "fix: 5 small bounded bug + tech-debt fixes",
+      "url": "https://github.com/MukundaKatta/artigen/pull/475",
+      "updated_at": "2026-06-03T22:10:55Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 1079,
-      "title": "Implement phenomenology probes (#999\u20131010)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/1079",
-      "updated_at": "2026-06-01T04:23:45Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 473,
+      "title": "test: render tests for 3 auth screens (+11 tests)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/473",
+      "updated_at": "2026-06-03T22:10:37Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 1078,
-      "title": "Implement advanced statistics (#1011\u20131017)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/1078",
-      "updated_at": "2026-06-01T04:20:07Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 471,
+      "title": "test: render tests for 5 more components (+32 tests)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/471",
+      "updated_at": "2026-06-03T22:10:25Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 877,
-      "title": "Cores: evaluation-science methods (#804,#806,#808,#809,#812\u2013815)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/877",
-      "updated_at": "2026-06-01T02:20:55Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 469,
+      "title": "perf: migrate 5 high-traffic FlatLists to FlashList",
+      "url": "https://github.com/MukundaKatta/artigen/pull/469",
+      "updated_at": "2026-06-03T22:09:42Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 876,
-      "title": "Cores: comparative/neuroscience-grounded probes (#778\u2013789)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/876",
-      "updated_at": "2026-06-01T02:13:43Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 468,
+      "title": "test: component render tests for 6 components + RNTL setup",
+      "url": "https://github.com/MukundaKatta/artigen/pull/468",
+      "updated_at": "2026-06-03T22:09:30Z"
     },
     {
-      "repo": "MukundaKatta/karna",
-      "number": 630,
-      "title": "feat: wire Anthropic prompt caching end-to-end (#592)",
-      "url": "https://github.com/MukundaKatta/karna/pull/630",
-      "updated_at": "2026-06-01T02:13:05Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 467,
+      "title": "a11y: critique-composer textarea label + hint + live char-count",
+      "url": "https://github.com/MukundaKatta/artigen/pull/467",
+      "updated_at": "2026-06-03T22:09:15Z"
     },
     {
-      "repo": "MukundaKatta/karna",
-      "number": 629,
-      "title": "feat: wire tool security/rate-limit/cache modules into AgentRuntime",
-      "url": "https://github.com/MukundaKatta/karna/pull/629",
-      "updated_at": "2026-05-31T20:10:42Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 466,
+      "title": "test: cover 8 services with mocked supabase client (+53 tests)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/466",
+      "updated_at": "2026-06-03T22:09:02Z"
     },
     {
-      "repo": "MukundaKatta/karna",
-      "number": 628,
-      "title": "docs: trends-2026 implementation reconciliation map",
-      "url": "https://github.com/MukundaKatta/karna/pull/628",
-      "updated_at": "2026-05-31T19:50:04Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 465,
+      "title": "a11y: labels on community / exhibition / marketplace / tab-bar targets",
+      "url": "https://github.com/MukundaKatta/artigen/pull/465",
+      "updated_at": "2026-06-03T22:08:48Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 775,
-      "title": "Cores: platform logic \u2014 pagination, governance, RBAC, billing, alerting, cohort, queue",
-      "url": "https://github.com/MukundaKatta/chetana/pull/775",
-      "updated_at": "2026-05-31T19:44:05Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 464,
+      "title": "a11y: labels on sticker / share / report tap targets",
+      "url": "https://github.com/MukundaKatta/artigen/pull/464",
+      "updated_at": "2026-06-03T22:08:33Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 774,
-      "title": "Governance: compliance/SLA/usage page (#743,#747,#748,#752,#756,#759)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/774",
-      "updated_at": "2026-05-31T19:36:50Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 463,
+      "title": "fix: input validation guards (min/max length, whitelist)",
+      "url": "https://github.com/MukundaKatta/artigen/pull/463",
+      "updated_at": "2026-06-03T22:08:20Z"
     },
     {
-      "repo": "MukundaKatta/chetana",
-      "number": 773,
-      "title": "Cores: governance, ops & probe-authoring (#707,#708,#743,#745,#747,#748,#752,#756,#759)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/773",
-      "updated_at": "2026-05-31T19:34:45Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 627,
-      "title": "feat: cross-channel inline approve/deny rendering & callback parsing (#588)",
-      "url": "https://github.com/MukundaKatta/karna/pull/627",
-      "updated_at": "2026-05-31T19:34:36Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana",
-      "number": 772,
-      "title": "Analytics: analytics page wiring forecasting/meta-analysis/validity/multiverse",
-      "url": "https://github.com/MukundaKatta/chetana/pull/772",
-      "updated_at": "2026-05-31T19:34:27Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 462,
+      "title": "fix: stable React keys in list renders",
+      "url": "https://github.com/MukundaKatta/artigen/pull/462",
+      "updated_at": "2026-06-03T22:08:06Z"
     }
   ]
 }
