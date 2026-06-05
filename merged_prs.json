@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "PostHog/code",
+      "number": 2340,
+      "title": "feat(worktree): use human-readable names for worktree branches",
+      "url": "https://github.com/PostHog/code/pull/2340",
+      "updated_at": "2026-06-05T04:16:58Z"
+    },
+    {
+      "repo": "PostHog/code",
+      "number": 2339,
+      "title": "fix(agent): show server name and exec context in MCP permission dialog",
+      "url": "https://github.com/PostHog/code/pull/2339",
+      "updated_at": "2026-06-05T03:54:09Z"
+    },
+    {
       "repo": "MukundaKatta/artigen",
       "number": 984,
       "title": "test: useDebounce / useResponsive / useNetworkStatus tests",
@@ -125,20 +139,6 @@
       "title": "a11y: labels on sticker / share / report tap targets",
       "url": "https://github.com/MukundaKatta/artigen/pull/464",
       "updated_at": "2026-06-03T22:08:33Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 463,
-      "title": "fix: input validation guards (min/max length, whitelist)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/463",
-      "updated_at": "2026-06-03T22:08:20Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 462,
-      "title": "fix: stable React keys in list renders",
-      "url": "https://github.com/MukundaKatta/artigen/pull/462",
-      "updated_at": "2026-06-03T22:08:06Z"
     }
   ]
 }

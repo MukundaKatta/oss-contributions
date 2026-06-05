@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [PostHog/code #2340](https://github.com/PostHog/code/pull/2340): feat(worktree): use human-readable names for worktree branches
+- [PostHog/code #2339](https://github.com/PostHog/code/pull/2339): fix(agent): show server name and exec context in MCP permission dialog
 - [MukundaKatta/artigen #984](https://github.com/MukundaKatta/artigen/pull/984): test: useDebounce / useResponsive / useNetworkStatus tests
 - [elastic/beats #50279](https://github.com/elastic/beats/pull/50279): fix: clear typos 'defauling' -> 'defaulting' and 'choosen' -> 'chosen'
 - [openclaw/openclaw #87965](https://github.com/openclaw/openclaw/pull/87965): fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/artigen #466](https://github.com/MukundaKatta/artigen/pull/466): test: cover 8 services with mocked supabase client (+53 tests)
 - [MukundaKatta/artigen #465](https://github.com/MukundaKatta/artigen/pull/465): a11y: labels on community / exhibition / marketplace / tab-bar targets
 - [MukundaKatta/artigen #464](https://github.com/MukundaKatta/artigen/pull/464): a11y: labels on sticker / share / report tap targets
-- [MukundaKatta/artigen #463](https://github.com/MukundaKatta/artigen/pull/463): fix: input validation guards (min/max length, whitelist)
-- [MukundaKatta/artigen #462](https://github.com/MukundaKatta/artigen/pull/462): fix: stable React keys in list renders
