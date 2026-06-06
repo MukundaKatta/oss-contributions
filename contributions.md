@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [modelcontextprotocol/csharp-sdk #1531](https://github.com/modelcontextprotocol/csharp-sdk/pull/1531): perf(server): skip IdleTrackingBackgroundService timer in stateless mode
+- [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
 - [PostHog/code #2340](https://github.com/PostHog/code/pull/2340): feat(worktree): use human-readable names for worktree branches
 - [PostHog/code #2339](https://github.com/PostHog/code/pull/2339): fix(agent): show server name and exec context in MCP permission dialog
 - [MukundaKatta/artigen #984](https://github.com/MukundaKatta/artigen/pull/984): test: useDebounce / useResponsive / useNetworkStatus tests
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/artigen #468](https://github.com/MukundaKatta/artigen/pull/468): test: component render tests for 6 components + RNTL setup
 - [MukundaKatta/artigen #467](https://github.com/MukundaKatta/artigen/pull/467): a11y: critique-composer textarea label + hint + live char-count
 - [MukundaKatta/artigen #466](https://github.com/MukundaKatta/artigen/pull/466): test: cover 8 services with mocked supabase client (+53 tests)
-- [MukundaKatta/artigen #465](https://github.com/MukundaKatta/artigen/pull/465): a11y: labels on community / exhibition / marketplace / tab-bar targets
-- [MukundaKatta/artigen #464](https://github.com/MukundaKatta/artigen/pull/464): a11y: labels on sticker / share / report tap targets

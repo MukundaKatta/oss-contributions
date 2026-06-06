@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "modelcontextprotocol/csharp-sdk",
+      "number": 1531,
+      "title": "perf(server): skip IdleTrackingBackgroundService timer in stateless mode",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk/pull/1531",
+      "updated_at": "2026-06-05T23:24:37Z"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "number": 6087,
+      "title": "Remove defunct API entries",
+      "url": "https://github.com/public-apis/public-apis/pull/6087",
+      "updated_at": "2026-06-05T21:43:58Z"
+    },
+    {
       "repo": "PostHog/code",
       "number": 2340,
       "title": "feat(worktree): use human-readable names for worktree branches",
@@ -125,20 +139,6 @@
       "title": "test: cover 8 services with mocked supabase client (+53 tests)",
       "url": "https://github.com/MukundaKatta/artigen/pull/466",
       "updated_at": "2026-06-03T22:09:02Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 465,
-      "title": "a11y: labels on community / exhibition / marketplace / tab-bar targets",
-      "url": "https://github.com/MukundaKatta/artigen/pull/465",
-      "updated_at": "2026-06-03T22:08:48Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 464,
-      "title": "a11y: labels on sticker / share / report tap targets",
-      "url": "https://github.com/MukundaKatta/artigen/pull/464",
-      "updated_at": "2026-06-03T22:08:33Z"
     }
   ]
 }
