@@ -3,8 +3,12 @@ from __future__ import annotations
 import json
 import os
 from pathlib import Path
+from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
+
+
+HTTP_TIMEOUT_SECONDS = 30
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,7 +19,9 @@ API_URL = "https://api.github.com/search/issues"
 def fetch_recent_merged_prs() -> list[dict]:
     token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
     if not token:
-        raise RuntimeError("GITHUB_TOKEN or GH_TOKEN is required to fetch merged PR metadata.")
+        raise RuntimeError(
+            "GITHUB_TOKEN or GH_TOKEN is required to fetch merged PR metadata."
+        )
 
     query = "author:MukundaKatta is:pr is:merged sort:updated-desc"
     params = urlencode({"q": query, "per_page": 20})
@@ -24,8 +30,15 @@ def fetch_recent_merged_prs() -> list[dict]:
     request.add_header("Authorization", f"Bearer {token}")
     request.add_header("X-GitHub-Api-Version", "2022-11-28")
 
-    with urlopen(request) as response:  # noqa: S310
-        payload = json.loads(response.read().decode("utf-8"))
+    try:
+        with urlopen(request, timeout=HTTP_TIMEOUT_SECONDS) as response:  # noqa: S310
+            payload = json.loads(response.read().decode("utf-8"))
+    except HTTPError as exc:
+        raise RuntimeError(
+            f"GitHub search API returned HTTP {exc.code}: {exc.reason}"
+        ) from exc
+    except URLError as exc:
+        raise RuntimeError(f"Failed to reach GitHub search API: {exc.reason}") from exc
 
     items = []
     for item in payload.get("items", []):
@@ -43,7 +56,9 @@ def fetch_recent_merged_prs() -> list[dict]:
 
 
 def main() -> None:
-    OUTPUT_FILE.write_text(json.dumps({"recent_merged_prs": fetch_recent_merged_prs()}, indent=2) + "\n")
+    OUTPUT_FILE.write_text(
+        json.dumps({"recent_merged_prs": fetch_recent_merged_prs()}, indent=2) + "\n"
+    )
 
 
 if __name__ == "__main__":

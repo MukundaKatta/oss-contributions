@@ -74,7 +74,12 @@ def main() -> None:
         by_area[entry["area"]].append(entry)
 
     section_lines: list[str] = []
-    contribution_lines = ["# Contribution Log", "", "Curated PR log generated from `data/selected_prs.json`.", ""]
+    contribution_lines = [
+        "# Contribution Log",
+        "",
+        "Curated PR log generated from `data/selected_prs.json`.",
+        "",
+    ]
     highlights = []
 
     for area, area_entries in by_area.items():
@@ -110,7 +115,10 @@ def main() -> None:
                 )
             contribution_lines.append("")
 
-    README_FILE.write_text(README_TEMPLATE.format(selected_sections="\n".join(section_lines).rstrip()) + "\n")
+    README_FILE.write_text(
+        README_TEMPLATE.format(selected_sections="\n".join(section_lines).rstrip())
+        + "\n"
+    )
     CONTRIBUTIONS_FILE.write_text("\n".join(contribution_lines).rstrip() + "\n")
     HIGHLIGHTS_FILE.write_text(json.dumps({"highlights": highlights}, indent=2) + "\n")
 
