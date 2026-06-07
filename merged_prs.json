@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openclaw/openclaw",
+      "number": 87933,
+      "title": "fix(agents): suppress DeepSeek thinking for Foundry aliases",
+      "url": "https://github.com/openclaw/openclaw/pull/87933",
+      "updated_at": "2026-06-07T03:37:53Z"
+    },
+    {
       "repo": "modelcontextprotocol/csharp-sdk",
       "number": 1531,
       "title": "perf(server): skip IdleTrackingBackgroundService timer in stateless mode",
@@ -132,13 +139,6 @@
       "title": "a11y: critique-composer textarea label + hint + live char-count",
       "url": "https://github.com/MukundaKatta/artigen/pull/467",
       "updated_at": "2026-06-03T22:09:15Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 466,
-      "title": "test: cover 8 services with mocked supabase client (+53 tests)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/466",
-      "updated_at": "2026-06-03T22:09:02Z"
     }
   ]
 }

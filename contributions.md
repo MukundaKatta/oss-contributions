@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [openclaw/openclaw #87933](https://github.com/openclaw/openclaw/pull/87933): fix(agents): suppress DeepSeek thinking for Foundry aliases
 - [modelcontextprotocol/csharp-sdk #1531](https://github.com/modelcontextprotocol/csharp-sdk/pull/1531): perf(server): skip IdleTrackingBackgroundService timer in stateless mode
 - [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
 - [PostHog/code #2340](https://github.com/PostHog/code/pull/2340): feat(worktree): use human-readable names for worktree branches
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/artigen #469](https://github.com/MukundaKatta/artigen/pull/469): perf: migrate 5 high-traffic FlatLists to FlashList
 - [MukundaKatta/artigen #468](https://github.com/MukundaKatta/artigen/pull/468): test: component render tests for 6 components + RNTL setup
 - [MukundaKatta/artigen #467](https://github.com/MukundaKatta/artigen/pull/467): a11y: critique-composer textarea label + hint + live char-count
-- [MukundaKatta/artigen #466](https://github.com/MukundaKatta/artigen/pull/466): test: cover 8 services with mocked supabase client (+53 tests)
