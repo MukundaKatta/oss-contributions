@@ -23,15 +23,17 @@ jobs:
 
   test:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: ${{ matrix.python-version }}
 
-      - name: Install pytest
-        run: pip install pytest
-
+      # Tests use only the standard-library unittest framework, so no
+      # third-party dependencies need to be installed here.
       - name: Run tests
-        run: python -m pytest -q
+        run: python -m unittest discover -s tests -v
