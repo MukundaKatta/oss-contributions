@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [MukundaKatta/amogha-cafe #106](https://github.com/MukundaKatta/amogha-cafe/pull/106): ci(ios): set up Ruby before build step so cap sync's pod install finds gems
+- [MukundaKatta/amogha-cafe #105](https://github.com/MukundaKatta/amogha-cafe/pull/105): ci(ios): commit ios/App/Gemfile.lock to unblock TestFlight build
+- [MukundaKatta/amogha-cafe #104](https://github.com/MukundaKatta/amogha-cafe/pull/104): ci: bump release-ios and release-android to Node 22 (fixes TestFlight build)
+- [MukundaKatta/amogha-cafe #103](https://github.com/MukundaKatta/amogha-cafe/pull/103): test: fix CI auth-test flake (crypto.subtle.digest races fake timers)
+- [MukundaKatta/amogha-cafe #102](https://github.com/MukundaKatta/amogha-cafe/pull/102): Add in-app account deletion link (Apple 5.1.1(v))
+- [MukundaKatta/amogha-cafe #69](https://github.com/MukundaKatta/amogha-cafe/pull/69): fix(pos): silence "No printer name configured" toast on every bill print
+- [MukundaKatta/amogha-cafe #82](https://github.com/MukundaKatta/amogha-cafe/pull/82): fix(security): escape menu names in combo selector + meal plan (missed by #77)
+- [MukundaKatta/amogha-cafe #81](https://github.com/MukundaKatta/amogha-cafe/pull/81): ux(pwa): add apple-touch-icon to qr/track/loyalty + preconnect to loyalty
+- [MukundaKatta/amogha-cafe #80](https://github.com/MukundaKatta/amogha-cafe/pull/80): sec: add rel='noopener noreferrer' to all target=_blank links (reverse tabnabbing)
+- [MukundaKatta/amogha-cafe #79](https://github.com/MukundaKatta/amogha-cafe/pull/79): ux(a11y): add inputmode=numeric to all 10-digit phone inputs
+- [MukundaKatta/amogha-cafe #71](https://github.com/MukundaKatta/amogha-cafe/pull/71): fix(kitchen): show orders placed after IST midnight on KOT board
+- [MukundaKatta/amogha-cafe #70](https://github.com/MukundaKatta/amogha-cafe/pull/70): fix(security): escape menu item names in cart/qr/kiosk to close XSS holes
+- [MukundaKatta/amogha-cafe #84](https://github.com/MukundaKatta/amogha-cafe/pull/84): Fix session-clear bug in setCurrentUser + add test CI workflow
+- [MukundaKatta/amogha-cafe #83](https://github.com/MukundaKatta/amogha-cafe/pull/83): chore: repo hardening round 2 (Dependabot config)
+- [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
+- [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
 - [openclaw/openclaw #87933](https://github.com/openclaw/openclaw/pull/87933): fix(agents): suppress DeepSeek thinking for Foundry aliases
 - [modelcontextprotocol/csharp-sdk #1531](https://github.com/modelcontextprotocol/csharp-sdk/pull/1531): perf(server): skip IdleTrackingBackgroundService timer in stateless mode
 - [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
 - [PostHog/code #2340](https://github.com/PostHog/code/pull/2340): feat(worktree): use human-readable names for worktree branches
-- [PostHog/code #2339](https://github.com/PostHog/code/pull/2339): fix(agent): show server name and exec context in MCP permission dialog
-- [MukundaKatta/artigen #984](https://github.com/MukundaKatta/artigen/pull/984): test: useDebounce / useResponsive / useNetworkStatus tests
-- [elastic/beats #50279](https://github.com/elastic/beats/pull/50279): fix: clear typos 'defauling' -> 'defaulting' and 'choosen' -> 'chosen'
-- [openclaw/openclaw #87965](https://github.com/openclaw/openclaw/pull/87965): fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down
-- [MukundaKatta/amogha-cafe #78](https://github.com/MukundaKatta/amogha-cafe/pull/78): cleanup: delete root-level /modules/ — 15k lines of dead code that nothing loads
-- [MukundaKatta/amogha-cafe #77](https://github.com/MukundaKatta/amogha-cafe/pull/77): fix: port PR #72 (PIN strip) + PR #74 group.js fix to src/modules — the REAL production code
-- [MukundaKatta/amogha-cafe #76](https://github.com/MukundaKatta/amogha-cafe/pull/76): sec(hosting): drop 'unsafe-eval' from CSP, add HSTS + frame-ancestors + upgrade-insecure-requests
-- [MukundaKatta/amogha-cafe #75](https://github.com/MukundaKatta/amogha-cafe/pull/75): perf(functions): persist /order rate-limit state in Firestore (was bypassable on cold start)
-- [MukundaKatta/amogha-cafe #73](https://github.com/MukundaKatta/amogha-cafe/pull/73): feat(admin): gate admin writes behind Firebase Auth custom claim
-- [MukundaKatta/artigen #476](https://github.com/MukundaKatta/artigen/pull/476): test: useHaptics web/native dispatch (+7 tests)
-- [MukundaKatta/artigen #475](https://github.com/MukundaKatta/artigen/pull/475): fix: 5 small bounded bug + tech-debt fixes
-- [MukundaKatta/artigen #473](https://github.com/MukundaKatta/artigen/pull/473): test: render tests for 3 auth screens (+11 tests)
-- [MukundaKatta/artigen #471](https://github.com/MukundaKatta/artigen/pull/471): test: render tests for 5 more components (+32 tests)
-- [MukundaKatta/artigen #469](https://github.com/MukundaKatta/artigen/pull/469): perf: migrate 5 high-traffic FlatLists to FlashList
-- [MukundaKatta/artigen #468](https://github.com/MukundaKatta/artigen/pull/468): test: component render tests for 6 components + RNTL setup
-- [MukundaKatta/artigen #467](https://github.com/MukundaKatta/artigen/pull/467): a11y: critique-composer textarea label + hint + live char-count

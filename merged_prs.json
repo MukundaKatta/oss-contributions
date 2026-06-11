@@ -1,6 +1,118 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 106,
+      "title": "ci(ios): set up Ruby before build step so cap sync's pod install finds gems",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/106",
+      "updated_at": "2026-06-11T16:19:56Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 105,
+      "title": "ci(ios): commit ios/App/Gemfile.lock to unblock TestFlight build",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/105",
+      "updated_at": "2026-06-11T15:58:20Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 104,
+      "title": "ci: bump release-ios and release-android to Node 22 (fixes TestFlight build)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/104",
+      "updated_at": "2026-06-11T14:57:00Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 103,
+      "title": "test: fix CI auth-test flake (crypto.subtle.digest races fake timers)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/103",
+      "updated_at": "2026-06-11T14:56:30Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 102,
+      "title": "Add in-app account deletion link (Apple 5.1.1(v))",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/102",
+      "updated_at": "2026-06-11T05:38:40Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 69,
+      "title": "fix(pos): silence \"No printer name configured\" toast on every bill print",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/69",
+      "updated_at": "2026-06-11T05:38:15Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 82,
+      "title": "fix(security): escape menu names in combo selector + meal plan (missed by #77)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/82",
+      "updated_at": "2026-06-11T05:37:44Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 81,
+      "title": "ux(pwa): add apple-touch-icon to qr/track/loyalty + preconnect to loyalty",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/81",
+      "updated_at": "2026-06-11T05:37:36Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 80,
+      "title": "sec: add rel='noopener noreferrer' to all target=_blank links (reverse tabnabbing)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/80",
+      "updated_at": "2026-06-11T05:37:29Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 79,
+      "title": "ux(a11y): add inputmode=numeric to all 10-digit phone inputs",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/79",
+      "updated_at": "2026-06-11T05:37:22Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 71,
+      "title": "fix(kitchen): show orders placed after IST midnight on KOT board",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/71",
+      "updated_at": "2026-06-11T05:37:14Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 70,
+      "title": "fix(security): escape menu item names in cart/qr/kiosk to close XSS holes",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/70",
+      "updated_at": "2026-06-11T05:37:07Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 84,
+      "title": "Fix session-clear bug in setCurrentUser + add test CI workflow",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/84",
+      "updated_at": "2026-06-11T05:36:51Z"
+    },
+    {
+      "repo": "MukundaKatta/amogha-cafe",
+      "number": 83,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/83",
+      "updated_at": "2026-06-11T05:36:45Z"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2330,
+      "title": "[cueweb] Add frame state filter chips",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
+      "updated_at": "2026-06-10T18:08:18Z"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2331,
+      "title": "[cueweb] Add job progress tooltip",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
+      "updated_at": "2026-06-10T18:08:02Z"
+    },
+    {
       "repo": "openclaw/openclaw",
       "number": 87933,
       "title": "fix(agents): suppress DeepSeek thinking for Foundry aliases",
@@ -27,118 +139,6 @@
       "title": "feat(worktree): use human-readable names for worktree branches",
       "url": "https://github.com/PostHog/code/pull/2340",
       "updated_at": "2026-06-05T04:16:58Z"
-    },
-    {
-      "repo": "PostHog/code",
-      "number": 2339,
-      "title": "fix(agent): show server name and exec context in MCP permission dialog",
-      "url": "https://github.com/PostHog/code/pull/2339",
-      "updated_at": "2026-06-05T03:54:09Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 984,
-      "title": "test: useDebounce / useResponsive / useNetworkStatus tests",
-      "url": "https://github.com/MukundaKatta/artigen/pull/984",
-      "updated_at": "2026-06-04T15:24:21Z"
-    },
-    {
-      "repo": "elastic/beats",
-      "number": 50279,
-      "title": "fix: clear typos 'defauling' -> 'defaulting' and 'choosen' -> 'chosen'",
-      "url": "https://github.com/elastic/beats/pull/50279",
-      "updated_at": "2026-06-04T07:41:01Z"
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "number": 87965,
-      "title": "fix(whatsapp): restart channel when a per-account config field changes so disabled accounts are torn down",
-      "url": "https://github.com/openclaw/openclaw/pull/87965",
-      "updated_at": "2026-06-04T03:30:34Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 78,
-      "title": "cleanup: delete root-level /modules/ \u2014 15k lines of dead code that nothing loads",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/78",
-      "updated_at": "2026-06-03T22:12:16Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 77,
-      "title": "fix: port PR #72 (PIN strip) + PR #74 group.js fix to src/modules \u2014 the REAL production code",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/77",
-      "updated_at": "2026-06-03T22:12:02Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 76,
-      "title": "sec(hosting): drop 'unsafe-eval' from CSP, add HSTS + frame-ancestors + upgrade-insecure-requests",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/76",
-      "updated_at": "2026-06-03T22:11:46Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 75,
-      "title": "perf(functions): persist /order rate-limit state in Firestore (was bypassable on cold start)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/75",
-      "updated_at": "2026-06-03T22:11:31Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 73,
-      "title": "feat(admin): gate admin writes behind Firebase Auth custom claim",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/73",
-      "updated_at": "2026-06-03T22:11:16Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 476,
-      "title": "test: useHaptics web/native dispatch (+7 tests)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/476",
-      "updated_at": "2026-06-03T22:11:12Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 475,
-      "title": "fix: 5 small bounded bug + tech-debt fixes",
-      "url": "https://github.com/MukundaKatta/artigen/pull/475",
-      "updated_at": "2026-06-03T22:10:55Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 473,
-      "title": "test: render tests for 3 auth screens (+11 tests)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/473",
-      "updated_at": "2026-06-03T22:10:37Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 471,
-      "title": "test: render tests for 5 more components (+32 tests)",
-      "url": "https://github.com/MukundaKatta/artigen/pull/471",
-      "updated_at": "2026-06-03T22:10:25Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 469,
-      "title": "perf: migrate 5 high-traffic FlatLists to FlashList",
-      "url": "https://github.com/MukundaKatta/artigen/pull/469",
-      "updated_at": "2026-06-03T22:09:42Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 468,
-      "title": "test: component render tests for 6 components + RNTL setup",
-      "url": "https://github.com/MukundaKatta/artigen/pull/468",
-      "updated_at": "2026-06-03T22:09:30Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 467,
-      "title": "a11y: critique-composer textarea label + hint + live char-count",
-      "url": "https://github.com/MukundaKatta/artigen/pull/467",
-      "updated_at": "2026-06-03T22:09:15Z"
     }
   ]
 }
