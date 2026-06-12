@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "apache/pulsar",
+      "number": 25524,
+      "title": "[fix] Fix typo 'seperated' in broker comments",
+      "url": "https://github.com/apache/pulsar/pull/25524",
+      "updated_at": "2026-06-12T11:38:13Z"
+    },
+    {
       "repo": "MukundaKatta/amogha-cafe",
       "number": 106,
       "title": "ci(ios): set up Ruby before build step so cap sync's pod install finds gems",
@@ -132,13 +139,6 @@
       "title": "Remove defunct API entries",
       "url": "https://github.com/public-apis/public-apis/pull/6087",
       "updated_at": "2026-06-05T21:43:58Z"
-    },
-    {
-      "repo": "PostHog/code",
-      "number": 2340,
-      "title": "feat(worktree): use human-readable names for worktree branches",
-      "url": "https://github.com/PostHog/code/pull/2340",
-      "updated_at": "2026-06-05T04:16:58Z"
     }
   ]
 }

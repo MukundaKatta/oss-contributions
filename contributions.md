@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [apache/pulsar #25524](https://github.com/apache/pulsar/pull/25524): [fix] Fix typo 'seperated' in broker comments
 - [MukundaKatta/amogha-cafe #106](https://github.com/MukundaKatta/amogha-cafe/pull/106): ci(ios): set up Ruby before build step so cap sync's pod install finds gems
 - [MukundaKatta/amogha-cafe #105](https://github.com/MukundaKatta/amogha-cafe/pull/105): ci(ios): commit ios/App/Gemfile.lock to unblock TestFlight build
 - [MukundaKatta/amogha-cafe #104](https://github.com/MukundaKatta/amogha-cafe/pull/104): ci: bump release-ios and release-android to Node 22 (fixes TestFlight build)
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [openclaw/openclaw #87933](https://github.com/openclaw/openclaw/pull/87933): fix(agents): suppress DeepSeek thinking for Foundry aliases
 - [modelcontextprotocol/csharp-sdk #1531](https://github.com/modelcontextprotocol/csharp-sdk/pull/1531): perf(server): skip IdleTrackingBackgroundService timer in stateless mode
 - [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
-- [PostHog/code #2340](https://github.com/PostHog/code/pull/2340): feat(worktree): use human-readable names for worktree branches
