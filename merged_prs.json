@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
-      "repo": "apache/pulsar",
-      "number": 25524,
-      "title": "[fix] Fix typo 'seperated' in broker comments",
-      "url": "https://github.com/apache/pulsar/pull/25524",
-      "updated_at": "2026-06-12T11:38:13Z"
+      "repo": "MukundaKatta/trace-field-normalize",
+      "number": 3,
+      "title": "Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup",
+      "url": "https://github.com/MukundaKatta/trace-field-normalize/pull/3",
+      "updated_at": "2026-06-13T16:13:55Z"
     },
     {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 106,
-      "title": "ci(ios): set up Ruby before build step so cap sync's pod install finds gems",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/106",
-      "updated_at": "2026-06-11T16:19:56Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 105,
-      "title": "ci(ios): commit ios/App/Gemfile.lock to unblock TestFlight build",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/105",
-      "updated_at": "2026-06-11T15:58:20Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 104,
-      "title": "ci: bump release-ios and release-android to Node 22 (fixes TestFlight build)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/104",
-      "updated_at": "2026-06-11T14:57:00Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 103,
-      "title": "test: fix CI auth-test flake (crypto.subtle.digest races fake timers)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/103",
-      "updated_at": "2026-06-11T14:56:30Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 102,
-      "title": "Add in-app account deletion link (Apple 5.1.1(v))",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/102",
-      "updated_at": "2026-06-11T05:38:40Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 69,
-      "title": "fix(pos): silence \"No printer name configured\" toast on every bill print",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/69",
-      "updated_at": "2026-06-11T05:38:15Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 82,
-      "title": "fix(security): escape menu names in combo selector + meal plan (missed by #77)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/82",
-      "updated_at": "2026-06-11T05:37:44Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 81,
-      "title": "ux(pwa): add apple-touch-icon to qr/track/loyalty + preconnect to loyalty",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/81",
-      "updated_at": "2026-06-11T05:37:36Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 80,
-      "title": "sec: add rel='noopener noreferrer' to all target=_blank links (reverse tabnabbing)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/80",
-      "updated_at": "2026-06-11T05:37:29Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 79,
-      "title": "ux(a11y): add inputmode=numeric to all 10-digit phone inputs",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/79",
-      "updated_at": "2026-06-11T05:37:22Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 71,
-      "title": "fix(kitchen): show orders placed after IST midnight on KOT board",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/71",
-      "updated_at": "2026-06-11T05:37:14Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 70,
-      "title": "fix(security): escape menu item names in cart/qr/kiosk to close XSS holes",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/70",
-      "updated_at": "2026-06-11T05:37:07Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 84,
-      "title": "Fix session-clear bug in setCurrentUser + add test CI workflow",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/84",
-      "updated_at": "2026-06-11T05:36:51Z"
-    },
-    {
-      "repo": "MukundaKatta/amogha-cafe",
-      "number": 83,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/amogha-cafe/pull/83",
-      "updated_at": "2026-06-11T05:36:45Z"
-    },
-    {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2330,
-      "title": "[cueweb] Add frame state filter chips",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
-      "updated_at": "2026-06-10T18:08:18Z"
-    },
-    {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2331,
-      "title": "[cueweb] Add job progress tooltip",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
-      "updated_at": "2026-06-10T18:08:02Z"
-    },
-    {
-      "repo": "openclaw/openclaw",
-      "number": 87933,
-      "title": "fix(agents): suppress DeepSeek thinking for Foundry aliases",
-      "url": "https://github.com/openclaw/openclaw/pull/87933",
-      "updated_at": "2026-06-07T03:37:53Z"
-    },
-    {
-      "repo": "modelcontextprotocol/csharp-sdk",
-      "number": 1531,
-      "title": "perf(server): skip IdleTrackingBackgroundService timer in stateless mode",
-      "url": "https://github.com/modelcontextprotocol/csharp-sdk/pull/1531",
-      "updated_at": "2026-06-05T23:24:37Z"
+      "repo": "MukundaKatta/pricematch",
+      "number": 2,
+      "title": "chore: repo hardening (CI workflow)",
+      "url": "https://github.com/MukundaKatta/pricematch/pull/2",
+      "updated_at": "2026-06-13T16:13:51Z"
     },
     {
       "repo": "public-apis/public-apis",
       "number": 6087,
       "title": "Remove defunct API entries",
       "url": "https://github.com/public-apis/public-apis/pull/6087",
-      "updated_at": "2026-06-05T21:43:58Z"
+      "updated_at": "2026-06-13T16:04:03Z"
+    },
+    {
+      "repo": "MukundaKatta/tool-error-classify-rs",
+      "number": 3,
+      "title": "Fix undeclared serde feature, add .gitignore, integration tests & docs",
+      "url": "https://github.com/MukundaKatta/tool-error-classify-rs/pull/3",
+      "updated_at": "2026-06-13T15:36:50Z"
+    },
+    {
+      "repo": "MukundaKatta/agent-health-check-rs",
+      "number": 2,
+      "title": "Fix broken doctest, add status aggregation API, tests, and CI",
+      "url": "https://github.com/MukundaKatta/agent-health-check-rs/pull/2",
+      "updated_at": "2026-06-13T15:36:44Z"
+    },
+    {
+      "repo": "MukundaKatta/llm-response-cache-rs",
+      "number": 2,
+      "title": "Fix LRU semantics, harden edge cases, add CI",
+      "url": "https://github.com/MukundaKatta/llm-response-cache-rs/pull/2",
+      "updated_at": "2026-06-13T15:36:41Z"
+    },
+    {
+      "repo": "MukundaKatta/llm-mock-rs",
+      "number": 2,
+      "title": "Add CI, license, tests, and predicate/sequence matchers",
+      "url": "https://github.com/MukundaKatta/llm-mock-rs/pull/2",
+      "updated_at": "2026-06-13T15:36:38Z"
+    },
+    {
+      "repo": "MukundaKatta/agent-event-log-rs",
+      "number": 2,
+      "title": "feat: JSON serialization, metadata helpers, expanded tests & CI",
+      "url": "https://github.com/MukundaKatta/agent-event-log-rs/pull/2",
+      "updated_at": "2026-06-13T15:36:36Z"
+    },
+    {
+      "repo": "MukundaKatta/agent-epoch-counter-rs",
+      "number": 2,
+      "title": "chore: harden API (saturating counters), expand tests, add CI/LICENSE",
+      "url": "https://github.com/MukundaKatta/agent-epoch-counter-rs/pull/2",
+      "updated_at": "2026-06-13T15:36:32Z"
+    },
+    {
+      "repo": "MukundaKatta/secret-mask",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/secret-mask/pull/2",
+      "updated_at": "2026-06-13T15:36:29Z"
+    },
+    {
+      "repo": "MukundaKatta/rate-limit-class",
+      "number": 1,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/rate-limit-class/pull/1",
+      "updated_at": "2026-06-13T15:36:26Z"
+    },
+    {
+      "repo": "MukundaKatta/bedrock-production-stack",
+      "number": 1,
+      "title": "chore: repo hardening round 2 (github-actions dependabot)",
+      "url": "https://github.com/MukundaKatta/bedrock-production-stack/pull/1",
+      "updated_at": "2026-06-13T15:36:24Z"
+    },
+    {
+      "repo": "MukundaKatta/hermes-safety-rig",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/hermes-safety-rig/pull/2",
+      "updated_at": "2026-06-13T15:36:20Z"
+    },
+    {
+      "repo": "MukundaKatta/agentidemp-py",
+      "number": 1,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/agentidemp-py/pull/1",
+      "updated_at": "2026-06-13T15:36:18Z"
+    },
+    {
+      "repo": "MukundaKatta/tool-output-truncate-py",
+      "number": 1,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/tool-output-truncate-py/pull/1",
+      "updated_at": "2026-06-13T15:36:14Z"
+    },
+    {
+      "repo": "MukundaKatta/prompt-cache-warmer",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/prompt-cache-warmer/pull/2",
+      "updated_at": "2026-06-13T15:36:10Z"
+    },
+    {
+      "repo": "MukundaKatta/llm-fallback-router",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/llm-fallback-router/pull/2",
+      "updated_at": "2026-06-13T15:36:08Z"
+    },
+    {
+      "repo": "MukundaKatta/anthropic-batch-kit",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/anthropic-batch-kit/pull/2",
+      "updated_at": "2026-06-13T15:36:05Z"
+    },
+    {
+      "repo": "MukundaKatta/tool-loop-guard",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/tool-loop-guard/pull/2",
+      "updated_at": "2026-06-13T15:36:01Z"
+    },
+    {
+      "repo": "MukundaKatta/prompt-template-version",
+      "number": 2,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/prompt-template-version/pull/2",
+      "updated_at": "2026-06-13T15:35:58Z"
     }
   ]
 }

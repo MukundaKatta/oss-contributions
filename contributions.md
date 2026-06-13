@@ -25,23 +25,23 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
-- [apache/pulsar #25524](https://github.com/apache/pulsar/pull/25524): [fix] Fix typo 'seperated' in broker comments
-- [MukundaKatta/amogha-cafe #106](https://github.com/MukundaKatta/amogha-cafe/pull/106): ci(ios): set up Ruby before build step so cap sync's pod install finds gems
-- [MukundaKatta/amogha-cafe #105](https://github.com/MukundaKatta/amogha-cafe/pull/105): ci(ios): commit ios/App/Gemfile.lock to unblock TestFlight build
-- [MukundaKatta/amogha-cafe #104](https://github.com/MukundaKatta/amogha-cafe/pull/104): ci: bump release-ios and release-android to Node 22 (fixes TestFlight build)
-- [MukundaKatta/amogha-cafe #103](https://github.com/MukundaKatta/amogha-cafe/pull/103): test: fix CI auth-test flake (crypto.subtle.digest races fake timers)
-- [MukundaKatta/amogha-cafe #102](https://github.com/MukundaKatta/amogha-cafe/pull/102): Add in-app account deletion link (Apple 5.1.1(v))
-- [MukundaKatta/amogha-cafe #69](https://github.com/MukundaKatta/amogha-cafe/pull/69): fix(pos): silence "No printer name configured" toast on every bill print
-- [MukundaKatta/amogha-cafe #82](https://github.com/MukundaKatta/amogha-cafe/pull/82): fix(security): escape menu names in combo selector + meal plan (missed by #77)
-- [MukundaKatta/amogha-cafe #81](https://github.com/MukundaKatta/amogha-cafe/pull/81): ux(pwa): add apple-touch-icon to qr/track/loyalty + preconnect to loyalty
-- [MukundaKatta/amogha-cafe #80](https://github.com/MukundaKatta/amogha-cafe/pull/80): sec: add rel='noopener noreferrer' to all target=_blank links (reverse tabnabbing)
-- [MukundaKatta/amogha-cafe #79](https://github.com/MukundaKatta/amogha-cafe/pull/79): ux(a11y): add inputmode=numeric to all 10-digit phone inputs
-- [MukundaKatta/amogha-cafe #71](https://github.com/MukundaKatta/amogha-cafe/pull/71): fix(kitchen): show orders placed after IST midnight on KOT board
-- [MukundaKatta/amogha-cafe #70](https://github.com/MukundaKatta/amogha-cafe/pull/70): fix(security): escape menu item names in cart/qr/kiosk to close XSS holes
-- [MukundaKatta/amogha-cafe #84](https://github.com/MukundaKatta/amogha-cafe/pull/84): Fix session-clear bug in setCurrentUser + add test CI workflow
-- [MukundaKatta/amogha-cafe #83](https://github.com/MukundaKatta/amogha-cafe/pull/83): chore: repo hardening round 2 (Dependabot config)
-- [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
-- [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
-- [openclaw/openclaw #87933](https://github.com/openclaw/openclaw/pull/87933): fix(agents): suppress DeepSeek thinking for Foundry aliases
-- [modelcontextprotocol/csharp-sdk #1531](https://github.com/modelcontextprotocol/csharp-sdk/pull/1531): perf(server): skip IdleTrackingBackgroundService timer in stateless mode
+- [MukundaKatta/trace-field-normalize #3](https://github.com/MukundaKatta/trace-field-normalize/pull/3): Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup
+- [MukundaKatta/pricematch #2](https://github.com/MukundaKatta/pricematch/pull/2): chore: repo hardening (CI workflow)
 - [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
+- [MukundaKatta/tool-error-classify-rs #3](https://github.com/MukundaKatta/tool-error-classify-rs/pull/3): Fix undeclared serde feature, add .gitignore, integration tests & docs
+- [MukundaKatta/agent-health-check-rs #2](https://github.com/MukundaKatta/agent-health-check-rs/pull/2): Fix broken doctest, add status aggregation API, tests, and CI
+- [MukundaKatta/llm-response-cache-rs #2](https://github.com/MukundaKatta/llm-response-cache-rs/pull/2): Fix LRU semantics, harden edge cases, add CI
+- [MukundaKatta/llm-mock-rs #2](https://github.com/MukundaKatta/llm-mock-rs/pull/2): Add CI, license, tests, and predicate/sequence matchers
+- [MukundaKatta/agent-event-log-rs #2](https://github.com/MukundaKatta/agent-event-log-rs/pull/2): feat: JSON serialization, metadata helpers, expanded tests & CI
+- [MukundaKatta/agent-epoch-counter-rs #2](https://github.com/MukundaKatta/agent-epoch-counter-rs/pull/2): chore: harden API (saturating counters), expand tests, add CI/LICENSE
+- [MukundaKatta/secret-mask #2](https://github.com/MukundaKatta/secret-mask/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/rate-limit-class #1](https://github.com/MukundaKatta/rate-limit-class/pull/1): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/bedrock-production-stack #1](https://github.com/MukundaKatta/bedrock-production-stack/pull/1): chore: repo hardening round 2 (github-actions dependabot)
+- [MukundaKatta/hermes-safety-rig #2](https://github.com/MukundaKatta/hermes-safety-rig/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/agentidemp-py #1](https://github.com/MukundaKatta/agentidemp-py/pull/1): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/tool-output-truncate-py #1](https://github.com/MukundaKatta/tool-output-truncate-py/pull/1): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/prompt-cache-warmer #2](https://github.com/MukundaKatta/prompt-cache-warmer/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/llm-fallback-router #2](https://github.com/MukundaKatta/llm-fallback-router/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/anthropic-batch-kit #2](https://github.com/MukundaKatta/anthropic-batch-kit/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/tool-loop-guard #2](https://github.com/MukundaKatta/tool-loop-guard/pull/2): chore: repo hardening round 2 (Dependabot config)
+- [MukundaKatta/prompt-template-version #2](https://github.com/MukundaKatta/prompt-template-version/pull/2): chore: repo hardening round 2 (Dependabot config)
