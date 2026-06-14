@@ -25,9 +25,10 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
+- [MukundaKatta/bustrack #29](https://github.com/MukundaKatta/bustrack/pull/29): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/trace-field-normalize #3](https://github.com/MukundaKatta/trace-field-normalize/pull/3): Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup
 - [MukundaKatta/pricematch #2](https://github.com/MukundaKatta/pricematch/pull/2): chore: repo hardening (CI workflow)
-- [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
 - [MukundaKatta/tool-error-classify-rs #3](https://github.com/MukundaKatta/tool-error-classify-rs/pull/3): Fix undeclared serde feature, add .gitignore, integration tests & docs
 - [MukundaKatta/agent-health-check-rs #2](https://github.com/MukundaKatta/agent-health-check-rs/pull/2): Fix broken doctest, add status aggregation API, tests, and CI
 - [MukundaKatta/llm-response-cache-rs #2](https://github.com/MukundaKatta/llm-response-cache-rs/pull/2): Fix LRU semantics, harden edge cases, add CI
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/llm-fallback-router #2](https://github.com/MukundaKatta/llm-fallback-router/pull/2): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/anthropic-batch-kit #2](https://github.com/MukundaKatta/anthropic-batch-kit/pull/2): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/tool-loop-guard #2](https://github.com/MukundaKatta/tool-loop-guard/pull/2): chore: repo hardening round 2 (Dependabot config)
-- [MukundaKatta/prompt-template-version #2](https://github.com/MukundaKatta/prompt-template-version/pull/2): chore: repo hardening round 2 (Dependabot config)

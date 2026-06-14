@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "public-apis/public-apis",
+      "number": 6087,
+      "title": "Remove defunct API entries",
+      "url": "https://github.com/public-apis/public-apis/pull/6087",
+      "updated_at": "2026-06-14T00:59:08Z"
+    },
+    {
+      "repo": "MukundaKatta/bustrack",
+      "number": 29,
+      "title": "chore: repo hardening round 2 (Dependabot config)",
+      "url": "https://github.com/MukundaKatta/bustrack/pull/29",
+      "updated_at": "2026-06-13T18:00:14Z"
+    },
+    {
       "repo": "MukundaKatta/trace-field-normalize",
       "number": 3,
       "title": "Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup",
@@ -13,13 +27,6 @@
       "title": "chore: repo hardening (CI workflow)",
       "url": "https://github.com/MukundaKatta/pricematch/pull/2",
       "updated_at": "2026-06-13T16:13:51Z"
-    },
-    {
-      "repo": "public-apis/public-apis",
-      "number": 6087,
-      "title": "Remove defunct API entries",
-      "url": "https://github.com/public-apis/public-apis/pull/6087",
-      "updated_at": "2026-06-13T16:04:03Z"
     },
     {
       "repo": "MukundaKatta/tool-error-classify-rs",
@@ -132,13 +139,6 @@
       "title": "chore: repo hardening round 2 (Dependabot config)",
       "url": "https://github.com/MukundaKatta/tool-loop-guard/pull/2",
       "updated_at": "2026-06-13T15:36:01Z"
-    },
-    {
-      "repo": "MukundaKatta/prompt-template-version",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/prompt-template-version/pull/2",
-      "updated_at": "2026-06-13T15:35:58Z"
     }
   ]
 }
