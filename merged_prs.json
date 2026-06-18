@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "modelcontextprotocol/kotlin-sdk",
+      "number": 765,
+      "title": "fix: polish SEP-1577 sampling handling",
+      "url": "https://github.com/modelcontextprotocol/kotlin-sdk/pull/765",
+      "updated_at": "2026-06-17T17:11:24Z"
+    },
+    {
       "repo": "public-apis/public-apis",
       "number": 6087,
       "title": "Remove defunct API entries",
@@ -132,13 +139,6 @@
       "title": "chore: repo hardening round 2 (Dependabot config)",
       "url": "https://github.com/MukundaKatta/anthropic-batch-kit/pull/2",
       "updated_at": "2026-06-13T15:36:05Z"
-    },
-    {
-      "repo": "MukundaKatta/tool-loop-guard",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/tool-loop-guard/pull/2",
-      "updated_at": "2026-06-13T15:36:01Z"
     }
   ]
 }

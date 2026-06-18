@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [modelcontextprotocol/kotlin-sdk #765](https://github.com/modelcontextprotocol/kotlin-sdk/pull/765): fix: polish SEP-1577 sampling handling
 - [public-apis/public-apis #6087](https://github.com/public-apis/public-apis/pull/6087): Remove defunct API entries
 - [MukundaKatta/bustrack #29](https://github.com/MukundaKatta/bustrack/pull/29): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/trace-field-normalize #3](https://github.com/MukundaKatta/trace-field-normalize/pull/3): Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/prompt-cache-warmer #2](https://github.com/MukundaKatta/prompt-cache-warmer/pull/2): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/llm-fallback-router #2](https://github.com/MukundaKatta/llm-fallback-router/pull/2): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/anthropic-batch-kit #2](https://github.com/MukundaKatta/anthropic-batch-kit/pull/2): chore: repo hardening round 2 (Dependabot config)
-- [MukundaKatta/tool-loop-guard #2](https://github.com/MukundaKatta/tool-loop-guard/pull/2): chore: repo hardening round 2 (Dependabot config)
