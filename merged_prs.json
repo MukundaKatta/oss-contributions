@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "directus/directus",
+      "number": 27117,
+      "title": "Fix typos in test descriptions: 'occurence', 'propogate'",
+      "url": "https://github.com/directus/directus/pull/27117",
+      "updated_at": "2026-06-20T03:45:54Z"
+    },
+    {
       "repo": "modelcontextprotocol/kotlin-sdk",
       "number": 765,
       "title": "fix: polish SEP-1577 sampling handling",
@@ -132,13 +139,6 @@
       "title": "chore: repo hardening round 2 (Dependabot config)",
       "url": "https://github.com/MukundaKatta/llm-fallback-router/pull/2",
       "updated_at": "2026-06-13T15:36:08Z"
-    },
-    {
-      "repo": "MukundaKatta/anthropic-batch-kit",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/anthropic-batch-kit/pull/2",
-      "updated_at": "2026-06-13T15:36:05Z"
     }
   ]
 }
