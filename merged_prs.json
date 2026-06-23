@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2331,
+      "title": "[cueweb] Add job progress tooltip",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
+      "updated_at": "2026-06-23T01:45:04Z"
+    },
+    {
+      "repo": "AcademySoftwareFoundation/OpenCue",
+      "number": 2330,
+      "title": "[cueweb] Add frame state filter chips",
+      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
+      "updated_at": "2026-06-23T01:45:03Z"
+    },
+    {
       "repo": "directus/directus",
       "number": 27117,
       "title": "Fix typos in test descriptions: 'occurence', 'propogate'",
@@ -125,20 +139,6 @@
       "title": "chore: repo hardening round 2 (Dependabot config)",
       "url": "https://github.com/MukundaKatta/tool-output-truncate-py/pull/1",
       "updated_at": "2026-06-13T15:36:14Z"
-    },
-    {
-      "repo": "MukundaKatta/prompt-cache-warmer",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/prompt-cache-warmer/pull/2",
-      "updated_at": "2026-06-13T15:36:10Z"
-    },
-    {
-      "repo": "MukundaKatta/llm-fallback-router",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/llm-fallback-router/pull/2",
-      "updated_at": "2026-06-13T15:36:08Z"
     }
   ]
 }
