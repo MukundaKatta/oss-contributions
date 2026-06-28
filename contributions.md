@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [raycast/extensions #27932](https://github.com/raycast/extensions/pull/27932): Fix Todoist create task paid fields
 - [openai/openai-node #1880](https://github.com/openai/openai-node/pull/1880): docs: clarify supported zod schema features
 - [AcademySoftwareFoundation/OpenCue #2331](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331): [cueweb] Add job progress tooltip
 - [AcademySoftwareFoundation/OpenCue #2330](https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330): [cueweb] Add frame state filter chips
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/rate-limit-class #1](https://github.com/MukundaKatta/rate-limit-class/pull/1): chore: repo hardening round 2 (Dependabot config)
 - [MukundaKatta/bedrock-production-stack #1](https://github.com/MukundaKatta/bedrock-production-stack/pull/1): chore: repo hardening round 2 (github-actions dependabot)
 - [MukundaKatta/hermes-safety-rig #2](https://github.com/MukundaKatta/hermes-safety-rig/pull/2): chore: repo hardening round 2 (Dependabot config)
-- [MukundaKatta/agentidemp-py #1](https://github.com/MukundaKatta/agentidemp-py/pull/1): chore: repo hardening round 2 (Dependabot config)

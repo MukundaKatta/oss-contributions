@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "raycast/extensions",
+      "number": 27932,
+      "title": "Fix Todoist create task paid fields",
+      "url": "https://github.com/raycast/extensions/pull/27932",
+      "updated_at": "2026-06-28T09:46:34Z"
+    },
+    {
       "repo": "openai/openai-node",
       "number": 1880,
       "title": "docs: clarify supported zod schema features",
@@ -132,13 +139,6 @@
       "title": "chore: repo hardening round 2 (Dependabot config)",
       "url": "https://github.com/MukundaKatta/hermes-safety-rig/pull/2",
       "updated_at": "2026-06-13T15:36:20Z"
-    },
-    {
-      "repo": "MukundaKatta/agentidemp-py",
-      "number": 1,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/agentidemp-py/pull/1",
-      "updated_at": "2026-06-13T15:36:18Z"
     }
   ]
 }
