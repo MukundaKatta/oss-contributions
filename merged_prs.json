@@ -1,144 +1,144 @@
 {
   "recent_merged_prs": [
     {
-      "repo": "raycast/extensions",
-      "number": 27932,
-      "title": "Fix Todoist create task paid fields",
-      "url": "https://github.com/raycast/extensions/pull/27932",
-      "updated_at": "2026-06-28T09:46:34Z"
+      "repo": "denoland/deno_lint",
+      "number": 1487,
+      "title": "feat: add LintDiagnostic::severity",
+      "url": "https://github.com/denoland/deno_lint/pull/1487",
+      "updated_at": "2026-06-29T08:34:20Z"
     },
     {
-      "repo": "openai/openai-node",
-      "number": 1880,
-      "title": "docs: clarify supported zod schema features",
-      "url": "https://github.com/openai/openai-node/pull/1880",
-      "updated_at": "2026-06-24T18:12:00Z"
+      "repo": "MukundaKatta/karna",
+      "number": 640,
+      "title": "feat(web): bare empty-state variant + adopt on dashboard panels",
+      "url": "https://github.com/MukundaKatta/karna/pull/640",
+      "updated_at": "2026-06-29T07:54:19Z"
     },
     {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2331,
-      "title": "[cueweb] Add job progress tooltip",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2331",
-      "updated_at": "2026-06-23T01:45:04Z"
+      "repo": "MukundaKatta/karna",
+      "number": 639,
+      "title": "feat(web): shared EmptyState component for no-data views",
+      "url": "https://github.com/MukundaKatta/karna/pull/639",
+      "updated_at": "2026-06-29T07:45:15Z"
     },
     {
-      "repo": "AcademySoftwareFoundation/OpenCue",
-      "number": 2330,
-      "title": "[cueweb] Add frame state filter chips",
-      "url": "https://github.com/AcademySoftwareFoundation/OpenCue/pull/2330",
-      "updated_at": "2026-06-23T01:45:03Z"
+      "repo": "MukundaKatta/karna",
+      "number": 638,
+      "title": "feat(web): skeleton loading for evals, usage, observability",
+      "url": "https://github.com/MukundaKatta/karna/pull/638",
+      "updated_at": "2026-06-29T07:38:22Z"
     },
     {
-      "repo": "directus/directus",
-      "number": 27117,
-      "title": "Fix typos in test descriptions: 'occurence', 'propogate'",
-      "url": "https://github.com/directus/directus/pull/27117",
-      "updated_at": "2026-06-20T03:45:54Z"
+      "repo": "MukundaKatta/karna",
+      "number": 637,
+      "title": "feat(web): extend skeleton loading to agents and workflows",
+      "url": "https://github.com/MukundaKatta/karna/pull/637",
+      "updated_at": "2026-06-29T07:31:13Z"
     },
     {
-      "repo": "modelcontextprotocol/kotlin-sdk",
-      "number": 765,
-      "title": "fix: polish SEP-1577 sampling handling",
-      "url": "https://github.com/modelcontextprotocol/kotlin-sdk/pull/765",
-      "updated_at": "2026-06-17T17:11:24Z"
+      "repo": "MukundaKatta/karna",
+      "number": 636,
+      "title": "feat(web): shared Skeleton component + skeleton loading for catalogs",
+      "url": "https://github.com/MukundaKatta/karna/pull/636",
+      "updated_at": "2026-06-29T07:24:13Z"
     },
     {
-      "repo": "public-apis/public-apis",
-      "number": 6087,
-      "title": "Remove defunct API entries",
-      "url": "https://github.com/public-apis/public-apis/pull/6087",
-      "updated_at": "2026-06-14T00:59:08Z"
+      "repo": "MukundaKatta/karna",
+      "number": 635,
+      "title": "feat(web): sidebar accessibility pass \u2014 aria-current, labels, landmarks",
+      "url": "https://github.com/MukundaKatta/karna/pull/635",
+      "updated_at": "2026-06-29T07:17:16Z"
     },
     {
-      "repo": "MukundaKatta/bustrack",
-      "number": 29,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/bustrack/pull/29",
-      "updated_at": "2026-06-13T18:00:14Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 1001,
+      "title": "feat(ui): 18 new premium primitives \u2014 Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface",
+      "url": "https://github.com/MukundaKatta/artigen/pull/1001",
+      "updated_at": "2026-06-29T07:13:50Z"
     },
     {
-      "repo": "MukundaKatta/trace-field-normalize",
-      "number": 3,
-      "title": "Stdlib unittest suite, verbose API, file hardening, CI, and repo cleanup",
-      "url": "https://github.com/MukundaKatta/trace-field-normalize/pull/3",
-      "updated_at": "2026-06-13T16:13:55Z"
+      "repo": "MukundaKatta/karna",
+      "number": 634,
+      "title": "feat(web): a11y + motion polish for Modal, DataTable, ChatMessage",
+      "url": "https://github.com/MukundaKatta/karna/pull/634",
+      "updated_at": "2026-06-29T07:10:17Z"
     },
     {
-      "repo": "MukundaKatta/pricematch",
-      "number": 2,
-      "title": "chore: repo hardening (CI workflow)",
-      "url": "https://github.com/MukundaKatta/pricematch/pull/2",
-      "updated_at": "2026-06-13T16:13:51Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 39,
+      "title": "Premium UI wave 3: PWA, mobile theming, performance, component polish",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/39",
+      "updated_at": "2026-06-29T07:07:19Z"
     },
     {
-      "repo": "MukundaKatta/tool-error-classify-rs",
-      "number": 3,
-      "title": "Fix undeclared serde feature, add .gitignore, integration tests & docs",
-      "url": "https://github.com/MukundaKatta/tool-error-classify-rs/pull/3",
-      "updated_at": "2026-06-13T15:36:50Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 1096,
+      "title": "Premium UI: StatCard + Callout components and /model-cards page",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1096",
+      "updated_at": "2026-06-29T07:04:22Z"
     },
     {
-      "repo": "MukundaKatta/agent-health-check-rs",
-      "number": 2,
-      "title": "Fix broken doctest, add status aggregation API, tests, and CI",
-      "url": "https://github.com/MukundaKatta/agent-health-check-rs/pull/2",
-      "updated_at": "2026-06-13T15:36:44Z"
+      "repo": "MukundaKatta/karna",
+      "number": 633,
+      "title": "feat(web): premium UI polish \u2014 focus rings, reduced-motion, card/badge depth",
+      "url": "https://github.com/MukundaKatta/karna/pull/633",
+      "updated_at": "2026-06-29T07:02:14Z"
     },
     {
-      "repo": "MukundaKatta/llm-response-cache-rs",
-      "number": 2,
-      "title": "Fix LRU semantics, harden edge cases, add CI",
-      "url": "https://github.com/MukundaKatta/llm-response-cache-rs/pull/2",
-      "updated_at": "2026-06-13T15:36:41Z"
+      "repo": "MukundaKatta/artigen",
+      "number": 1000,
+      "title": "feat(ui): ~500 premium UI changes \u2014 design-system tokens + new primitives + component polish",
+      "url": "https://github.com/MukundaKatta/artigen/pull/1000",
+      "updated_at": "2026-06-29T07:01:33Z"
     },
     {
-      "repo": "MukundaKatta/llm-mock-rs",
-      "number": 2,
-      "title": "Add CI, license, tests, and predicate/sequence matchers",
-      "url": "https://github.com/MukundaKatta/llm-mock-rs/pull/2",
-      "updated_at": "2026-06-13T15:36:38Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 38,
+      "title": "Premium UI wave 2: scroll-spy nav, interactive project filter, site-wide polish",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/38",
+      "updated_at": "2026-06-29T06:58:29Z"
     },
     {
-      "repo": "MukundaKatta/agent-event-log-rs",
-      "number": 2,
-      "title": "feat: JSON serialization, metadata helpers, expanded tests & CI",
-      "url": "https://github.com/MukundaKatta/agent-event-log-rs/pull/2",
-      "updated_at": "2026-06-13T15:36:36Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 1095,
+      "title": "Premium UI: /insights page + ScoreRing component",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1095",
+      "updated_at": "2026-06-29T06:55:21Z"
     },
     {
-      "repo": "MukundaKatta/agent-epoch-counter-rs",
-      "number": 2,
-      "title": "chore: harden API (saturating counters), expand tests, add CI/LICENSE",
-      "url": "https://github.com/MukundaKatta/agent-epoch-counter-rs/pull/2",
-      "updated_at": "2026-06-13T15:36:32Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 1094,
+      "title": "Implement data-engineering logic (#866, #867, #868)",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1094",
+      "updated_at": "2026-06-29T06:55:11Z"
     },
     {
-      "repo": "MukundaKatta/secret-mask",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/secret-mask/pull/2",
-      "updated_at": "2026-06-13T15:36:29Z"
+      "repo": "MukundaKatta/chetana",
+      "number": 1093,
+      "title": "Premium UI: /reports page",
+      "url": "https://github.com/MukundaKatta/chetana/pull/1093",
+      "updated_at": "2026-06-29T06:41:49Z"
     },
     {
-      "repo": "MukundaKatta/rate-limit-class",
-      "number": 1,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/rate-limit-class/pull/1",
-      "updated_at": "2026-06-13T15:36:26Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 37,
+      "title": "Premium UI overhaul: command palette, cinematic intro, depth & motion",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/37",
+      "updated_at": "2026-06-29T06:41:24Z"
     },
     {
-      "repo": "MukundaKatta/bedrock-production-stack",
-      "number": 1,
-      "title": "chore: repo hardening round 2 (github-actions dependabot)",
-      "url": "https://github.com/MukundaKatta/bedrock-production-stack/pull/1",
-      "updated_at": "2026-06-13T15:36:24Z"
+      "repo": "MukundaKatta/karna",
+      "number": 631,
+      "title": "feat: mount gateway MCP server over HTTP, config-gated (#544)",
+      "url": "https://github.com/MukundaKatta/karna/pull/631",
+      "updated_at": "2026-06-29T06:39:19Z"
     },
     {
-      "repo": "MukundaKatta/hermes-safety-rig",
-      "number": 2,
-      "title": "chore: repo hardening round 2 (Dependabot config)",
-      "url": "https://github.com/MukundaKatta/hermes-safety-rig/pull/2",
-      "updated_at": "2026-06-13T15:36:20Z"
+      "repo": "MukundaKatta/mukunda-ai",
+      "number": 36,
+      "title": "Fix accessibility and robustness bugs from full-codebase audit",
+      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/36",
+      "updated_at": "2026-06-29T06:20:50Z"
     }
   ]
 }
