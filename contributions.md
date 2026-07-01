@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [uutils/sed #428](https://github.com/uutils/sed/pull/428): feat: add z command
 - [denoland/deno_lint #1487](https://github.com/denoland/deno_lint/pull/1487): feat: add LintDiagnostic::severity
 - [MukundaKatta/karna #640](https://github.com/MukundaKatta/karna/pull/640): feat(web): bare empty-state variant + adopt on dashboard panels
 - [MukundaKatta/karna #639](https://github.com/MukundaKatta/karna/pull/639): feat(web): shared EmptyState component for no-data views
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/chetana #1093](https://github.com/MukundaKatta/chetana/pull/1093): Premium UI: /reports page
 - [MukundaKatta/mukunda-ai #37](https://github.com/MukundaKatta/mukunda-ai/pull/37): Premium UI overhaul: command palette, cinematic intro, depth & motion
 - [MukundaKatta/karna #631](https://github.com/MukundaKatta/karna/pull/631): feat: mount gateway MCP server over HTTP, config-gated (#544)
-- [MukundaKatta/mukunda-ai #36](https://github.com/MukundaKatta/mukunda-ai/pull/36): Fix accessibility and robustness bugs from full-codebase audit

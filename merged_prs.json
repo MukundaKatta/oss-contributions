@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "uutils/sed",
+      "number": 428,
+      "title": "feat: add z command",
+      "url": "https://github.com/uutils/sed/pull/428",
+      "updated_at": "2026-07-01T09:51:11Z"
+    },
+    {
       "repo": "denoland/deno_lint",
       "number": 1487,
       "title": "feat: add LintDiagnostic::severity",
@@ -132,13 +139,6 @@
       "title": "feat: mount gateway MCP server over HTTP, config-gated (#544)",
       "url": "https://github.com/MukundaKatta/karna/pull/631",
       "updated_at": "2026-06-29T06:39:19Z"
-    },
-    {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 36,
-      "title": "Fix accessibility and robustness bugs from full-codebase audit",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/36",
-      "updated_at": "2026-06-29T06:20:50Z"
     }
   ]
 }
