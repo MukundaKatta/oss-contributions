@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openclaw/openclaw",
+      "number": 87937,
+      "title": "fix(browser): read Windows Chrome version from build dir in doctor",
+      "url": "https://github.com/openclaw/openclaw/pull/87937",
+      "updated_at": "2026-07-06T16:50:38Z"
+    },
+    {
       "repo": "uutils/sed",
       "number": 428,
       "title": "feat: add z command",
@@ -132,13 +139,6 @@
       "title": "Premium UI overhaul: command palette, cinematic intro, depth & motion",
       "url": "https://github.com/MukundaKatta/mukunda-ai/pull/37",
       "updated_at": "2026-06-29T06:41:24Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 631,
-      "title": "feat: mount gateway MCP server over HTTP, config-gated (#544)",
-      "url": "https://github.com/MukundaKatta/karna/pull/631",
-      "updated_at": "2026-06-29T06:39:19Z"
     }
   ]
 }

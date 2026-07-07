@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [openclaw/openclaw #87937](https://github.com/openclaw/openclaw/pull/87937): fix(browser): read Windows Chrome version from build dir in doctor
 - [uutils/sed #428](https://github.com/uutils/sed/pull/428): feat: add z command
 - [denoland/deno_lint #1487](https://github.com/denoland/deno_lint/pull/1487): feat: add LintDiagnostic::severity
 - [MukundaKatta/karna #640](https://github.com/MukundaKatta/karna/pull/640): feat(web): bare empty-state variant + adopt on dashboard panels
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/chetana #1094](https://github.com/MukundaKatta/chetana/pull/1094): Implement data-engineering logic (#866, #867, #868)
 - [MukundaKatta/chetana #1093](https://github.com/MukundaKatta/chetana/pull/1093): Premium UI: /reports page
 - [MukundaKatta/mukunda-ai #37](https://github.com/MukundaKatta/mukunda-ai/pull/37): Premium UI overhaul: command palette, cinematic intro, depth & motion
-- [MukundaKatta/karna #631](https://github.com/MukundaKatta/karna/pull/631): feat: mount gateway MCP server over HTTP, config-gated (#544)
