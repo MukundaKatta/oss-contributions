@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [modelcontextprotocol/csharp-sdk #1530](https://github.com/modelcontextprotocol/csharp-sdk/pull/1530): fix(client): preserve underlying status code in AutoDetect probe
+- [IDAES/idaes-pse #1779](https://github.com/IDAES/idaes-pse/pull/1779): docs(getting_started): fix 'get-extension' -> 'get-extensions' CLI name
 - [pymc-devs/pymc #8251](https://github.com/pymc-devs/pymc/pull/8251): Fix 'accomodate' typo in transform_value.py comment
 - [openclaw/openclaw #87937](https://github.com/openclaw/openclaw/pull/87937): fix(browser): read Windows Chrome version from build dir in doctor
 - [uutils/sed #428](https://github.com/uutils/sed/pull/428): feat: add z command
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/artigen #1000](https://github.com/MukundaKatta/artigen/pull/1000): feat(ui): ~500 premium UI changes — design-system tokens + new primitives + component polish
 - [MukundaKatta/mukunda-ai #38](https://github.com/MukundaKatta/mukunda-ai/pull/38): Premium UI wave 2: scroll-spy nav, interactive project filter, site-wide polish
 - [MukundaKatta/chetana #1095](https://github.com/MukundaKatta/chetana/pull/1095): Premium UI: /insights page + ScoreRing component
-- [MukundaKatta/chetana #1094](https://github.com/MukundaKatta/chetana/pull/1094): Implement data-engineering logic (#866, #867, #868)
-- [MukundaKatta/chetana #1093](https://github.com/MukundaKatta/chetana/pull/1093): Premium UI: /reports page

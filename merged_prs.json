@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "modelcontextprotocol/csharp-sdk",
+      "number": 1530,
+      "title": "fix(client): preserve underlying status code in AutoDetect probe",
+      "url": "https://github.com/modelcontextprotocol/csharp-sdk/pull/1530",
+      "updated_at": "2026-07-22T20:31:18Z"
+    },
+    {
+      "repo": "IDAES/idaes-pse",
+      "number": 1779,
+      "title": "docs(getting_started): fix 'get-extension' -> 'get-extensions' CLI name",
+      "url": "https://github.com/IDAES/idaes-pse/pull/1779",
+      "updated_at": "2026-07-22T20:14:52Z"
+    },
+    {
       "repo": "pymc-devs/pymc",
       "number": 8251,
       "title": "Fix 'accomodate' typo in transform_value.py comment",
@@ -125,20 +139,6 @@
       "title": "Premium UI: /insights page + ScoreRing component",
       "url": "https://github.com/MukundaKatta/chetana/pull/1095",
       "updated_at": "2026-06-29T06:55:21Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana",
-      "number": 1094,
-      "title": "Implement data-engineering logic (#866, #867, #868)",
-      "url": "https://github.com/MukundaKatta/chetana/pull/1094",
-      "updated_at": "2026-06-29T06:55:11Z"
-    },
-    {
-      "repo": "MukundaKatta/chetana",
-      "number": 1093,
-      "title": "Premium UI: /reports page",
-      "url": "https://github.com/MukundaKatta/chetana/pull/1093",
-      "updated_at": "2026-06-29T06:41:49Z"
     }
   ]
 }
