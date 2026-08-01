@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [uutils/sed #427](https://github.com/uutils/sed/pull/427): fix: allow commands before closing brace
 - [modelcontextprotocol/csharp-sdk #1530](https://github.com/modelcontextprotocol/csharp-sdk/pull/1530): fix(client): preserve underlying status code in AutoDetect probe
 - [IDAES/idaes-pse #1779](https://github.com/IDAES/idaes-pse/pull/1779): docs(getting_started): fix 'get-extension' -> 'get-extensions' CLI name
 - [pymc-devs/pymc #8251](https://github.com/pymc-devs/pymc/pull/8251): Fix 'accomodate' typo in transform_value.py comment
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #633](https://github.com/MukundaKatta/karna/pull/633): feat(web): premium UI polish — focus rings, reduced-motion, card/badge depth
 - [MukundaKatta/artigen #1000](https://github.com/MukundaKatta/artigen/pull/1000): feat(ui): ~500 premium UI changes — design-system tokens + new primitives + component polish
 - [MukundaKatta/mukunda-ai #38](https://github.com/MukundaKatta/mukunda-ai/pull/38): Premium UI wave 2: scroll-spy nav, interactive project filter, site-wide polish
-- [MukundaKatta/chetana #1095](https://github.com/MukundaKatta/chetana/pull/1095): Premium UI: /insights page + ScoreRing component
