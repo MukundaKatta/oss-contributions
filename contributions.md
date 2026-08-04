@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [vitest-dev/vitest #10358](https://github.com/vitest-dev/vitest/pull/10358): docs: mention xvfb for headful WebdriverIO Chrome
 - [uutils/sed #427](https://github.com/uutils/sed/pull/427): fix: allow commands before closing brace
 - [modelcontextprotocol/csharp-sdk #1530](https://github.com/modelcontextprotocol/csharp-sdk/pull/1530): fix(client): preserve underlying status code in AutoDetect probe
 - [IDAES/idaes-pse #1779](https://github.com/IDAES/idaes-pse/pull/1779): docs(getting_started): fix 'get-extension' -> 'get-extensions' CLI name
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/chetana #1096](https://github.com/MukundaKatta/chetana/pull/1096): Premium UI: StatCard + Callout components and /model-cards page
 - [MukundaKatta/karna #633](https://github.com/MukundaKatta/karna/pull/633): feat(web): premium UI polish — focus rings, reduced-motion, card/badge depth
 - [MukundaKatta/artigen #1000](https://github.com/MukundaKatta/artigen/pull/1000): feat(ui): ~500 premium UI changes — design-system tokens + new primitives + component polish
-- [MukundaKatta/mukunda-ai #38](https://github.com/MukundaKatta/mukunda-ai/pull/38): Premium UI wave 2: scroll-spy nav, interactive project filter, site-wide polish

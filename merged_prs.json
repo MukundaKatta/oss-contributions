@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "vitest-dev/vitest",
+      "number": 10358,
+      "title": "docs: mention xvfb for headful WebdriverIO Chrome",
+      "url": "https://github.com/vitest-dev/vitest/pull/10358",
+      "updated_at": "2026-08-04T00:26:51Z"
+    },
+    {
       "repo": "uutils/sed",
       "number": 427,
       "title": "fix: allow commands before closing brace",
@@ -132,13 +139,6 @@
       "title": "feat(ui): ~500 premium UI changes \u2014 design-system tokens + new primitives + component polish",
       "url": "https://github.com/MukundaKatta/artigen/pull/1000",
       "updated_at": "2026-06-29T07:01:33Z"
-    },
-    {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 38,
-      "title": "Premium UI wave 2: scroll-spy nav, interactive project filter, site-wide polish",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/38",
-      "updated_at": "2026-06-29T06:58:29Z"
     }
   ]
 }
