@@ -4,6 +4,9 @@ The generator module computes its input/output paths at import time from
 ``__file__``.  These tests import the module and redirect those module-level
 path constants at a temporary directory so the pure generation logic can be
 exercised without touching the real repository files.
+
+These tests use only the standard-library ``unittest`` framework and can be
+run with ``python3 -m unittest discover -s tests``.
 """
 
 from __future__ import annotations
@@ -11,9 +14,9 @@ from __future__ import annotations
 import importlib.util
 import json
 import sys
+import tempfile
+import unittest
 from pathlib import Path
-
-import pytest
 
 
 SCRIPTS_DIR = Path(__file__).resolve().parents[1] / "scripts"
@@ -29,20 +32,6 @@ def _load_generator():
     return module
 
 
-@pytest.fixture
-def generator(tmp_path, monkeypatch):
-    module = _load_generator()
-    data_dir = tmp_path / "data"
-    data_dir.mkdir()
-    monkeypatch.setattr(module, "ROOT", tmp_path)
-    monkeypatch.setattr(module, "DATA_FILE", data_dir / "selected_prs.json")
-    monkeypatch.setattr(module, "README_FILE", tmp_path / "README.md")
-    monkeypatch.setattr(module, "CONTRIBUTIONS_FILE", tmp_path / "contributions.md")
-    monkeypatch.setattr(module, "HIGHLIGHTS_FILE", tmp_path / "highlights.json")
-    monkeypatch.setattr(module, "MERGED_PRS_FILE", tmp_path / "merged_prs.json")
-    return module
-
-
 def _entry(area, repo, pr, title):
     return {
         "area": area,
@@ -53,109 +42,138 @@ def _entry(area, repo, pr, title):
     }
 
 
-def test_generates_all_files_with_grouped_sections(generator, tmp_path):
-    entries = [
-        _entry("SDKs", "octo/one", 1, "first fix"),
-        _entry("SDKs", "octo/two", 2, "second fix"),
-        _entry("Research", "uni/three", 3, "third fix"),
-    ]
-    generator.DATA_FILE.write_text(json.dumps(entries))
+class GenerateContributionsTest(unittest.TestCase):
+    def setUp(self) -> None:
+        self.module = _load_generator()
+        self._tmp = tempfile.TemporaryDirectory()
+        self.tmp_path = Path(self._tmp.name)
+        data_dir = self.tmp_path / "data"
+        data_dir.mkdir()
 
-    generator.main()
+        self.module.ROOT = self.tmp_path
+        self.module.DATA_FILE = data_dir / "selected_prs.json"
+        self.module.README_FILE = self.tmp_path / "README.md"
+        self.module.CONTRIBUTIONS_FILE = self.tmp_path / "contributions.md"
+        self.module.HIGHLIGHTS_FILE = self.tmp_path / "highlights.json"
+        self.module.MERGED_PRS_FILE = self.tmp_path / "merged_prs.json"
 
-    readme = (tmp_path / "README.md").read_text()
-    contributions = (tmp_path / "contributions.md").read_text()
-    highlights = json.loads((tmp_path / "highlights.json").read_text())
+    def tearDown(self) -> None:
+        self._tmp.cleanup()
+        sys.modules.pop("generate_contributions", None)
 
-    # Areas become section headings and entries become markdown bullets.
-    assert "### SDKs" in readme
-    assert "### Research" in readme
-    assert "[octo/one #1](https://github.com/octo/one/pull/1): first fix" in readme
-    assert "## SDKs" in contributions
-    assert (
-        "[uni/three #3](https://github.com/uni/three/pull/3): third fix"
-        in contributions
-    )
+    def test_generates_all_files_with_grouped_sections(self) -> None:
+        entries = [
+            _entry("SDKs", "octo/one", 1, "first fix"),
+            _entry("SDKs", "octo/two", 2, "second fix"),
+            _entry("Research", "uni/three", 3, "third fix"),
+        ]
+        self.module.DATA_FILE.write_text(json.dumps(entries))
 
-    # Highlights mirror the curated entries (capped at six).
-    assert [h["repo"] for h in highlights["highlights"]] == [
-        "octo/one",
-        "octo/two",
-        "uni/three",
-    ]
+        self.module.main()
 
+        readme = (self.tmp_path / "README.md").read_text()
+        contributions = (self.tmp_path / "contributions.md").read_text()
+        highlights = json.loads((self.tmp_path / "highlights.json").read_text())
 
-def test_highlights_capped_at_six(generator, tmp_path):
-    entries = [_entry("SDKs", f"octo/repo{i}", i, f"fix {i}") for i in range(10)]
-    generator.DATA_FILE.write_text(json.dumps(entries))
-
-    generator.main()
-
-    highlights = json.loads((tmp_path / "highlights.json").read_text())
-    assert len(highlights["highlights"]) == 6
-    assert [h["pr"] for h in highlights["highlights"]] == [0, 1, 2, 3, 4, 5]
-
-
-def test_recent_merged_prs_appended_when_present(generator, tmp_path):
-    generator.DATA_FILE.write_text(
-        json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
-    )
-    generator.MERGED_PRS_FILE.write_text(
-        json.dumps(
-            {
-                "recent_merged_prs": [
-                    {
-                        "repo": "big/proj",
-                        "number": 42,
-                        "title": "merged thing",
-                        "url": "https://github.com/big/proj/pull/42",
-                    }
-                ]
-            }
+        # Areas become section headings and entries become markdown bullets.
+        self.assertIn("### SDKs", readme)
+        self.assertIn("### Research", readme)
+        self.assertIn(
+            "[octo/one #1](https://github.com/octo/one/pull/1): first fix", readme
         )
-    )
+        self.assertIn("## SDKs", contributions)
+        self.assertIn(
+            "[uni/three #3](https://github.com/uni/three/pull/3): third fix",
+            contributions,
+        )
 
-    generator.main()
+        # Highlights mirror the curated entries (capped at six).
+        self.assertEqual(
+            [h["repo"] for h in highlights["highlights"]],
+            ["octo/one", "octo/two", "uni/three"],
+        )
 
-    contributions = (tmp_path / "contributions.md").read_text()
-    assert "## Recent Merged PRs" in contributions
-    assert (
-        "[big/proj #42](https://github.com/big/proj/pull/42): merged thing"
-        in contributions
-    )
+    def test_highlights_capped_at_six(self) -> None:
+        entries = [_entry("SDKs", f"octo/repo{i}", i, f"fix {i}") for i in range(10)]
+        self.module.DATA_FILE.write_text(json.dumps(entries))
+
+        self.module.main()
+
+        highlights = json.loads((self.tmp_path / "highlights.json").read_text())
+        self.assertEqual(len(highlights["highlights"]), 6)
+        self.assertEqual(
+            [h["pr"] for h in highlights["highlights"]], [0, 1, 2, 3, 4, 5]
+        )
+
+    def test_recent_merged_prs_appended_when_present(self) -> None:
+        self.module.DATA_FILE.write_text(
+            json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
+        )
+        self.module.MERGED_PRS_FILE.write_text(
+            json.dumps(
+                {
+                    "recent_merged_prs": [
+                        {
+                            "repo": "big/proj",
+                            "number": 42,
+                            "title": "merged thing",
+                            "url": "https://github.com/big/proj/pull/42",
+                        }
+                    ]
+                }
+            )
+        )
+
+        self.module.main()
+
+        contributions = (self.tmp_path / "contributions.md").read_text()
+        self.assertIn("## Recent Merged PRs", contributions)
+        self.assertIn(
+            "[big/proj #42](https://github.com/big/proj/pull/42): merged thing",
+            contributions,
+        )
+
+    def test_recent_merged_prs_section_absent_without_file(self) -> None:
+        self.module.DATA_FILE.write_text(
+            json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
+        )
+
+        self.module.main()
+
+        contributions = (self.tmp_path / "contributions.md").read_text()
+        self.assertNotIn("## Recent Merged PRs", contributions)
+
+    def test_empty_merged_prs_list_omits_section(self) -> None:
+        self.module.DATA_FILE.write_text(
+            json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
+        )
+        self.module.MERGED_PRS_FILE.write_text(
+            json.dumps({"recent_merged_prs": []})
+        )
+
+        self.module.main()
+
+        contributions = (self.tmp_path / "contributions.md").read_text()
+        self.assertNotIn("## Recent Merged PRs", contributions)
+
+    def test_main_is_idempotent(self) -> None:
+        self.module.DATA_FILE.write_text(
+            json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
+        )
+
+        self.module.main()
+        first = (
+            (self.tmp_path / "README.md").read_text(),
+            (self.tmp_path / "contributions.md").read_text(),
+        )
+        self.module.main()
+        second = (
+            (self.tmp_path / "README.md").read_text(),
+            (self.tmp_path / "contributions.md").read_text(),
+        )
+
+        self.assertEqual(first, second)
 
 
-def test_recent_merged_prs_section_absent_without_file(generator, tmp_path):
-    generator.DATA_FILE.write_text(
-        json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
-    )
-
-    generator.main()
-
-    contributions = (tmp_path / "contributions.md").read_text()
-    assert "## Recent Merged PRs" not in contributions
-
-
-def test_main_is_idempotent(generator, tmp_path):
-    generator.DATA_FILE.write_text(
-        json.dumps([_entry("SDKs", "octo/one", 1, "first fix")])
-    )
-
-    generator.main()
-    first = (
-        (tmp_path / "README.md").read_text(),
-        (tmp_path / "contributions.md").read_text(),
-    )
-    generator.main()
-    second = (
-        (tmp_path / "README.md").read_text(),
-        (tmp_path / "contributions.md").read_text(),
-    )
-
-    assert first == second
-
-
-@pytest.fixture(autouse=True)
-def _cleanup_module():
-    yield
-    sys.modules.pop("generate_contributions", None)
+if __name__ == "__main__":
+    unittest.main()

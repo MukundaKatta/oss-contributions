@@ -1,3 +1,17 @@
+"""Regenerate the human-readable contribution files from curated data.
+
+``data/selected_prs.json`` is the curated source of truth for featured
+contributions. This module groups those entries by ``area`` and renders:
+
+* ``README.md`` — the "Selected Contributions" section, from a template.
+* ``contributions.md`` — the full contribution log, optionally appended with
+  the recently merged PRs produced by :mod:`fetch_merged_prs`.
+* ``highlights.json`` — the first six curated entries, for downstream embeds.
+
+The generator is deterministic and idempotent: running it twice against the
+same inputs produces byte-identical output.
+"""
+
 from __future__ import annotations
 
 import json
@@ -48,16 +62,61 @@ Most of my contributions are small, practical fixes spread across many repositor
 
 See [contributions.md](./contributions.md) for a running list of selected PRs.
 
-## Automation
+## Repository Layout
 
-This repo now treats `data/selected_prs.json` as the curated source of truth for featured contributions, and `merged_prs.json` as the generated source for the recent merged PR log. Run:
+| Path | Purpose |
+| --- | --- |
+| `data/selected_prs.json` | Curated source of truth for featured contributions (hand-edited). |
+| `scripts/fetch_merged_prs.py` | Calls the GitHub search API and writes `merged_prs.json`. |
+| `scripts/generate_contributions.py` | Renders `README.md`, `contributions.md`, and `highlights.json`. |
+| `merged_prs.json` | Generated: the most recent merged PRs authored upstream. |
+| `highlights.json` | Generated: the first six curated entries, for downstream embeds. |
+| `tests/` | Standard-library `unittest` tests for both scripts. |
+
+## How It Works
+
+`data/selected_prs.json` is the only file edited by hand. Each entry groups under
+an `area` and the generator turns those groups into the **Selected Contributions**
+section above and the full log in `contributions.md`. If a `merged_prs.json` file
+is present, its entries are appended to `contributions.md` under
+**Recent Merged PRs**. The generator is deterministic and idempotent, so running
+it twice produces identical output.
+
+### Data Schema
+
+Each object in `data/selected_prs.json` has the following fields:
+
+| Field | Type | Description |
+| --- | --- | --- |
+| `area` | string | Section heading the entry is grouped under. |
+| `repo` | string | `owner/name` of the upstream repository. |
+| `pr` | integer | Pull-request number. |
+| `title` | string | Short description of the contribution. |
+| `url` | string | Link to the merged pull request. |
+
+## Running Locally
+
+No third-party dependencies are required to regenerate the contribution files:
 
 ```bash
-python3 scripts/fetch_merged_prs.py   # requires GITHUB_TOKEN
+# Optional: refresh the recent merged-PR log (needs a GitHub token).
+GITHUB_TOKEN=ghp_... python3 scripts/fetch_merged_prs.py
+
+# Always safe to run; rewrites README.md, contributions.md, highlights.json.
 python3 scripts/generate_contributions.py
 ```
 
-to refresh `README.md`, `contributions.md`, `highlights.json`, and `merged_prs.json`.
+`fetch_merged_prs.py` requires `GITHUB_TOKEN` (or `GH_TOKEN`); the GitHub search
+API rejects the query when unauthenticated.
+
+## Tests
+
+The test suite uses only the Python standard library (`unittest`) and needs no
+installs:
+
+```bash
+python3 -m unittest discover -s tests -v
+```
 
 ## Connect
 
@@ -68,6 +127,7 @@ to refresh `README.md`, `contributions.md`, `highlights.json`, and `merged_prs.j
 
 
 def main() -> None:
+    """Read the curated data and (re)write all generated contribution files."""
     entries = json.loads(DATA_FILE.read_text())
     by_area: dict[str, list[dict]] = defaultdict(list)
     for entry in entries:
