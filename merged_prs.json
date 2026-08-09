@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "uutils/sed",
+      "number": 435,
+      "title": "fix: identify uutils in cli output",
+      "url": "https://github.com/uutils/sed/pull/435",
+      "updated_at": "2026-08-08T22:55:37Z"
+    },
+    {
       "repo": "vitest-dev/vitest",
       "number": 10358,
       "title": "docs: mention xvfb for headful WebdriverIO Chrome",
@@ -132,13 +139,6 @@
       "title": "feat(web): premium UI polish \u2014 focus rings, reduced-motion, card/badge depth",
       "url": "https://github.com/MukundaKatta/karna/pull/633",
       "updated_at": "2026-06-29T07:02:14Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 1000,
-      "title": "feat(ui): ~500 premium UI changes \u2014 design-system tokens + new primitives + component polish",
-      "url": "https://github.com/MukundaKatta/artigen/pull/1000",
-      "updated_at": "2026-06-29T07:01:33Z"
     }
   ]
 }
