@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [Open-ISP/isp-workbook-parser #81](https://github.com/Open-ISP/isp-workbook-parser/pull/81): fix(7.5): rename CNSW-NNSW table to match plural 'costs_' prefix
 - [uutils/sed #435](https://github.com/uutils/sed/pull/435): fix: identify uutils in cli output
 - [vitest-dev/vitest #10358](https://github.com/vitest-dev/vitest/pull/10358): docs: mention xvfb for headful WebdriverIO Chrome
 - [uutils/sed #427](https://github.com/uutils/sed/pull/427): fix: allow commands before closing brace
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #634](https://github.com/MukundaKatta/karna/pull/634): feat(web): a11y + motion polish for Modal, DataTable, ChatMessage
 - [MukundaKatta/mukunda-ai #39](https://github.com/MukundaKatta/mukunda-ai/pull/39): Premium UI wave 3: PWA, mobile theming, performance, component polish
 - [MukundaKatta/chetana #1096](https://github.com/MukundaKatta/chetana/pull/1096): Premium UI: StatCard + Callout components and /model-cards page
-- [MukundaKatta/karna #633](https://github.com/MukundaKatta/karna/pull/633): feat(web): premium UI polish — focus rings, reduced-motion, card/badge depth

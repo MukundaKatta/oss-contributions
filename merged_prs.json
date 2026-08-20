@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "Open-ISP/isp-workbook-parser",
+      "number": 81,
+      "title": "fix(7.5): rename CNSW-NNSW table to match plural 'costs_' prefix",
+      "url": "https://github.com/Open-ISP/isp-workbook-parser/pull/81",
+      "updated_at": "2026-08-20T00:01:14Z"
+    },
+    {
       "repo": "uutils/sed",
       "number": 435,
       "title": "fix: identify uutils in cli output",
@@ -132,13 +139,6 @@
       "title": "Premium UI: StatCard + Callout components and /model-cards page",
       "url": "https://github.com/MukundaKatta/chetana/pull/1096",
       "updated_at": "2026-06-29T07:04:22Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 633,
-      "title": "feat(web): premium UI polish \u2014 focus rings, reduced-motion, card/badge depth",
-      "url": "https://github.com/MukundaKatta/karna/pull/633",
-      "updated_at": "2026-06-29T07:02:14Z"
     }
   ]
 }
