@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "modelcontextprotocol/typescript-sdk",
+      "number": 1972,
+      "title": "fix(auth): preserve resource URI without trailing slash (#1968)",
+      "url": "https://github.com/modelcontextprotocol/typescript-sdk/pull/1972",
+      "updated_at": "2026-09-03T17:22:17Z"
+    },
+    {
       "repo": "bobluppes/graaf",
       "number": 313,
       "title": "docs: fix Bron-Kerbosch link",
@@ -132,13 +139,6 @@
       "title": "feat(web): a11y + motion polish for Modal, DataTable, ChatMessage",
       "url": "https://github.com/MukundaKatta/karna/pull/634",
       "updated_at": "2026-06-29T07:10:17Z"
-    },
-    {
-      "repo": "MukundaKatta/mukunda-ai",
-      "number": 39,
-      "title": "Premium UI wave 3: PWA, mobile theming, performance, component polish",
-      "url": "https://github.com/MukundaKatta/mukunda-ai/pull/39",
-      "updated_at": "2026-06-29T07:07:19Z"
     }
   ]
 }

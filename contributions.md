@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [modelcontextprotocol/typescript-sdk #1972](https://github.com/modelcontextprotocol/typescript-sdk/pull/1972): fix(auth): preserve resource URI without trailing slash (#1968)
 - [bobluppes/graaf #313](https://github.com/bobluppes/graaf/pull/313): docs: fix Bron-Kerbosch link
 - [Open-ISP/isp-workbook-parser #81](https://github.com/Open-ISP/isp-workbook-parser/pull/81): fix(7.5): rename CNSW-NNSW table to match plural 'costs_' prefix
 - [uutils/sed #435](https://github.com/uutils/sed/pull/435): fix: identify uutils in cli output
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #635](https://github.com/MukundaKatta/karna/pull/635): feat(web): sidebar accessibility pass — aria-current, labels, landmarks
 - [MukundaKatta/artigen #1001](https://github.com/MukundaKatta/artigen/pull/1001): feat(ui): 18 new premium primitives — Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface
 - [MukundaKatta/karna #634](https://github.com/MukundaKatta/karna/pull/634): feat(web): a11y + motion polish for Modal, DataTable, ChatMessage
-- [MukundaKatta/mukunda-ai #39](https://github.com/MukundaKatta/mukunda-ai/pull/39): Premium UI wave 3: PWA, mobile theming, performance, component polish
