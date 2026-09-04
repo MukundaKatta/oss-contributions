@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [microsoft/markitdown #1882](https://github.com/microsoft/markitdown/pull/1882): Support short YouTube URLs
 - [modelcontextprotocol/typescript-sdk #1972](https://github.com/modelcontextprotocol/typescript-sdk/pull/1972): fix(auth): preserve resource URI without trailing slash (#1968)
 - [bobluppes/graaf #313](https://github.com/bobluppes/graaf/pull/313): docs: fix Bron-Kerbosch link
 - [Open-ISP/isp-workbook-parser #81](https://github.com/Open-ISP/isp-workbook-parser/pull/81): fix(7.5): rename CNSW-NNSW table to match plural 'costs_' prefix
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #636](https://github.com/MukundaKatta/karna/pull/636): feat(web): shared Skeleton component + skeleton loading for catalogs
 - [MukundaKatta/karna #635](https://github.com/MukundaKatta/karna/pull/635): feat(web): sidebar accessibility pass — aria-current, labels, landmarks
 - [MukundaKatta/artigen #1001](https://github.com/MukundaKatta/artigen/pull/1001): feat(ui): 18 new premium primitives — Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface
-- [MukundaKatta/karna #634](https://github.com/MukundaKatta/karna/pull/634): feat(web): a11y + motion polish for Modal, DataTable, ChatMessage

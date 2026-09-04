@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "microsoft/markitdown",
+      "number": 1882,
+      "title": "Support short YouTube URLs",
+      "url": "https://github.com/microsoft/markitdown/pull/1882",
+      "updated_at": "2026-09-03T19:22:35Z"
+    },
+    {
       "repo": "modelcontextprotocol/typescript-sdk",
       "number": 1972,
       "title": "fix(auth): preserve resource URI without trailing slash (#1968)",
@@ -132,13 +139,6 @@
       "title": "feat(ui): 18 new premium primitives \u2014 Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface",
       "url": "https://github.com/MukundaKatta/artigen/pull/1001",
       "updated_at": "2026-06-29T07:13:50Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 634,
-      "title": "feat(web): a11y + motion polish for Modal, DataTable, ChatMessage",
-      "url": "https://github.com/MukundaKatta/karna/pull/634",
-      "updated_at": "2026-06-29T07:10:17Z"
     }
   ]
 }
