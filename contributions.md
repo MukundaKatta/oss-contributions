@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [openai/openai-python #3088](https://github.com/openai/openai-python/pull/3088): fix(parsing): drop TextFormatT parameterization in parse_response to fix memory leak (#3084)
 - [microsoft/markitdown #1882](https://github.com/microsoft/markitdown/pull/1882): Support short YouTube URLs
 - [modelcontextprotocol/typescript-sdk #1972](https://github.com/modelcontextprotocol/typescript-sdk/pull/1972): fix(auth): preserve resource URI without trailing slash (#1968)
 - [bobluppes/graaf #313](https://github.com/bobluppes/graaf/pull/313): docs: fix Bron-Kerbosch link
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #637](https://github.com/MukundaKatta/karna/pull/637): feat(web): extend skeleton loading to agents and workflows
 - [MukundaKatta/karna #636](https://github.com/MukundaKatta/karna/pull/636): feat(web): shared Skeleton component + skeleton loading for catalogs
 - [MukundaKatta/karna #635](https://github.com/MukundaKatta/karna/pull/635): feat(web): sidebar accessibility pass — aria-current, labels, landmarks
-- [MukundaKatta/artigen #1001](https://github.com/MukundaKatta/artigen/pull/1001): feat(ui): 18 new premium primitives — Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface

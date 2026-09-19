@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "openai/openai-python",
+      "number": 3088,
+      "title": "fix(parsing): drop TextFormatT parameterization in parse_response to fix memory leak (#3084)",
+      "url": "https://github.com/openai/openai-python/pull/3088",
+      "updated_at": "2026-09-18T21:17:14Z"
+    },
+    {
       "repo": "microsoft/markitdown",
       "number": 1882,
       "title": "Support short YouTube URLs",
@@ -132,13 +139,6 @@
       "title": "feat(web): sidebar accessibility pass \u2014 aria-current, labels, landmarks",
       "url": "https://github.com/MukundaKatta/karna/pull/635",
       "updated_at": "2026-06-29T07:17:16Z"
-    },
-    {
-      "repo": "MukundaKatta/artigen",
-      "number": 1001,
-      "title": "feat(ui): 18 new premium primitives \u2014 Switch, ProgressBar, SegmentedTabs, Tag, Banner, Spinner, ScreenContainer, PageHeader, ListItem, IconButton, KeyValue, InfoTile, PriceTag, Toaster, Checkbox, RadioGroup, Stepper, Surface",
-      "url": "https://github.com/MukundaKatta/artigen/pull/1001",
-      "updated_at": "2026-06-29T07:13:50Z"
     }
   ]
 }
