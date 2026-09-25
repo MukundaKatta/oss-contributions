@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "juhaku/utoipa",
+      "number": 1554,
+      "title": "Fix unsigned integer known format serialization",
+      "url": "https://github.com/juhaku/utoipa/pull/1554",
+      "updated_at": "2026-09-24T22:23:12Z"
+    },
+    {
       "repo": "openai/openai-python",
       "number": 3088,
       "title": "fix(parsing): drop TextFormatT parameterization in parse_response to fix memory leak (#3084)",
@@ -132,13 +139,6 @@
       "title": "feat(web): shared Skeleton component + skeleton loading for catalogs",
       "url": "https://github.com/MukundaKatta/karna/pull/636",
       "updated_at": "2026-06-29T07:24:13Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 635,
-      "title": "feat(web): sidebar accessibility pass \u2014 aria-current, labels, landmarks",
-      "url": "https://github.com/MukundaKatta/karna/pull/635",
-      "updated_at": "2026-06-29T07:17:16Z"
     }
   ]
 }

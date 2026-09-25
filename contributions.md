@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [juhaku/utoipa #1554](https://github.com/juhaku/utoipa/pull/1554): Fix unsigned integer known format serialization
 - [openai/openai-python #3088](https://github.com/openai/openai-python/pull/3088): fix(parsing): drop TextFormatT parameterization in parse_response to fix memory leak (#3084)
 - [microsoft/markitdown #1882](https://github.com/microsoft/markitdown/pull/1882): Support short YouTube URLs
 - [modelcontextprotocol/typescript-sdk #1972](https://github.com/modelcontextprotocol/typescript-sdk/pull/1972): fix(auth): preserve resource URI without trailing slash (#1968)
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #638](https://github.com/MukundaKatta/karna/pull/638): feat(web): skeleton loading for evals, usage, observability
 - [MukundaKatta/karna #637](https://github.com/MukundaKatta/karna/pull/637): feat(web): extend skeleton loading to agents and workflows
 - [MukundaKatta/karna #636](https://github.com/MukundaKatta/karna/pull/636): feat(web): shared Skeleton component + skeleton loading for catalogs
-- [MukundaKatta/karna #635](https://github.com/MukundaKatta/karna/pull/635): feat(web): sidebar accessibility pass — aria-current, labels, landmarks
