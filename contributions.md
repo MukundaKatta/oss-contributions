@@ -25,6 +25,8 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [saltstack/salt #68943](https://github.com/saltstack/salt/pull/68943): fix: correct 'occured'/'recieve' typos in log messages
+- [shap/shap #4757](https://github.com/shap/shap/pull/4757): docs: fix typo 'appropreiate' -> 'appropriate' in benchmark docstring
 - [juhaku/utoipa #1554](https://github.com/juhaku/utoipa/pull/1554): Fix unsigned integer known format serialization
 - [openai/openai-python #3088](https://github.com/openai/openai-python/pull/3088): fix(parsing): drop TextFormatT parameterization in parse_response to fix memory leak (#3084)
 - [microsoft/markitdown #1882](https://github.com/microsoft/markitdown/pull/1882): Support short YouTube URLs
@@ -43,5 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [MukundaKatta/karna #640](https://github.com/MukundaKatta/karna/pull/640): feat(web): bare empty-state variant + adopt on dashboard panels
 - [MukundaKatta/karna #639](https://github.com/MukundaKatta/karna/pull/639): feat(web): shared EmptyState component for no-data views
 - [MukundaKatta/karna #638](https://github.com/MukundaKatta/karna/pull/638): feat(web): skeleton loading for evals, usage, observability
-- [MukundaKatta/karna #637](https://github.com/MukundaKatta/karna/pull/637): feat(web): extend skeleton loading to agents and workflows
-- [MukundaKatta/karna #636](https://github.com/MukundaKatta/karna/pull/636): feat(web): shared Skeleton component + skeleton loading for catalogs

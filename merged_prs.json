@@ -1,6 +1,20 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "saltstack/salt",
+      "number": 68943,
+      "title": "fix: correct 'occured'/'recieve' typos in log messages",
+      "url": "https://github.com/saltstack/salt/pull/68943",
+      "updated_at": "2026-10-30T08:29:19Z"
+    },
+    {
+      "repo": "shap/shap",
+      "number": 4757,
+      "title": "docs: fix typo 'appropreiate' -> 'appropriate' in benchmark docstring",
+      "url": "https://github.com/shap/shap/pull/4757",
+      "updated_at": "2026-10-30T07:59:47Z"
+    },
+    {
       "repo": "juhaku/utoipa",
       "number": 1554,
       "title": "Fix unsigned integer known format serialization",
@@ -125,20 +139,6 @@
       "title": "feat(web): skeleton loading for evals, usage, observability",
       "url": "https://github.com/MukundaKatta/karna/pull/638",
       "updated_at": "2026-06-29T07:38:22Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 637,
-      "title": "feat(web): extend skeleton loading to agents and workflows",
-      "url": "https://github.com/MukundaKatta/karna/pull/637",
-      "updated_at": "2026-06-29T07:31:13Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 636,
-      "title": "feat(web): shared Skeleton component + skeleton loading for catalogs",
-      "url": "https://github.com/MukundaKatta/karna/pull/636",
-      "updated_at": "2026-06-29T07:24:13Z"
     }
   ]
 }
