@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [Vvkmnn/awesome-ai-eval #11](https://github.com/Vvkmnn/awesome-ai-eval/pull/11): Tools: add AI Eval Forge (Core) and Agent Stack (Agent Harnesses)
 - [saltstack/salt #68943](https://github.com/saltstack/salt/pull/68943): fix: correct 'occured'/'recieve' typos in log messages
 - [shap/shap #4757](https://github.com/shap/shap/pull/4757): docs: fix typo 'appropreiate' -> 'appropriate' in benchmark docstring
 - [juhaku/utoipa #1554](https://github.com/juhaku/utoipa/pull/1554): Fix unsigned integer known format serialization
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [denoland/deno_lint #1487](https://github.com/denoland/deno_lint/pull/1487): feat: add LintDiagnostic::severity
 - [MukundaKatta/karna #640](https://github.com/MukundaKatta/karna/pull/640): feat(web): bare empty-state variant + adopt on dashboard panels
 - [MukundaKatta/karna #639](https://github.com/MukundaKatta/karna/pull/639): feat(web): shared EmptyState component for no-data views
-- [MukundaKatta/karna #638](https://github.com/MukundaKatta/karna/pull/638): feat(web): skeleton loading for evals, usage, observability

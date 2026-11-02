@@ -1,6 +1,13 @@
 {
   "recent_merged_prs": [
     {
+      "repo": "Vvkmnn/awesome-ai-eval",
+      "number": 11,
+      "title": "Tools: add AI Eval Forge (Core) and Agent Stack (Agent Harnesses)",
+      "url": "https://github.com/Vvkmnn/awesome-ai-eval/pull/11",
+      "updated_at": "2026-11-01T19:21:40Z"
+    },
+    {
       "repo": "saltstack/salt",
       "number": 68943,
       "title": "fix: correct 'occured'/'recieve' typos in log messages",
@@ -132,13 +139,6 @@
       "title": "feat(web): shared EmptyState component for no-data views",
       "url": "https://github.com/MukundaKatta/karna/pull/639",
       "updated_at": "2026-06-29T07:45:15Z"
-    },
-    {
-      "repo": "MukundaKatta/karna",
-      "number": 638,
-      "title": "feat(web): skeleton loading for evals, usage, observability",
-      "url": "https://github.com/MukundaKatta/karna/pull/638",
-      "updated_at": "2026-06-29T07:38:22Z"
     }
   ]
 }
