@@ -25,6 +25,7 @@ Curated PR log generated from `data/selected_prs.json`.
 
 ## Recent Merged PRs
 
+- [charmbracelet/lipgloss #665](https://github.com/charmbracelet/lipgloss/pull/665): Inline: replace newlines with a space, not empty string
 - [aws/aws-cdk #37991](https://github.com/aws/aws-cdk/pull/37991): docs(sns): expand grant* JSDoc with granted actions
 - [Vvkmnn/awesome-ai-eval #11](https://github.com/Vvkmnn/awesome-ai-eval/pull/11): Tools: add AI Eval Forge (Core) and Agent Stack (Agent Harnesses)
 - [saltstack/salt #68943](https://github.com/saltstack/salt/pull/68943): fix: correct 'occured'/'recieve' typos in log messages
@@ -44,4 +45,3 @@ Curated PR log generated from `data/selected_prs.json`.
 - [openclaw/openclaw #87937](https://github.com/openclaw/openclaw/pull/87937): fix(browser): read Windows Chrome version from build dir in doctor
 - [uutils/sed #428](https://github.com/uutils/sed/pull/428): feat: add z command
 - [denoland/deno_lint #1487](https://github.com/denoland/deno_lint/pull/1487): feat: add LintDiagnostic::severity
-- [MukundaKatta/karna #640](https://github.com/MukundaKatta/karna/pull/640): feat(web): bare empty-state variant + adopt on dashboard panels
